@@ -1,0 +1,209 @@
+include::./index.adoc[]
+
+[[v19-18-0]]
+=== Salmos, 18
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v19-18-1]]
+
+^<<v19-18-1,1>>^ Eu te amo, ó SENHOR, força minha.
+
+[[v19-18-2]]
+
+^<<v19-18-2,2>>^ O SENHOR é a minha rocha, a minha cidadela, o meu libertador; o meu Deus, o meu rochedo em que me refugio; o meu escudo, a força da minha salvação, o meu baluarte.
+
+[[v19-18-3]]
+
+^<<v19-18-3,3>>^ Invoco o SENHOR, digno de ser louvado, e serei salvo dos meus inimigos.
+
+[[v19-18-4]]
+
+^<<v19-18-4,4>>^ Laços de morte me cercaram, torrentes de impiedade me impuseram terror.
+
+[[v19-18-5]]
+
+^<<v19-18-5,5>>^ Cadeias infernais me cingiram, e tramas de morte me surpreenderam.
+
+[[v19-18-6]]
+
+^<<v19-18-6,6>>^ Na minha angústia, invoquei o SENHOR, gritei por socorro ao meu Deus. Ele do seu templo ouviu a minha voz, e o meu clamor lhe penetrou os ouvidos.
+
+[[v19-18-7]]
+
+^<<v19-18-7,7>>^ Então, a terra se abalou e tremeu, vacilaram também os fundamentos dos montes e se estremeceram, porque ele se indignou.
+
+[[v19-18-8]]
+
+^<<v19-18-8,8>>^ Das suas narinas subiu fumaça, e fogo devorador, da sua boca; dele saíram brasas ardentes.
+
+[[v19-18-9]]
+
+^<<v19-18-9,9>>^ Baixou ele os céus, e desceu, e teve sob os pés densa escuridão.
+
+[[v19-18-10]]
+
+^<<v19-18-10,10>>^ Cavalgava um querubim e voou; sim, levado velozmente nas asas do vento.
+
+[[v19-18-11]]
+
+^<<v19-18-11,11>>^ Das trevas fez um manto em que se ocultou; escuridade de águas e espessas nuvens dos céus eram o seu pavilhão.
+
+[[v19-18-12]]
+
+^<<v19-18-12,12>>^ Do resplendor que diante dele havia, as densas nuvens se desfizeram em granizo e brasas chamejantes.
+
+[[v19-18-13]]
+
+^<<v19-18-13,13>>^ Trovejou, então, o SENHOR, nos céus; o Altíssimo levantou a voz, e houve granizo e brasas de fogo.
+
+[[v19-18-14]]
+
+^<<v19-18-14,14>>^ Despediu as suas setas e espalhou os meus inimigos, multiplicou os seus raios e os desbaratou.
+
+[[v19-18-15]]
+
+^<<v19-18-15,15>>^ Então, se viu o leito das águas, e se descobriram os fundamentos do mundo, pela tua repreensão, SENHOR, pelo iroso resfolgar das tuas narinas.
+
+[[v19-18-16]]
+
+^<<v19-18-16,16>>^ Do alto me estendeu ele a mão e me tomou; tirou-me das muitas águas.
+
+[[v19-18-17]]
+
+^<<v19-18-17,17>>^ Livrou-me de forte inimigo e dos que me aborreciam, pois eram mais poderosos do que eu.
+
+[[v19-18-18]]
+
+^<<v19-18-18,18>>^ Assaltaram-me no dia da minha calamidade, mas o SENHOR me serviu de amparo.
+
+[[v19-18-19]]
+
+^<<v19-18-19,19>>^ Trouxe-me para um lugar espaçoso; livrou-me, porque ele se agradou de mim.
+
+[[v19-18-20]]
+
+^<<v19-18-20,20>>^ Retribuiu-me o SENHOR, segundo a minha justiça, recompensou-me conforme a pureza das minhas mãos.
+
+[[v19-18-21]]
+
+^<<v19-18-21,21>>^ Pois tenho guardado os caminhos do Senhor e não me apartei perversamente do meu Deus.
+
+[[v19-18-22]]
+
+^<<v19-18-22,22>>^ Porque todos os seus juízos me estão presentes, e não afastei de mim os seus preceitos.
+
+[[v19-18-23]]
+
+^<<v19-18-23,23>>^ Também fui íntegro para com ele e me guardei da iniquidade.
+
+[[v19-18-24]]
+
+^<<v19-18-24,24>>^ Daí retribuir-me o SENHOR, segundo a minha justiça, conforme a pureza das minhas mãos, na sua presença.
+
+[[v19-18-25]]
+
+^<<v19-18-25,25>>^ Para com o benigno, benigno te mostras; com o íntegro, também íntegro.
+
+[[v19-18-26]]
+
+^<<v19-18-26,26>>^ Com o puro, puro te mostras; com o perverso, inflexível.
+
+[[v19-18-27]]
+
+^<<v19-18-27,27>>^ Porque tu salvas o povo humilde, mas os olhos altivos, tu os abates.
+
+[[v19-18-28]]
+
+^<<v19-18-28,28>>^ Porque fazes resplandecer a minha lâmpada; o SENHOR, meu Deus, derrama luz nas minhas trevas.
+
+[[v19-18-29]]
+
+^<<v19-18-29,29>>^ Pois contigo desbarato exércitos, com o meu Deus salto muralhas.
+
+[[v19-18-30]]
+
+^<<v19-18-30,30>>^ O caminho de Deus é perfeito; a palavra do SENHOR é provada; ele é escudo para todos os que nele se refugiam.
+
+[[v19-18-31]]
+
+^<<v19-18-31,31>>^ Pois quem é Deus, senão o SENHOR? E quem é rochedo, senão o nosso Deus?
+
+[[v19-18-32]]
+
+^<<v19-18-32,32>>^ O Deus que me revestiu de força e aperfeiçoou o meu caminho,
+
+[[v19-18-33]]
+
+^<<v19-18-33,33>>^ ele deu a meus pés a ligeireza das corças e me firmou nas minhas alturas.
+
+[[v19-18-34]]
+
+^<<v19-18-34,34>>^ Ele adestrou as minhas mãos para o combate, de sorte que os meus braços vergaram um arco de bronze.
+
+[[v19-18-35]]
+
+^<<v19-18-35,35>>^ Também me deste o escudo da tua salvação, a tua direita me susteve, e a tua clemência me engrandeceu.
+
+[[v19-18-36]]
+
+^<<v19-18-36,36>>^ Alargaste sob meus passos o caminho, e os meus pés não vacilaram.
+
+[[v19-18-37]]
+
+^<<v19-18-37,37>>^ Persegui os meus inimigos, e os alcancei, e só voltei depois de haver dado cabo deles.
+
+[[v19-18-38]]
+
+^<<v19-18-38,38>>^ Esmaguei-os a tal ponto, que não puderam levantar-se; caíram sob meus pés.
+
+[[v19-18-39]]
+
+^<<v19-18-39,39>>^ Pois de força me cingiste para o combate e me submeteste os que se levantaram contra mim.
+
+[[v19-18-40]]
+
+^<<v19-18-40,40>>^ Também puseste em fuga os meus inimigos, e os que me odiaram, eu os exterminei.
+
+[[v19-18-41]]
+
+^<<v19-18-41,41>>^ Gritaram por socorro, mas ninguém lhes acudiu; clamaram ao SENHOR, mas ele não respondeu.
+
+[[v19-18-42]]
+
+^<<v19-18-42,42>>^ Então, os reduzi a pó ao léu do vento, lancei-os fora como a lama das ruas.
+
+[[v19-18-43]]
+
+^<<v19-18-43,43>>^ Das contendas do povo me livraste e me fizeste cabeça das nações; povo que não conheci me serviu.
+
+[[v19-18-44]]
+
+^<<v19-18-44,44>>^ Bastou-lhe ouvir-me a voz, logo me obedeceu; os estrangeiros se me mostram submissos.
+
+[[v19-18-45]]
+
+^<<v19-18-45,45>>^ Sumiram-se os estrangeiros e das suas fortificações saíram, espavoridos.
+
+[[v19-18-46]]
+
+^<<v19-18-46,46>>^ Vive o SENHOR, e bendita seja a minha rocha! Exaltado seja o Deus da minha salvação,
+
+[[v19-18-47]]
+
+^<<v19-18-47,47>>^ o Deus que por mim tomou vingança e me submeteu povos;
+
+[[v19-18-48]]
+
+^<<v19-18-48,48>>^ o Deus que me livrou dos meus inimigos; sim, tu que me exaltaste acima dos meus adversários e me livraste do homem violento.
+
+[[v19-18-49]]
+
+^<<v19-18-49,49>>^ Glorificar-te-ei, pois, entre os gentios, ó SENHOR, e cantarei louvores ao teu nome.
+
+[[v19-18-50]]
+
+^<<v19-18-50,50>>^ É ele quem dá grandes vitórias ao seu rei e usa de benignidade para com o seu ungido, com Davi e sua posteridade, para sempre.
+
+'''
+
+xref:019-salmos/019-salmos-017.adoc#v19-17-0[&#60; Capítulo Anterior] | <<v19-18-0,Topo>> | xref:019-salmos/019-salmos-019.adoc#v19-19-0[Próximo Capítulo &#62;]

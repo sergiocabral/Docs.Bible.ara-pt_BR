@@ -1,0 +1,21 @@
+include::./index.adoc[]
+
+[[v19-131-0]]
+=== Salmos, 131
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v19-131-1]]
+
+^<<v19-131-1,1>>^ SENHOR, não é soberbo o meu coração, nem altivo o meu olhar; não ando à procura de grandes coisas, nem de coisas maravilhosas demais para mim.
+
+[[v19-131-2]]
+
+^<<v19-131-2,2>>^ Pelo contrário, fiz calar e sossegar a minha alma; como a criança desmamada se aquieta nos braços de sua mãe, como essa criança é a minha alma para comigo.
+
+[[v19-131-3]]
+
+^<<v19-131-3,3>>^ Espera, ó Israel, no SENHOR, desde agora e para sempre.
+
+'''
+
+xref:019-salmos/019-salmos-130.adoc#v19-130-0[&#60; Capítulo Anterior] | <<v19-131-0,Topo>> | xref:019-salmos/019-salmos-132.adoc#v19-132-0[Próximo Capítulo &#62;]

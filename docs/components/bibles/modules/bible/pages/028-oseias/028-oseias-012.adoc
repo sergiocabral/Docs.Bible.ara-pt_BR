@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v28-12-0]]
+=== Oséias, 12
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v28-12-1]]
+
+^<<v28-12-1,1>>^ Efraim apascenta o vento e persegue o vento leste todo o dia; multiplica mentiras e destruição e faz aliança com a Assíria, e o azeite se leva ao Egito.
+
+[[v28-12-2]]
+
+^<<v28-12-2,2>>^ O SENHOR também com Judá tem contenda e castigará Jacó segundo o seu proceder; segundo as suas obras, o recompensará.
+
+[[v28-12-3]]
+
+^<<v28-12-3,3>>^ No ventre, pegou do calcanhar de seu irmão; no vigor da sua idade, lutou com Deus;
+
+[[v28-12-4]]
+
+^<<v28-12-4,4>>^ lutou com o anjo e prevaleceu; chorou e lhe pediu mercê; em Betel, achou a Deus, e ali falou Deus conosco.
+
+[[v28-12-5]]
+
+^<<v28-12-5,5>>^ O SENHOR, o Deus dos Exércitos, o SENHOR é o seu nome;
+
+[[v28-12-6]]
+
+^<<v28-12-6,6>>^ converte-te a teu Deus, guarda o amor e o juízo e no teu Deus espera sempre.
+
+[[v28-12-7]]
+
+^<<v28-12-7,7>>^ Efraim, mercador, tem nas mãos balança enganosa e ama a opressão;
+
+[[v28-12-8]]
+
+^<<v28-12-8,8>>^ mas diz: Contudo, me tenho enriquecido e adquirido grandes bens; em todos esses meus esforços, não acharão em mim iniquidade alguma, nada que seja pecado.
+
+[[v28-12-9]]
+
+^<<v28-12-9,9>>^ Mas eu sou o SENHOR, teu Deus, desde a terra do Egito; eu ainda te farei habitar em tendas, como nos dias da festa.
+
+[[v28-12-10]]
+
+^<<v28-12-10,10>>^ Falei aos profetas e multipliquei as visões; e, pelo ministério dos profetas, propus símiles.
+
+[[v28-12-11]]
+
+^<<v28-12-11,11>>^ Se há em Gileade transgressão, pura vaidade são eles; se em Gilgal sacrificam bois, os seus altares são como montões de pedra nos sulcos dos campos.
+
+[[v28-12-12]]
+
+^<<v28-12-12,12>>^ Jacó fugiu para a terra da Síria, e Israel serviu por uma mulher e por ela guardou o gado.
+
+[[v28-12-13]]
+
+^<<v28-12-13,13>>^ Mas o SENHOR, por meio de um profeta, fez subir a Israel do Egito e, por um profeta, foi ele guardado.
+
+[[v28-12-14]]
+
+^<<v28-12-14,14>>^ Efraim mui amargamente provocou à ira; portanto, o SENHOR deixará ficar sobre ele o sangue por ele derramado; e fará cair sobre ele o seu opróbrio.
+
+'''
+
+xref:028-oseias/028-oseias-011.adoc#v28-11-0[&#60; Capítulo Anterior] | <<v28-12-0,Topo>> | xref:028-oseias/028-oseias-013.adoc#v28-13-0[Próximo Capítulo &#62;]

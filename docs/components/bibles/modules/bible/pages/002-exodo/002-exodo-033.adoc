@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v2-33-0]]
+=== Êxodo, 33
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v2-33-1]]
+
+^<<v2-33-1,1>>^ Disse o SENHOR a Moisés: Vai, sobe daqui, tu e o povo que tiraste da terra do Egito, para a terra a respeito da qual jurei a Abraão, a Isaque e a Jacó, dizendo: à tua descendência a darei.
+
+[[v2-33-2]]
+
+^<<v2-33-2,2>>^ Enviarei o Anjo adiante de ti; lançarei fora os cananeus, os amorreus, os heteus, os ferezeus, os heveus e os jebuseus.
+
+[[v2-33-3]]
+
+^<<v2-33-3,3>>^ Sobe para uma terra que mana leite e mel; eu não subirei no meio de ti, porque és povo de dura cerviz, para que te não consuma eu no caminho.
+
+[[v2-33-4]]
+
+^<<v2-33-4,4>>^ Ouvindo o povo estas más notícias, pôs-se a prantear, e nenhum deles vestiu seus atavios.
+
+[[v2-33-5]]
+
+^<<v2-33-5,5>>^ Porquanto o SENHOR tinha dito a Moisés: Dize aos filhos de Israel: És povo de dura cerviz; se por um momento eu subir no meio de ti, te consumirei; tira, pois, de ti os atavios, para que eu saiba o que te hei de fazer.
+
+[[v2-33-6]]
+
+^<<v2-33-6,6>>^ Então, os filhos de Israel tiraram de si os seus atavios desde o monte Horebe em diante.
+
+[[v2-33-7]]
+
+^<<v2-33-7,7>>^ Ora, Moisés costumava tomar a tenda e armá-la para si, fora, bem longe do arraial; e lhe chamava a tenda da congregação. Todo aquele que buscava ao SENHOR saía à tenda da congregação, que estava fora do arraial.
+
+[[v2-33-8]]
+
+^<<v2-33-8,8>>^ Quando Moisés saía para a tenda, fora, todo o povo se erguia, cada um em pé à porta da sua tenda, e olhavam pelas costas, até entrar ele na tenda.
+
+[[v2-33-9]]
+
+^<<v2-33-9,9>>^ Uma vez dentro Moisés da tenda, descia a coluna de nuvem e punha-se à porta da tenda; e o SENHOR falava com Moisés.
+
+[[v2-33-10]]
+
+^<<v2-33-10,10>>^ Todo o povo via a coluna de nuvem que se detinha à porta da tenda; todo o povo se levantava, e cada um, à porta da sua tenda, adorava ao SENHOR.
+
+[[v2-33-11]]
+
+^<<v2-33-11,11>>^ Falava o SENHOR a Moisés face a face, como qualquer fala a seu amigo; então, voltava Moisés para o arraial, porém o moço Josué, seu servidor, filho de Num, não se apartava da tenda.
+
+[[v2-33-12]]
+
+^<<v2-33-12,12>>^ Disse Moisés ao SENHOR: Tu me dizes: Faze subir este povo, porém não me deste saber a quem hás de enviar comigo; contudo, disseste: Conheço-te pelo teu nome; também achaste graça aos meus olhos.
+
+[[v2-33-13]]
+
+^<<v2-33-13,13>>^ Agora, pois, se achei graça aos teus olhos, rogo-te que me faças saber neste momento o teu caminho, para que eu te conheça e ache graça aos teus olhos; e considera que esta nação é teu povo.
+
+[[v2-33-14]]
+
+^<<v2-33-14,14>>^ Respondeu-lhe: A minha presença irá contigo, e eu te darei descanso.
+
+[[v2-33-15]]
+
+^<<v2-33-15,15>>^ Então, lhe disse Moisés: Se a tua presença não vai comigo, não nos faças subir deste lugar.
+
+[[v2-33-16]]
+
+^<<v2-33-16,16>>^ Pois como se há de saber que achamos graça aos teus olhos, eu e o teu povo? Não é, porventura, em andares conosco, de maneira que somos separados, eu e o teu povo, de todos os povos da terra?
+
+[[v2-33-17]]
+
+^<<v2-33-17,17>>^ Disse o SENHOR a Moisés: Farei também isto que disseste; porque achaste graça aos meus olhos, e eu te conheço pelo teu nome.
+
+[[v2-33-18]]
+
+^<<v2-33-18,18>>^ Então, ele disse: Rogo-te que me mostres a tua glória.
+
+[[v2-33-19]]
+
+^<<v2-33-19,19>>^ Respondeu-lhe: Farei passar toda a minha bondade diante de ti e te proclamarei o nome do SENHOR; terei misericórdia de quem eu tiver misericórdia e me compadecerei de quem eu me compadecer.
+
+[[v2-33-20]]
+
+^<<v2-33-20,20>>^ E acrescentou: Não me poderás ver a face, porquanto homem nenhum verá a minha face e viverá.
+
+[[v2-33-21]]
+
+^<<v2-33-21,21>>^ Disse mais o SENHOR: Eis aqui um lugar junto a mim; e tu estarás sobre a penha.
+
+[[v2-33-22]]
+
+^<<v2-33-22,22>>^ Quando passar a minha glória, eu te porei numa fenda da penha e com a mão te cobrirei, até que eu tenha passado.
+
+[[v2-33-23]]
+
+^<<v2-33-23,23>>^ Depois, em tirando eu a mão, tu me verás pelas costas; mas a minha face não se verá.
+
+'''
+
+xref:002-exodo/002-exodo-032.adoc#v2-32-0[&#60; Capítulo Anterior] | <<v2-33-0,Topo>> | xref:002-exodo/002-exodo-034.adoc#v2-34-0[Próximo Capítulo &#62;]

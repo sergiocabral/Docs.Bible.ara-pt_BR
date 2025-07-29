@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v1-45-0]]
+=== Gênesis, 45
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v1-45-1]]
+
+^<<v1-45-1,1>>^ Então, José, não se podendo conter diante de todos os que estavam com ele, bradou: Fazei sair a todos da minha presença! E ninguém ficou com ele, quando José se deu a conhecer a seus irmãos.
+
+[[v1-45-2]]
+
+^<<v1-45-2,2>>^ E levantou a voz em choro, de maneira que os egípcios o ouviam e também a casa de Faraó.
+
+[[v1-45-3]]
+
+^<<v1-45-3,3>>^ E disse a seus irmãos: Eu sou José; vive ainda meu pai? E seus irmãos não lhe puderam responder, porque ficaram atemorizados perante ele.
+
+[[v1-45-4]]
+
+^<<v1-45-4,4>>^ Disse José a seus irmãos: Agora, chegai-vos a mim. E chegaram-se. Então, disse: Eu sou José, vosso irmão, a quem vendestes para o Egito.
+
+[[v1-45-5]]
+
+^<<v1-45-5,5>>^ Agora, pois, não vos entristeçais, nem vos irriteis contra vós mesmos por me haverdes vendido para aqui; porque, para conservação da vida, Deus me enviou adiante de vós.
+
+[[v1-45-6]]
+
+^<<v1-45-6,6>>^ Porque já houve dois anos de fome na terra, e ainda restam cinco anos em que não haverá lavoura nem colheita.
+
+[[v1-45-7]]
+
+^<<v1-45-7,7>>^ Deus me enviou adiante de vós, para conservar vossa sucessão na terra e para vos preservar a vida por um grande livramento.
+
+[[v1-45-8]]
+
+^<<v1-45-8,8>>^ Assim, não fostes vós que me enviastes para cá, e sim Deus, que me pôs por pai de Faraó, e senhor de toda a sua casa, e como governador em toda a terra do Egito.
+
+[[v1-45-9]]
+
+^<<v1-45-9,9>>^ Apressai-vos, subi a meu pai e dizei-lhe: Assim manda dizer teu filho José: Deus me pôs por senhor em toda terra do Egito; desce a mim, não te demores.
+
+[[v1-45-10]]
+
+^<<v1-45-10,10>>^ Habitarás na terra de Gósen e estarás perto de mim, tu, teus filhos, os filhos de teus filhos, os teus rebanhos, o teu gado e tudo quanto tens.
+
+[[v1-45-11]]
+
+^<<v1-45-11,11>>^ Aí te sustentarei, porque ainda haverá cinco anos de fome; para que não te empobreças, tu e tua casa e tudo o que tens.
+
+[[v1-45-12]]
+
+^<<v1-45-12,12>>^ Eis que vedes por vós mesmos, e meu irmão Benjamim vê também, que sou eu mesmo quem vos fala.
+
+[[v1-45-13]]
+
+^<<v1-45-13,13>>^ Anunciai a meu pai toda a minha glória no Egito e tudo o que tendes visto; apressai-vos e fazei descer meu pai para aqui.
+
+[[v1-45-14]]
+
+^<<v1-45-14,14>>^ E, lançando-se ao pescoço de Benjamim, seu irmão, chorou; e, abraçado com ele, chorou também Benjamim.
+
+[[v1-45-15]]
+
+^<<v1-45-15,15>>^ José beijou a todos os seus irmãos e chorou sobre eles; depois, seus irmãos falaram com ele.
+
+[[v1-45-16]]
+
+^<<v1-45-16,16>>^ Fez-se ouvir na casa de Faraó esta notícia: São vindos os irmãos de José; e isto foi agradável a Faraó e a seus oficiais.
+
+[[v1-45-17]]
+
+^<<v1-45-17,17>>^ Disse Faraó a José: Dize a teus irmãos: Fazei isto: carregai os vossos animais e parti; tornai à terra de Canaã,
+
+[[v1-45-18]]
+
+^<<v1-45-18,18>>^ tomai a vosso pai e a vossas famílias e vinde para mim; dar-vos-ei o melhor da terra do Egito, e comereis a fartura da terra.
+
+[[v1-45-19]]
+
+^<<v1-45-19,19>>^ Ordena-lhes também: Fazei isto: levai da terra do Egito carros para vossos filhinhos e para vossas mulheres, trazei vosso pai e vinde.
+
+[[v1-45-20]]
+
+^<<v1-45-20,20>>^ Não vos preocupeis com coisa alguma dos vossos haveres, porque o melhor de toda a terra do Egito será vosso.
+
+[[v1-45-21]]
+
+^<<v1-45-21,21>>^ E os filhos de Israel fizeram assim. José lhes deu carros, conforme o mandado de Faraó; também lhes deu provisão para o caminho.
+
+[[v1-45-22]]
+
+^<<v1-45-22,22>>^ A cada um de todos eles deu vestes festivais, mas a Benjamim deu trezentas moedas de prata e cinco vestes festivais.
+
+[[v1-45-23]]
+
+^<<v1-45-23,23>>^ Também enviou a seu pai dez jumentos carregados do melhor do Egito, e dez jumentos carregados de cereais e pão, e provisão para o seu pai, para o caminho.
+
+[[v1-45-24]]
+
+^<<v1-45-24,24>>^ E despediu os seus irmãos. Ao partirem, disse-lhes: Não contendais pelo caminho.
+
+[[v1-45-25]]
+
+^<<v1-45-25,25>>^ Então, subiram do Egito, e vieram à terra de Canaã, a Jacó, seu pai,
+
+[[v1-45-26]]
+
+^<<v1-45-26,26>>^ e lhe disseram: José ainda vive e é governador de toda a terra do Egito. Com isto, o coração lhe ficou como sem palpitar, porque não lhes deu crédito.
+
+[[v1-45-27]]
+
+^<<v1-45-27,27>>^ Porém, havendo-lhe eles contado todas as palavras que José lhes falara, e vendo Jacó, seu pai, os carros que José enviara para levá-lo, reviveu-se-lhe o espírito.
+
+[[v1-45-28]]
+
+^<<v1-45-28,28>>^ E disse Israel: Basta; ainda vive meu filho José; irei e o verei antes que eu morra.
+
+'''
+
+xref:001-genesis/001-genesis-044.adoc#v1-44-0[&#60; Capítulo Anterior] | <<v1-45-0,Topo>> | xref:001-genesis/001-genesis-046.adoc#v1-46-0[Próximo Capítulo &#62;]

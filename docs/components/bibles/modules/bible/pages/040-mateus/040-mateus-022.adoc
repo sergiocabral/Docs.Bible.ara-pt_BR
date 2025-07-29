@@ -1,0 +1,193 @@
+include::./index.adoc[]
+
+[[v40-22-0]]
+=== Mateus, 22
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v40-22-1]]
+
+^<<v40-22-1,1>>^ De novo, entrou Jesus a falar por parábolas, dizendo-lhes:
+
+[[v40-22-2]]
+
+^<<v40-22-2,2>>^ O reino dos céus é semelhante a um rei que celebrou as bodas de seu filho.
+
+[[v40-22-3]]
+
+^<<v40-22-3,3>>^ Então, enviou os seus servos a chamar os convidados para as bodas; mas estes não quiseram vir.
+
+[[v40-22-4]]
+
+^<<v40-22-4,4>>^ Enviou ainda outros servos, com esta ordem: Dizei aos convidados: Eis que já preparei o meu banquete; os meus bois e cevados já foram abatidos, e tudo está pronto; vinde para as bodas.
+
+[[v40-22-5]]
+
+^<<v40-22-5,5>>^ Eles, porém, não se importaram e se foram, um para o seu campo, outro para o seu negócio;
+
+[[v40-22-6]]
+
+^<<v40-22-6,6>>^ e os outros, agarrando os servos, os maltrataram e mataram.
+
+[[v40-22-7]]
+
+^<<v40-22-7,7>>^ O rei ficou irado e, enviando as suas tropas, exterminou aqueles assassinos e lhes incendiou a cidade.
+
+[[v40-22-8]]
+
+^<<v40-22-8,8>>^ Então, disse aos seus servos: Está pronta a festa, mas os convidados não eram dignos.
+
+[[v40-22-9]]
+
+^<<v40-22-9,9>>^ Ide, pois, para as encruzilhadas dos caminhos e convidai para as bodas a quantos encontrardes.
+
+[[v40-22-10]]
+
+^<<v40-22-10,10>>^ E, saindo aqueles servos pelas estradas, reuniram todos os que encontraram, maus e bons; e a sala do banquete ficou repleta de convidados.
+
+[[v40-22-11]]
+
+^<<v40-22-11,11>>^ Entrando, porém, o rei para ver os que estavam à mesa, notou ali um homem que não trazia veste nupcial
+
+[[v40-22-12]]
+
+^<<v40-22-12,12>>^ e perguntou-lhe: Amigo, como entraste aqui sem veste nupcial? E ele emudeceu.
+
+[[v40-22-13]]
+
+^<<v40-22-13,13>>^ Então, ordenou o rei aos serventes: Amarrai-o de pés e mãos e lançai-o para fora, nas trevas; ali haverá choro e ranger de dentes.
+
+[[v40-22-14]]
+
+^<<v40-22-14,14>>^ Porque muitos são chamados, mas poucos, escolhidos.
+
+[[v40-22-15]]
+
+^<<v40-22-15,15>>^ Então, retirando-se os fariseus, consultaram entre si como o surpreenderiam em alguma palavra.
+
+[[v40-22-16]]
+
+^<<v40-22-16,16>>^ E enviaram-lhe discípulos, juntamente com os herodianos, para dizer-lhe: Mestre, sabemos que és verdadeiro e que ensinas o caminho de Deus, de acordo com a verdade, sem te importares com quem quer que seja, porque não olhas a aparência dos homens.
+
+[[v40-22-17]]
+
+^<<v40-22-17,17>>^ Dize-nos, pois: que te parece? É lícito pagar tributo a César ou não?
+
+[[v40-22-18]]
+
+^<<v40-22-18,18>>^ Jesus, porém, conhecendo-lhes a malícia, respondeu: Por que me experimentais, hipócritas?
+
+[[v40-22-19]]
+
+^<<v40-22-19,19>>^ Mostrai-me a moeda do tributo.  Trouxeram-lhe um denário.
+
+[[v40-22-20]]
+
+^<<v40-22-20,20>>^ E ele lhes perguntou: De quem é esta efígie e inscrição?
+
+[[v40-22-21]]
+
+^<<v40-22-21,21>>^ Responderam: De César. Então, lhes disse: Dai, pois, a César o que é de César e a Deus o que é de Deus.
+
+[[v40-22-22]]
+
+^<<v40-22-22,22>>^ Ouvindo isto, se admiraram e, deixando-o, foram-se.
+
+[[v40-22-23]]
+
+^<<v40-22-23,23>>^ Naquele dia, aproximaram-se dele alguns saduceus, que dizem não haver ressurreição, e lhe perguntaram:
+
+[[v40-22-24]]
+
+^<<v40-22-24,24>>^ Mestre, Moisés disse: Se alguém morrer, não tendo filhos, seu irmão casará com a viúva e suscitará descendência ao falecido.
+
+[[v40-22-25]]
+
+^<<v40-22-25,25>>^ Ora, havia entre nós sete irmãos. O primeiro, tendo casado, morreu e, não tendo descendência, deixou sua mulher a seu irmão;
+
+[[v40-22-26]]
+
+^<<v40-22-26,26>>^ o mesmo sucedeu com o segundo, com o terceiro, até ao sétimo;
+
+[[v40-22-27]]
+
+^<<v40-22-27,27>>^ depois de todos eles, morreu também a mulher.
+
+[[v40-22-28]]
+
+^<<v40-22-28,28>>^ Portanto, na ressurreição, de qual dos sete será ela esposa? Porque todos a desposaram.
+
+[[v40-22-29]]
+
+^<<v40-22-29,29>>^ Respondeu-lhes Jesus: Errais, não conhecendo as Escrituras nem o poder de Deus.
+
+[[v40-22-30]]
+
+^<<v40-22-30,30>>^ Porque, na ressurreição, nem casam, nem se dão em casamento; são, porém, como os anjos no céu.
+
+[[v40-22-31]]
+
+^<<v40-22-31,31>>^ E, quanto à ressurreição dos mortos, não tendes lido o que Deus vos declarou:
+
+[[v40-22-32]]
+
+^<<v40-22-32,32>>^ Eu sou o Deus de Abraão, o Deus de Isaque e o Deus de Jacó? Ele não é Deus de mortos, e sim de vivos.
+
+[[v40-22-33]]
+
+^<<v40-22-33,33>>^ Ouvindo isto, as multidões se maravilhavam da sua doutrina.
+
+[[v40-22-34]]
+
+^<<v40-22-34,34>>^ Entretanto, os fariseus, sabendo que ele fizera calar os saduceus, reuniram-se em conselho.
+
+[[v40-22-35]]
+
+^<<v40-22-35,35>>^ E um deles, intérprete da Lei, experimentando-o, lhe perguntou:
+
+[[v40-22-36]]
+
+^<<v40-22-36,36>>^ Mestre, qual é o grande mandamento na Lei?
+
+[[v40-22-37]]
+
+^<<v40-22-37,37>>^ Respondeu-lhe Jesus: Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e de todo o teu entendimento.
+
+[[v40-22-38]]
+
+^<<v40-22-38,38>>^ Este é o grande e primeiro mandamento.
+
+[[v40-22-39]]
+
+^<<v40-22-39,39>>^ O segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo.
+
+[[v40-22-40]]
+
+^<<v40-22-40,40>>^ Destes dois mandamentos dependem toda a Lei e os Profetas.
+
+[[v40-22-41]]
+
+^<<v40-22-41,41>>^ Reunidos os fariseus, interrogou-os Jesus:
+
+[[v40-22-42]]
+
+^<<v40-22-42,42>>^ Que pensais vós do Cristo? De quem é filho?  Responderam-lhe eles: De Davi.
+
+[[v40-22-43]]
+
+^<<v40-22-43,43>>^ Replicou-lhes Jesus: Como, pois, Davi, pelo Espírito, chama-lhe Senhor, dizendo:
+
+[[v40-22-44]]
+
+^<<v40-22-44,44>>^ Disse o Senhor ao meu Senhor: Assenta-te à minha direita, até que eu ponha os teus inimigos debaixo dos teus pés?
+
+[[v40-22-45]]
+
+^<<v40-22-45,45>>^ Se Davi, pois, lhe chama Senhor, como é ele seu filho?
+
+[[v40-22-46]]
+
+^<<v40-22-46,46>>^ E ninguém lhe podia responder palavra, nem ousou alguém, a partir daquele dia, fazer-lhe perguntas.
+
+'''
+
+xref:040-mateus/040-mateus-021.adoc#v40-21-0[&#60; Capítulo Anterior] | <<v40-22-0,Topo>> | xref:040-mateus/040-mateus-023.adoc#v40-23-0[Próximo Capítulo &#62;]

@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v40-19-0]]
+=== Mateus, 19
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v40-19-1]]
+
+^<<v40-19-1,1>>^ E aconteceu que, concluindo Jesus estas palavras, deixou a Galileia e foi para o território da Judeia, além do Jordão.
+
+[[v40-19-2]]
+
+^<<v40-19-2,2>>^ Seguiram-no muitas multidões, e curou-as ali.
+
+[[v40-19-3]]
+
+^<<v40-19-3,3>>^ Vieram a ele alguns fariseus e o experimentavam, perguntando: É lícito ao marido repudiar a sua mulher por qualquer motivo?
+
+[[v40-19-4]]
+
+^<<v40-19-4,4>>^ Então, respondeu ele: Não tendes lido que o Criador, desde o princípio, os fez homem e mulher
+
+[[v40-19-5]]
+
+^<<v40-19-5,5>>^ e que disse: Por esta causa deixará o homem pai e mãe e se unirá a sua mulher, tornando-se os dois uma só carne?
+
+[[v40-19-6]]
+
+^<<v40-19-6,6>>^ De modo que já não são mais dois, porém uma só carne. Portanto, o que Deus ajuntou não o separe o homem.
+
+[[v40-19-7]]
+
+^<<v40-19-7,7>>^ Replicaram-lhe: Por que mandou, então, Moisés dar carta de divórcio e repudiar?
+
+[[v40-19-8]]
+
+^<<v40-19-8,8>>^ Respondeu-lhes Jesus: Por causa da dureza do vosso coração é que Moisés vos permitiu repudiar vossa mulher; entretanto, não foi assim desde o princípio.
+
+[[v40-19-9]]
+
+^<<v40-19-9,9>>^ Eu, porém, vos digo: quem repudiar sua mulher, não sendo por causa de relações sexuais ilícitas, e casar com outra comete adultério [e o que casar com a repudiada comete adultério].
+
+[[v40-19-10]]
+
+^<<v40-19-10,10>>^ Disseram-lhe os discípulos: Se essa é a condição do homem relativamente à sua mulher, não convém casar.
+
+[[v40-19-11]]
+
+^<<v40-19-11,11>>^ Jesus, porém, lhes respondeu: Nem todos são aptos para receber este conceito, mas apenas aqueles a quem é dado.
+
+[[v40-19-12]]
+
+^<<v40-19-12,12>>^ Porque há eunucos de nascença; há outros a quem os homens fizeram tais; e há outros que a si mesmos se fizeram eunucos, por causa do reino dos céus. Quem é apto para o admitir admita.
+
+[[v40-19-13]]
+
+^<<v40-19-13,13>>^ Trouxeram-lhe, então, algumas crianças, para que lhes impusesse as mãos e orasse; mas os discípulos os repreendiam.
+
+[[v40-19-14]]
+
+^<<v40-19-14,14>>^ Jesus, porém, disse: Deixai os pequeninos, não os embaraceis de vir a mim, porque dos tais é o reino dos céus.
+
+[[v40-19-15]]
+
+^<<v40-19-15,15>>^ E, tendo-lhes imposto as mãos, retirou-se dali.
+
+[[v40-19-16]]
+
+^<<v40-19-16,16>>^ E eis que alguém, aproximando-se, lhe perguntou: Mestre, que farei eu de bom, para alcançar a vida eterna?
+
+[[v40-19-17]]
+
+^<<v40-19-17,17>>^ Respondeu-lhe Jesus: Por que me perguntas acerca do que é bom? Bom só existe um. Se queres, porém, entrar na vida, guarda os mandamentos.
+
+[[v40-19-18]]
+
+^<<v40-19-18,18>>^ E ele lhe perguntou: Quais? Respondeu Jesus: Não matarás, não adulterarás, não furtarás, não dirás falso testemunho;
+
+[[v40-19-19]]
+
+^<<v40-19-19,19>>^ honra a teu pai e a tua mãe e amarás o teu próximo como a ti mesmo.
+
+[[v40-19-20]]
+
+^<<v40-19-20,20>>^ Replicou-lhe o jovem: Tudo isso tenho observado; que me falta ainda?
+
+[[v40-19-21]]
+
+^<<v40-19-21,21>>^ Disse-lhe Jesus: Se queres ser perfeito, vai, vende os teus bens, dá aos pobres e terás um tesouro no céu; depois, vem e segue-me.
+
+[[v40-19-22]]
+
+^<<v40-19-22,22>>^ Tendo, porém, o jovem ouvido esta palavra, retirou-se triste, por ser dono de muitas propriedades.
+
+[[v40-19-23]]
+
+^<<v40-19-23,23>>^ Então, disse Jesus a seus discípulos: Em verdade vos digo que um rico dificilmente entrará no reino dos céus.
+
+[[v40-19-24]]
+
+^<<v40-19-24,24>>^ E ainda vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no reino de Deus.
+
+[[v40-19-25]]
+
+^<<v40-19-25,25>>^ Ouvindo isto, os discípulos ficaram grandemente maravilhados e disseram: Sendo assim, quem pode ser salvo?
+
+[[v40-19-26]]
+
+^<<v40-19-26,26>>^ Jesus, fitando neles o olhar, disse-lhes: Isto é impossível aos homens, mas para Deus tudo é possível.
+
+[[v40-19-27]]
+
+^<<v40-19-27,27>>^ Então, lhe falou Pedro: Eis que nós tudo deixamos e te seguimos; que será, pois, de nós?
+
+[[v40-19-28]]
+
+^<<v40-19-28,28>>^ Jesus lhes respondeu: Em verdade vos digo que vós, os que me seguistes, quando, na regeneração, o Filho do Homem se assentar no trono da sua glória, também vos assentareis em doze tronos para julgar as doze tribos de Israel.
+
+[[v40-19-29]]
+
+^<<v40-19-29,29>>^ E todo aquele que tiver deixado casas, ou irmãos, ou irmãs, ou pai, ou mãe [ou mulher], ou filhos, ou campos, por causa do meu nome, receberá muitas vezes mais e herdará a vida eterna.
+
+[[v40-19-30]]
+
+^<<v40-19-30,30>>^ Porém muitos primeiros serão últimos; e os últimos, primeiros.
+
+'''
+
+xref:040-mateus/040-mateus-018.adoc#v40-18-0[&#60; Capítulo Anterior] | <<v40-19-0,Topo>> | xref:040-mateus/040-mateus-020.adoc#v40-20-0[Próximo Capítulo &#62;]

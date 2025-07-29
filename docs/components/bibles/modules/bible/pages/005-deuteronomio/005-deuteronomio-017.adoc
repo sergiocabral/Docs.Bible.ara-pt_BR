@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v5-17-0]]
+=== Deuteronômio, 17
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v5-17-1]]
+
+^<<v5-17-1,1>>^ Não sacrificarás ao SENHOR, teu Deus, novilho ou ovelha em que haja imperfeição ou algum defeito grave; pois é abominação ao SENHOR, teu Deus.
+
+[[v5-17-2]]
+
+^<<v5-17-2,2>>^ Quando no meio de ti, em alguma das tuas cidades que te dá o SENHOR, teu Deus, se achar algum homem ou mulher que proceda mal aos olhos do SENHOR, teu Deus, transgredindo a sua aliança,
+
+[[v5-17-3]]
+
+^<<v5-17-3,3>>^ que vá, e sirva a outros deuses, e os adore, ou ao sol, ou à lua, ou a todo o exército do céu, o que eu não ordenei;
+
+[[v5-17-4]]
+
+^<<v5-17-4,4>>^ e te seja denunciado, e o ouvires; então, indagarás bem; e eis que, sendo verdade e certo que se fez tal abominação em Israel,
+
+[[v5-17-5]]
+
+^<<v5-17-5,5>>^ então, levarás o homem ou a mulher que fez este malefício às tuas portas e os apedrejarás, até que morram.
+
+[[v5-17-6]]
+
+^<<v5-17-6,6>>^ Por depoimento de duas ou três testemunhas, será morto o que houver de morrer; por depoimento de uma só testemunha, não morrerá.
+
+[[v5-17-7]]
+
+^<<v5-17-7,7>>^ A mão das testemunhas será a primeira contra ele, para matá-lo; e, depois, a mão de todo o povo; assim, eliminarás o mal do meio de ti.
+
+[[v5-17-8]]
+
+^<<v5-17-8,8>>^ Quando alguma coisa te for difícil demais em juízo, entre caso e caso de homicídio, e de demanda e demanda, e de violência e violência, e outras questões de litígio, então, te levantarás e subirás ao lugar que o SENHOR, teu Deus, escolher.
+
+[[v5-17-9]]
+
+^<<v5-17-9,9>>^ Virás aos levitas sacerdotes e ao juiz que houver naqueles dias; inquirirás, e te anunciarão a sentença do juízo.
+
+[[v5-17-10]]
+
+^<<v5-17-10,10>>^ E farás segundo o mandado da palavra que te anunciarem do lugar que o SENHOR escolher; e terás cuidado de fazer consoante tudo o que te ensinarem.
+
+[[v5-17-11]]
+
+^<<v5-17-11,11>>^ Segundo o mandado da lei que te ensinarem e de acordo com o juízo que te disserem, farás; da sentença que te anunciarem não te desviarás, nem para a direita nem para a esquerda.
+
+[[v5-17-12]]
+
+^<<v5-17-12,12>>^ O homem, pois, que se houver soberbamente, não dando ouvidos ao sacerdote, que está ali para servir ao SENHOR, teu Deus, nem ao juiz, esse morrerá; e eliminarás o mal de Israel,
+
+[[v5-17-13]]
+
+^<<v5-17-13,13>>^ para que todo o povo o ouça, tema e jamais se ensoberbeça.
+
+[[v5-17-14]]
+
+^<<v5-17-14,14>>^ Quando entrares na terra que te dá o SENHOR, teu Deus, e a possuíres, e nela habitares, e disseres: Estabelecerei sobre mim um rei, como todas as nações que se acham em redor de mim,
+
+[[v5-17-15]]
+
+^<<v5-17-15,15>>^ estabelecerás, com efeito, sobre ti como rei aquele que o SENHOR, teu Deus, escolher; homem estranho, que não seja dentre os teus irmãos, não estabelecerás sobre ti, e sim um dentre eles.
+
+[[v5-17-16]]
+
+^<<v5-17-16,16>>^ Porém este não multiplicará para si cavalos, nem fará voltar o povo ao Egito, para multiplicar cavalos; pois o SENHOR vos disse: Nunca mais voltareis por este caminho.
+
+[[v5-17-17]]
+
+^<<v5-17-17,17>>^ Tampouco para si multiplicará mulheres, para que o seu coração se não desvie; nem multiplicará muito para si prata ou ouro.
+
+[[v5-17-18]]
+
+^<<v5-17-18,18>>^ Também, quando se assentar no trono do seu reino, escreverá para si um traslado desta lei num livro, do que está diante dos levitas sacerdotes.
+
+[[v5-17-19]]
+
+^<<v5-17-19,19>>^ E o terá consigo e nele lerá todos os dias da sua vida, para que aprenda a temer o SENHOR, seu Deus, a fim de guardar todas as palavras desta lei e estes estatutos, para os cumprir.
+
+[[v5-17-20]]
+
+^<<v5-17-20,20>>^ Isto fará para que o seu coração não se eleve sobre os seus irmãos e não se aparte do mandamento, nem para a direita nem para a esquerda; de sorte que prolongue os dias no seu reino, ele e seus filhos no meio de Israel.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-016.adoc#v5-16-0[&#60; Capítulo Anterior] | <<v5-17-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-018.adoc#v5-18-0[Próximo Capítulo &#62;]

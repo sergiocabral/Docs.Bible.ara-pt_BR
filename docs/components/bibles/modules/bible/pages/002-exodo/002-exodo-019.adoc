@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v2-19-0]]
+=== Êxodo, 19
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v2-19-1]]
+
+^<<v2-19-1,1>>^ No terceiro mês da saída dos filhos de Israel da terra do Egito, no primeiro dia desse mês, vieram ao deserto do Sinai.
+
+[[v2-19-2]]
+
+^<<v2-19-2,2>>^ Tendo partido de Refidim, vieram ao deserto do Sinai, no qual se acamparam; ali, pois, se acampou Israel em frente do monte.
+
+[[v2-19-3]]
+
+^<<v2-19-3,3>>^ Subiu Moisés a Deus, e do monte o SENHOR o chamou e lhe disse: Assim falarás à casa de Jacó e anunciarás aos filhos de Israel:
+
+[[v2-19-4]]
+
+^<<v2-19-4,4>>^ Tendes visto o que fiz aos egípcios, como vos levei sobre asas de águia e vos cheguei a mim.
+
+[[v2-19-5]]
+
+^<<v2-19-5,5>>^ Agora, pois, se diligentemente ouvirdes a minha voz e guardardes a minha aliança, então, sereis a minha propriedade peculiar dentre todos os povos; porque toda a terra é minha;
+
+[[v2-19-6]]
+
+^<<v2-19-6,6>>^ vós me sereis reino de sacerdotes e nação santa. São estas as palavras que falarás aos filhos de Israel.
+
+[[v2-19-7]]
+
+^<<v2-19-7,7>>^ Veio Moisés, chamou os anciãos do povo e expôs diante deles todas estas palavras que o SENHOR lhe havia ordenado.
+
+[[v2-19-8]]
+
+^<<v2-19-8,8>>^ Então, o povo respondeu à uma: Tudo o que o SENHOR falou faremos. E Moisés relatou ao SENHOR as palavras do povo.
+
+[[v2-19-9]]
+
+^<<v2-19-9,9>>^ Disse o SENHOR a Moisés: Eis que virei a ti numa nuvem escura, para que o povo ouça quando eu falar contigo e para que também creiam sempre em ti. Porque Moisés tinha anunciado as palavras do seu povo ao SENHOR.
+
+[[v2-19-10]]
+
+^<<v2-19-10,10>>^ Disse também o SENHOR a Moisés: Vai ao povo e purifica-o hoje e amanhã. Lavem eles as suas vestes
+
+[[v2-19-11]]
+
+^<<v2-19-11,11>>^ e estejam prontos para o terceiro dia; porque no terceiro dia o SENHOR, à vista de todo o povo, descerá sobre o monte Sinai.
+
+[[v2-19-12]]
+
+^<<v2-19-12,12>>^ Marcarás em redor limites ao povo, dizendo: Guardai-vos de subir ao monte, nem toqueis o seu limite; todo aquele que tocar o monte será morto.
+
+[[v2-19-13]]
+
+^<<v2-19-13,13>>^ Mão nenhuma tocará neste, mas será apedrejado ou flechado; quer seja animal, quer seja homem, não viverá. Quando soar longamente a buzina, então, subirão ao monte.
+
+[[v2-19-14]]
+
+^<<v2-19-14,14>>^ Moisés, tendo descido do monte ao povo, consagrou o povo; e lavaram as suas vestes.
+
+[[v2-19-15]]
+
+^<<v2-19-15,15>>^ E disse ao povo: Estai prontos ao terceiro dia; e não vos chegueis a mulher.
+
+[[v2-19-16]]
+
+^<<v2-19-16,16>>^ Ao amanhecer do terceiro dia, houve trovões, e relâmpagos, e uma espessa nuvem sobre o monte, e mui forte clangor de trombeta, de maneira que todo o povo que estava no arraial se estremeceu.
+
+[[v2-19-17]]
+
+^<<v2-19-17,17>>^ E Moisés levou o povo fora do arraial ao encontro de Deus; e puseram-se ao pé do monte.
+
+[[v2-19-18]]
+
+^<<v2-19-18,18>>^ Todo o monte Sinai fumegava, porque o SENHOR descera sobre ele em fogo; a sua fumaça subiu como fumaça de uma fornalha, e todo o monte tremia grandemente.
+
+[[v2-19-19]]
+
+^<<v2-19-19,19>>^ E o clangor da trombeta ia aumentando cada vez mais; Moisés falava, e Deus lhe respondia no trovão.
+
+[[v2-19-20]]
+
+^<<v2-19-20,20>>^ Descendo o SENHOR para o cimo do monte Sinai, chamou o SENHOR a Moisés para o cimo do monte. Moisés subiu,
+
+[[v2-19-21]]
+
+^<<v2-19-21,21>>^ e o SENHOR disse a Moisés: Desce, adverte ao povo que não traspasse o limite até ao SENHOR para vê-lo, a fim de muitos deles não perecerem.
+
+[[v2-19-22]]
+
+^<<v2-19-22,22>>^ Também os sacerdotes, que se chegam ao SENHOR, se hão de consagrar, para que o SENHOR não os fira.
+
+[[v2-19-23]]
+
+^<<v2-19-23,23>>^ Então, disse Moisés ao SENHOR: O povo não poderá subir ao monte Sinai, porque tu nos advertiste, dizendo: Marca limites ao redor do monte e consagra-o.
+
+[[v2-19-24]]
+
+^<<v2-19-24,24>>^ Replicou-lhe o SENHOR: Vai, desce; depois, subirás tu, e Arão contigo; os sacerdotes, porém, e o povo não traspassem o limite para subir ao SENHOR, para que não os fira.
+
+[[v2-19-25]]
+
+^<<v2-19-25,25>>^ Desceu, pois, Moisés ao povo e lhe disse tudo isso.
+
+'''
+
+xref:002-exodo/002-exodo-018.adoc#v2-18-0[&#60; Capítulo Anterior] | <<v2-19-0,Topo>> | xref:002-exodo/002-exodo-020.adoc#v2-20-0[Próximo Capítulo &#62;]

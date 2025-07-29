@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v30-6-0]]
+=== Amós, 6
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v30-6-1]]
+
+^<<v30-6-1,1>>^ Ai dos que andam à vontade em Sião e dos que vivem sem receio no monte de Samaria, homens notáveis da principal das nações, aos quais vem a casa de Israel!
+
+[[v30-6-2]]
+
+^<<v30-6-2,2>>^ Passai a Calné e vede; e, dali, ide à grande Hamate; depois, descei a Gate dos filisteus; sois melhores que estes reinos? Ou será maior o seu território do que o vosso território?
+
+[[v30-6-3]]
+
+^<<v30-6-3,3>>^ Vós que imaginais estar longe o dia mau e fazeis chegar o trono da violência;
+
+[[v30-6-4]]
+
+^<<v30-6-4,4>>^ que dormis em camas de marfim, e vos espreguiçais sobre o vosso leito, e comeis os cordeiros do rebanho e os bezerros do cevadouro;
+
+[[v30-6-5]]
+
+^<<v30-6-5,5>>^ que cantais à toa ao som da lira e inventais, como Davi, instrumentos músicos para vós mesmos;
+
+[[v30-6-6]]
+
+^<<v30-6-6,6>>^ que bebeis vinho em taças e vos ungis com o mais excelente óleo, mas não vos afligis com a ruína de José.
+
+[[v30-6-7]]
+
+^<<v30-6-7,7>>^ Portanto, agora, ireis em cativeiro entre os primeiros que forem levados cativos, e cessarão as pândegas dos espreguiçadores.
+
+[[v30-6-8]]
+
+^<<v30-6-8,8>>^ Jurou o SENHOR Deus por si mesmo, o SENHOR, Deus dos Exércitos, e disse: Abomino a soberba de Jacó e odeio os seus castelos; e abandonarei a cidade e tudo o que nela há.
+
+[[v30-6-9]]
+
+^<<v30-6-9,9>>^ Se numa casa ficarem dez homens, também esses morrerão.
+
+[[v30-6-10]]
+
+^<<v30-6-10,10>>^ Se, porém, um parente chegado, o qual os há de queimar, toma os cadáveres para os levar fora da casa e diz ao que estiver no seu mais interior: Haverá outro contigo? E este responder: Não há; então, lhe dirá: Cala-te, não menciones o nome do SENHOR.
+
+[[v30-6-11]]
+
+^<<v30-6-11,11>>^ Pois eis que o SENHOR ordena, e será destroçada em ruínas a casa grande, e a pequena, feita em pedaços.
+
+[[v30-6-12]]
+
+^<<v30-6-12,12>>^ Poderão correr cavalos na rocha? E lavrá-la com bois? No entanto, haveis tornado o juízo em veneno e o fruto da justiça, em alosna.
+
+[[v30-6-13]]
+
+^<<v30-6-13,13>>^ Vós vos alegrais com Lo-Debar e dizeis: Não é assim que, por nossas próprias forças, nos apoderamos de Carnaim?
+
+[[v30-6-14]]
+
+^<<v30-6-14,14>>^ Pois eis que levantarei sobre vós, ó casa de Israel, uma nação, diz o SENHOR, Deus dos Exércitos, a qual vos oprimirá, desde a entrada de Hamate até ao ribeiro da Arabá.
+
+'''
+
+xref:030-amos/030-amos-005.adoc#v30-5-0[&#60; Capítulo Anterior] | <<v30-6-0,Topo>> | xref:030-amos/030-amos-007.adoc#v30-7-0[Próximo Capítulo &#62;]

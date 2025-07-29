@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v23-15-0]]
+=== Isaías, 15
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v23-15-1]]
+
+^<<v23-15-1,1>>^ Sentença contra Moabe. Certamente, numa noite foi assolada Ar de Moabe e ela está destruída; certamente, numa noite foi assolada Quir de Moabe e ela está destruída.
+
+[[v23-15-2]]
+
+^<<v23-15-2,2>>^ Sobe-se ao templo e a Dibom, aos altos, para chorar; nos montes Nebo e Medeba, lamenta Moabe; todas as cabeças se tornam calvas, e toda barba é rapada.
+
+[[v23-15-3]]
+
+^<<v23-15-3,3>>^ Cingem-se de panos de saco nas suas ruas; nos seus terraços e nas suas praças, andam todos uivando e choram abundantemente.
+
+[[v23-15-4]]
+
+^<<v23-15-4,4>>^ Tanto Hesbom como Eleale andam gritando; até Jaza se ouve a sua voz; por isso, os armados de Moabe clamam; a sua alma treme dentro dele.
+
+[[v23-15-5]]
+
+^<<v23-15-5,5>>^ O meu coração clama por causa de Moabe, cujos fugitivos vão até Zoar, novilha de três anos; vão chorando pela subida de Luíte e no caminho de Horonaim levantam grito de desespero;
+
+[[v23-15-6]]
+
+^<<v23-15-6,6>>^ porque as águas de Ninrim desaparecem; seca-se o pasto, acaba-se a erva, e já não há verdura alguma,
+
+[[v23-15-7]]
+
+^<<v23-15-7,7>>^ pelo que o que pouparam, o que ganharam e depositaram eles mesmos levam para além das torrentes dos salgueiros;
+
+[[v23-15-8]]
+
+^<<v23-15-8,8>>^ porque o pranto rodeia os limites de Moabe; até Eglaim chega o seu clamor, e ainda até Beer-Elim, o seu lamento;
+
+[[v23-15-9]]
+
+^<<v23-15-9,9>>^ porque as águas de Dimom estão cheias de sangue; pois ainda acrescentarei a Dimom: leões contra aqueles que escaparem de Moabe e contra os restantes da terra.
+
+'''
+
+xref:023-isaias/023-isaias-014.adoc#v23-14-0[&#60; Capítulo Anterior] | <<v23-15-0,Topo>> | xref:023-isaias/023-isaias-016.adoc#v23-16-0[Próximo Capítulo &#62;]

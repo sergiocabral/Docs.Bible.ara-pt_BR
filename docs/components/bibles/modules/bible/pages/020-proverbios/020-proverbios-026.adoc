@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-26-0]]
+=== Provérbios, 26
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v20-26-1]]
+
+^<<v20-26-1,1>>^ Como a neve no verão e como a chuva na ceifa, assim, a honra não convém ao insensato.
+
+[[v20-26-2]]
+
+^<<v20-26-2,2>>^ Como o pássaro que foge, como a andorinha no seu voo, assim, a maldição sem causa não se cumpre.
+
+[[v20-26-3]]
+
+^<<v20-26-3,3>>^ O açoite é para o cavalo, o freio, para o jumento, e a vara, para as costas dos insensatos.
+
+[[v20-26-4]]
+
+^<<v20-26-4,4>>^ Não respondas ao insensato segundo a sua estultícia, para que não te faças semelhante a ele.
+
+[[v20-26-5]]
+
+^<<v20-26-5,5>>^ Ao insensato responde segundo a sua estultícia, para que não seja ele sábio aos seus próprios olhos.
+
+[[v20-26-6]]
+
+^<<v20-26-6,6>>^ Os pés corta e o dano sofre quem manda mensagens por intermédio do insensato.
+
+[[v20-26-7]]
+
+^<<v20-26-7,7>>^ As pernas do coxo pendem bambas; assim é o provérbio na boca dos insensatos.
+
+[[v20-26-8]]
+
+^<<v20-26-8,8>>^ Como o que atira pedra preciosa num montão de ruínas, assim é o que dá honra ao insensato.
+
+[[v20-26-9]]
+
+^<<v20-26-9,9>>^ Como galho de espinhos na mão do bêbado, assim é o provérbio na boca dos insensatos.
+
+[[v20-26-10]]
+
+^<<v20-26-10,10>>^ Como um flecheiro que a todos fere, assim é o que assalaria os insensatos e os transgressores.
+
+[[v20-26-11]]
+
+^<<v20-26-11,11>>^ Como o cão que torna ao seu vômito, assim é o insensato que reitera a sua estultícia.
+
+[[v20-26-12]]
+
+^<<v20-26-12,12>>^ Tens visto a um homem que é sábio a seus próprios olhos? Maior esperança há no insensato do que nele.
+
+[[v20-26-13]]
+
+^<<v20-26-13,13>>^ Diz o preguiçoso: Um leão está no caminho; um leão está nas ruas.
+
+[[v20-26-14]]
+
+^<<v20-26-14,14>>^ Como a porta se revolve nos seus gonzos, assim, o preguiçoso, no seu leito.
+
+[[v20-26-15]]
+
+^<<v20-26-15,15>>^ O preguiçoso mete a mão no prato e não quer ter o trabalho de a levar à boca.
+
+[[v20-26-16]]
+
+^<<v20-26-16,16>>^ Mais sábio é o preguiçoso a seus próprios olhos do que sete homens que sabem responder bem.
+
+[[v20-26-17]]
+
+^<<v20-26-17,17>>^ Quem se mete em questão alheia é como aquele que toma pelas orelhas um cão que passa.
+
+[[v20-26-18]]
+
+^<<v20-26-18,18>>^ Como o louco que lança fogo, flechas e morte,
+
+[[v20-26-19]]
+
+^<<v20-26-19,19>>^ assim é o homem que engana a seu próximo e diz: Fiz isso por brincadeira.
+
+[[v20-26-20]]
+
+^<<v20-26-20,20>>^ Sem lenha, o fogo se apaga; e, não havendo maldizente, cessa a contenda.
+
+[[v20-26-21]]
+
+^<<v20-26-21,21>>^ Como o carvão é para a brasa, e a lenha, para o fogo, assim é o homem contencioso para acender rixas.
+
+[[v20-26-22]]
+
+^<<v20-26-22,22>>^ As palavras do maldizente são comida fina, que desce para o mais interior do ventre.
+
+[[v20-26-23]]
+
+^<<v20-26-23,23>>^ Como vaso de barro coberto de escórias de prata, assim são os lábios amorosos e o coração maligno.
+
+[[v20-26-24]]
+
+^<<v20-26-24,24>>^ Aquele que aborrece dissimula com os lábios, mas no íntimo encobre o engano;
+
+[[v20-26-25]]
+
+^<<v20-26-25,25>>^ quando te falar suavemente, não te fies nele, porque sete abominações há no seu coração.
+
+[[v20-26-26]]
+
+^<<v20-26-26,26>>^ Ainda que o seu ódio se encobre com engano, a sua malícia se descobrirá publicamente.
+
+[[v20-26-27]]
+
+^<<v20-26-27,27>>^ Quem abre uma cova nela cairá; e a pedra rolará sobre quem a revolve.
+
+[[v20-26-28]]
+
+^<<v20-26-28,28>>^ A língua falsa aborrece a quem feriu, e a boca lisonjeira é causa de ruína.
+
+'''
+
+xref:020-proverbios/020-proverbios-025.adoc#v20-25-0[&#60; Capítulo Anterior] | <<v20-26-0,Topo>> | xref:020-proverbios/020-proverbios-027.adoc#v20-27-0[Próximo Capítulo &#62;]

@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v13-24-0]]
+=== 1 Crônicas, 24
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v13-24-1]]
+
+^<<v13-24-1,1>>^ Quanto aos filhos de Arão, foram eles divididos por seus turnos. Filhos de Arão: Nadabe, Abiú, Eleazar e Itamar.
+
+[[v13-24-2]]
+
+^<<v13-24-2,2>>^ Nadabe e Abiú morreram antes de seu pai e não tiveram filhos; Eleazar e Itamar oficiavam como sacerdotes.
+
+[[v13-24-3]]
+
+^<<v13-24-3,3>>^ Davi, com Zadoque, dos filhos de Eleazar, e com Aimeleque, dos filhos de Itamar, os dividiu segundo os seus deveres no seu ministério.
+
+[[v13-24-4]]
+
+^<<v13-24-4,4>>^ E achou-se que eram mais os filhos de Eleazar entre os chefes de famílias do que os filhos de Itamar, quando os dividiram; dos filhos de Eleazar, dezesseis chefes de famílias; dos filhos de Itamar, oito.
+
+[[v13-24-5]]
+
+^<<v13-24-5,5>>^ Repartiram-nos por sortes, uns como os outros; porque havia príncipes do santuário e príncipes de Deus, tanto dos filhos de Eleazar como dos filhos de Itamar.
+
+[[v13-24-6]]
+
+^<<v13-24-6,6>>^ Semaías, escrivão, filho de Natanael, levita, registrou-os na presença do rei, dos príncipes, do sacerdote Zadoque, de Aimeleque, filho de Abiatar, e dos cabeças das famílias dos sacerdotes e dos levitas; sendo escolhidas as famílias, por sorte, alternadamente, para Eleazar e para Itamar.
+
+[[v13-24-7]]
+
+^<<v13-24-7,7>>^ Saiu a primeira sorte a Jeoiaribe; a segunda, a Jedaías;
+
+[[v13-24-8]]
+
+^<<v13-24-8,8>>^ a terceira, a Harim; a quarta, a Seorim;
+
+[[v13-24-9]]
+
+^<<v13-24-9,9>>^ a quinta, a Malquias; a sexta, a Miamim;
+
+[[v13-24-10]]
+
+^<<v13-24-10,10>>^ a sétima, a Hacoz; a oitava, a Abias;
+
+[[v13-24-11]]
+
+^<<v13-24-11,11>>^ a nona, a Jesua; a décima, a Secanias;
+
+[[v13-24-12]]
+
+^<<v13-24-12,12>>^ a undécima, a Eliasibe; a duodécima, a Jaquim;
+
+[[v13-24-13]]
+
+^<<v13-24-13,13>>^ a décima terceira, a Hupá; a décima quarta, a Jesebeabe;
+
+[[v13-24-14]]
+
+^<<v13-24-14,14>>^ a décima quinta, a Bilga; a décima sexta, a Imer;
+
+[[v13-24-15]]
+
+^<<v13-24-15,15>>^ a décima sétima, a Hezir; a décima oitava, a Hapises;
+
+[[v13-24-16]]
+
+^<<v13-24-16,16>>^ a décima nona, a Petaías; a vigésima, a Jeezquel;
+
+[[v13-24-17]]
+
+^<<v13-24-17,17>>^ a vigésima primeira, a Jaquim; a vigésima segunda, a Gamul;
+
+[[v13-24-18]]
+
+^<<v13-24-18,18>>^ a vigésima terceira, a Delaías; a vigésima quarta, a Maazias.
+
+[[v13-24-19]]
+
+^<<v13-24-19,19>>^ O ofício destes no seu ministério era entrar na Casa do SENHOR, segundo a maneira estabelecida por Arão, seu pai, como o SENHOR, Deus de Israel, lhe ordenara.
+
+[[v13-24-20]]
+
+^<<v13-24-20,20>>^ Eis os chefes do restante dos filhos de Levi: dos filhos de Anrão, Subael; dos filhos de Subael, Jedias;
+
+[[v13-24-21]]
+
+^<<v13-24-21,21>>^ dos filhos de Reabias, Issias, o chefe;
+
+[[v13-24-22]]
+
+^<<v13-24-22,22>>^ dos isaritas, Selomite; dos filhos de Selomite, Jaate;
+
+[[v13-24-23]]
+
+^<<v13-24-23,23>>^ dos filhos de Hebrom, Jerias, o primeiro, Amarias, o segundo, Jaaziel, o terceiro, Jecameão, o quarto;
+
+[[v13-24-24]]
+
+^<<v13-24-24,24>>^ dos filhos de Uziel, Mica; dos filhos de Mica, Samir;
+
+[[v13-24-25]]
+
+^<<v13-24-25,25>>^ o irmão de Mica, Issias; dos filhos de Issias, Zacarias;
+
+[[v13-24-26]]
+
+^<<v13-24-26,26>>^ dos filhos de Merari, Mali e Musi; dos filhos de Jaazias, Beno;
+
+[[v13-24-27]]
+
+^<<v13-24-27,27>>^ dos filhos de Merari, da parte de Jaazias: Beno, Soão, Zacur e Ibri;
+
+[[v13-24-28]]
+
+^<<v13-24-28,28>>^ de Mali, Eleazar, que não teve filhos;
+
+[[v13-24-29]]
+
+^<<v13-24-29,29>>^ dos filhos de Quis, Jerameel;
+
+[[v13-24-30]]
+
+^<<v13-24-30,30>>^ dos filhos de Musi, Mali, Éder e Jerimote. Foram estes os filhos dos levitas, segundo as suas famílias.
+
+[[v13-24-31]]
+
+^<<v13-24-31,31>>^ Também estes, tanto os chefes das famílias como os seus irmãos menores, como fizeram os outros seus irmãos, filhos de Arão, lançaram sortes na presença do rei Davi, de Zadoque, de Aimeleque e dos cabeças das famílias dos sacerdotes e dos levitas.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-023.adoc#v13-23-0[&#60; Capítulo Anterior] | <<v13-24-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-025.adoc#v13-25-0[Próximo Capítulo &#62;]

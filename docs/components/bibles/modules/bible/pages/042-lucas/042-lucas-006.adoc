@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v42-6-0]]
+=== Lucas, 6
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v42-6-1]]
+
+^<<v42-6-1,1>>^ Aconteceu que, num sábado, passando Jesus pelas searas, os seus discípulos colhiam e comiam espigas, debulhando-as com as mãos.
+
+[[v42-6-2]]
+
+^<<v42-6-2,2>>^ E alguns dos fariseus lhes disseram: Por que fazeis o que não é lícito aos sábados?
+
+[[v42-6-3]]
+
+^<<v42-6-3,3>>^ Respondeu-lhes Jesus: Nem ao menos tendes lido o que fez Davi, quando teve fome, ele e seus companheiros?
+
+[[v42-6-4]]
+
+^<<v42-6-4,4>>^ Como entrou na casa de Deus, tomou, e comeu os pães da proposição, e os deu aos que com ele estavam, pães que não lhes era lícito comer, mas exclusivamente aos sacerdotes?
+
+[[v42-6-5]]
+
+^<<v42-6-5,5>>^ E acrescentou-lhes: O Filho do Homem é senhor do sábado.
+
+[[v42-6-6]]
+
+^<<v42-6-6,6>>^ Sucedeu que, em outro sábado, entrou ele na sinagoga e ensinava. Ora, achava-se ali um homem cuja mão direita estava ressequida.
+
+[[v42-6-7]]
+
+^<<v42-6-7,7>>^ Os escribas e os fariseus observavam-no, procurando ver se ele faria uma cura no sábado, a fim de acharem de que o acusar.
+
+[[v42-6-8]]
+
+^<<v42-6-8,8>>^ Mas ele, conhecendo-lhes os pensamentos, disse ao homem da mão ressequida: Levanta-te e vem para o meio;  e ele, levantando-se, permaneceu de pé.
+
+[[v42-6-9]]
+
+^<<v42-6-9,9>>^ Então, disse Jesus a eles: Que vos parece? É lícito, no sábado, fazer o bem ou o mal? Salvar a vida ou deixá-la perecer?
+
+[[v42-6-10]]
+
+^<<v42-6-10,10>>^ E, fitando todos ao redor, disse ao homem: Estende a mão.  Ele assim o fez, e a mão lhe foi restaurada.
+
+[[v42-6-11]]
+
+^<<v42-6-11,11>>^ Mas eles se encheram de furor e discutiam entre si quanto ao que fariam a Jesus.
+
+[[v42-6-12]]
+
+^<<v42-6-12,12>>^ Naqueles dias, retirou-se para o monte, a fim de orar, e passou a noite orando a Deus.
+
+[[v42-6-13]]
+
+^<<v42-6-13,13>>^ E, quando amanheceu, chamou a si os seus discípulos e escolheu doze dentre eles, aos quais deu também o nome de apóstolos:
+
+[[v42-6-14]]
+
+^<<v42-6-14,14>>^ Simão, a quem acrescentou o nome de Pedro, e André, seu irmão; Tiago e João; Filipe e Bartolomeu;
+
+[[v42-6-15]]
+
+^<<v42-6-15,15>>^ Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelote;
+
+[[v42-6-16]]
+
+^<<v42-6-16,16>>^ Judas, filho de Tiago, e Judas Iscariotes, que se tornou traidor.
+
+[[v42-6-17]]
+
+^<<v42-6-17,17>>^ E, descendo com eles, parou numa planura onde se encontravam muitos discípulos seus e grande multidão do povo, de toda a Judeia, de Jerusalém e do litoral de Tiro e de Sidom,
+
+[[v42-6-18]]
+
+^<<v42-6-18,18>>^ que vieram para o ouvirem e serem curados de suas enfermidades; também os atormentados por espíritos imundos eram curados.
+
+[[v42-6-19]]
+
+^<<v42-6-19,19>>^ E todos da multidão procuravam tocá-lo, porque dele saía poder; e curava todos.
+
+[[v42-6-20]]
+
+^<<v42-6-20,20>>^ Então, olhando ele para os seus discípulos, disse-lhes: Bem-aventurados vós, os pobres, porque vosso é o reino de Deus.
+
+[[v42-6-21]]
+
+^<<v42-6-21,21>>^ Bem-aventurados vós, os que agora tendes fome, porque sereis fartos. Bem-aventurados vós, os que agora chorais, porque haveis de rir.
+
+[[v42-6-22]]
+
+^<<v42-6-22,22>>^ Bem-aventurados sois quando os homens vos odiarem e quando vos expulsarem da sua companhia, vos injuriarem e rejeitarem o vosso nome como indigno, por causa do Filho do Homem.
+
+[[v42-6-23]]
+
+^<<v42-6-23,23>>^ Regozijai-vos naquele dia e exultai, porque grande é o vosso galardão no céu; pois dessa forma procederam seus pais com os profetas.
+
+[[v42-6-24]]
+
+^<<v42-6-24,24>>^ Mas ai de vós, os ricos! Porque tendes a vossa consolação.
+
+[[v42-6-25]]
+
+^<<v42-6-25,25>>^ Ai de vós, os que estais agora fartos! Porque vireis a ter fome. Ai de vós, os que agora rides! Porque haveis de lamentar e chorar.
+
+[[v42-6-26]]
+
+^<<v42-6-26,26>>^ Ai de vós, quando todos vos louvarem! Porque assim procederam seus pais com os falsos profetas.
+
+[[v42-6-27]]
+
+^<<v42-6-27,27>>^ Digo-vos, porém, a vós outros que me ouvis: amai os vossos inimigos, fazei o bem aos que vos odeiam;
+
+[[v42-6-28]]
+
+^<<v42-6-28,28>>^ bendizei aos que vos maldizem, orai pelos que vos caluniam.
+
+[[v42-6-29]]
+
+^<<v42-6-29,29>>^ Ao que te bate numa face, oferece-lhe também a outra; e, ao que tirar a tua capa, deixa-o levar também a túnica;
+
+[[v42-6-30]]
+
+^<<v42-6-30,30>>^ dá a todo o que te pede; e, se alguém levar o que é teu, não entres em demanda.
+
+[[v42-6-31]]
+
+^<<v42-6-31,31>>^ Como quereis que os homens vos façam, assim fazei-o vós também a eles.
+
+[[v42-6-32]]
+
+^<<v42-6-32,32>>^ Se amais os que vos amam, qual é a vossa recompensa? Porque até os pecadores amam aos que os amam.
+
+[[v42-6-33]]
+
+^<<v42-6-33,33>>^ Se fizerdes o bem aos que vos fazem o bem, qual é a vossa recompensa? Até os pecadores fazem isso.
+
+[[v42-6-34]]
+
+^<<v42-6-34,34>>^ E, se emprestais àqueles de quem esperais receber, qual é a vossa recompensa? Também os pecadores emprestam aos pecadores, para receberem outro tanto.
+
+[[v42-6-35]]
+
+^<<v42-6-35,35>>^ Amai, porém, os vossos inimigos, fazei o bem e emprestai, sem esperar nenhuma paga; será grande o vosso galardão, e sereis filhos do Altíssimo. Pois ele é benigno até para com os ingratos e maus.
+
+[[v42-6-36]]
+
+^<<v42-6-36,36>>^ Sede misericordiosos, como também é misericordioso vosso Pai.
+
+[[v42-6-37]]
+
+^<<v42-6-37,37>>^ Não julgueis e não sereis julgados; não condeneis e não sereis condenados; perdoai e sereis perdoados;
+
+[[v42-6-38]]
+
+^<<v42-6-38,38>>^ dai, e dar-se-vos-á; boa medida, recalcada, sacudida, transbordante, generosamente vos darão; porque com a medida com que tiverdes medido vos medirão também.
+
+[[v42-6-39]]
+
+^<<v42-6-39,39>>^ Propôs-lhes também uma parábola: Pode, porventura, um cego guiar a outro cego? Não cairão ambos no barranco?
+
+[[v42-6-40]]
+
+^<<v42-6-40,40>>^ O discípulo não está acima do seu mestre; todo aquele, porém, que for bem-instruído será como o seu mestre.
+
+[[v42-6-41]]
+
+^<<v42-6-41,41>>^ Por que vês tu o argueiro no olho de teu irmão, porém não reparas na trave que está no teu próprio?
+
+[[v42-6-42]]
+
+^<<v42-6-42,42>>^ Como poderás dizer a teu irmão: Deixa, irmão, que eu tire o argueiro do teu olho, não vendo tu mesmo a trave que está no teu? Hipócrita, tira primeiro a trave do teu olho e, então, verás claramente para tirar o argueiro que está no olho de teu irmão.
+
+[[v42-6-43]]
+
+^<<v42-6-43,43>>^ Não há árvore boa que dê mau fruto; nem tampouco árvore má que dê bom fruto.
+
+[[v42-6-44]]
+
+^<<v42-6-44,44>>^ Porquanto cada árvore é conhecida pelo seu próprio fruto. Porque não se colhem figos de espinheiros, nem dos abrolhos se vindimam uvas.
+
+[[v42-6-45]]
+
+^<<v42-6-45,45>>^ O homem bom do bom tesouro do coração tira o bem, e o mau do mau tesouro tira o mal; porque a boca fala do que está cheio o coração.
+
+[[v42-6-46]]
+
+^<<v42-6-46,46>>^ Por que me chamais Senhor, Senhor, e não fazeis o que vos mando?
+
+[[v42-6-47]]
+
+^<<v42-6-47,47>>^ Todo aquele que vem a mim, e ouve as minhas palavras, e as pratica, eu vos mostrarei a quem é semelhante.
+
+[[v42-6-48]]
+
+^<<v42-6-48,48>>^ É semelhante a um homem que, edificando uma casa, cavou, abriu profunda vala e lançou o alicerce sobre a rocha; e, vindo a enchente, arrojou-se o rio contra aquela casa e não a pôde abalar, por ter sido bem-construída.
+
+[[v42-6-49]]
+
+^<<v42-6-49,49>>^ Mas o que ouve e não pratica é semelhante a um homem que edificou uma casa sobre a terra sem alicerces, e, arrojando-se o rio contra ela, logo desabou; e aconteceu que foi grande a ruína daquela casa.
+
+'''
+
+xref:042-lucas/042-lucas-005.adoc#v42-5-0[&#60; Capítulo Anterior] | <<v42-6-0,Topo>> | xref:042-lucas/042-lucas-007.adoc#v42-7-0[Próximo Capítulo &#62;]

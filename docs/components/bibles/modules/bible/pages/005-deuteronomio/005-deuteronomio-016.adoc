@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v5-16-0]]
+=== Deuteronômio, 16
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v5-16-1]]
+
+^<<v5-16-1,1>>^ Guarda o mês de abibe e celebra a Páscoa do SENHOR, teu Deus; porque, no mês de abibe, o SENHOR, teu Deus, te tirou do Egito, de noite.
+
+[[v5-16-2]]
+
+^<<v5-16-2,2>>^ Então, sacrificarás como oferta de Páscoa ao SENHOR, teu Deus, do rebanho e do gado, no lugar que o SENHOR escolher para ali fazer habitar o seu nome.
+
+[[v5-16-3]]
+
+^<<v5-16-3,3>>^ Nela, não comerás levedado; sete dias, nela, comerás pães asmos, pão de aflição (porquanto, apressadamente, saíste da terra do Egito), para que te lembres, todos os dias da tua vida, do dia em que saíste da terra do Egito.
+
+[[v5-16-4]]
+
+^<<v5-16-4,4>>^ Fermento não se achará contigo por sete dias, em todo o teu território; também da carne que sacrificares à tarde, no primeiro dia, nada ficará até pela manhã.
+
+[[v5-16-5]]
+
+^<<v5-16-5,5>>^ Não poderás sacrificar a Páscoa em nenhuma das tuas cidades que te dá o SENHOR, teu Deus,
+
+[[v5-16-6]]
+
+^<<v5-16-6,6>>^ senão no lugar que o SENHOR, teu Deus, escolher para fazer habitar o seu nome, ali sacrificarás a Páscoa à tarde, ao pôr do sol, ao tempo em que saíste do Egito.
+
+[[v5-16-7]]
+
+^<<v5-16-7,7>>^ Então, a cozerás e comerás no lugar que o SENHOR, teu Deus, escolher; sairás pela manhã e voltarás às tuas tendas.
+
+[[v5-16-8]]
+
+^<<v5-16-8,8>>^ Seis dias comerás pães asmos, e, no sétimo dia, é solenidade ao SENHOR, teu Deus; nenhuma obra farás.
+
+[[v5-16-9]]
+
+^<<v5-16-9,9>>^ Sete semanas contarás; quando a foice começar na seara, entrarás a contar as sete semanas.
+
+[[v5-16-10]]
+
+^<<v5-16-10,10>>^ E celebrarás a Festa das Semanas ao SENHOR, teu Deus, com ofertas voluntárias da tua mão, segundo o SENHOR, teu Deus, te houver abençoado.
+
+[[v5-16-11]]
+
+^<<v5-16-11,11>>^ Alegrar-te-ás perante o SENHOR, teu Deus, tu, e o teu filho, e a tua filha, e o teu servo, e a tua serva, e o levita que está dentro da tua cidade, e o estrangeiro, e o órfão, e a viúva que estão no meio de ti, no lugar que o SENHOR, teu Deus, escolher para ali fazer habitar o seu nome.
+
+[[v5-16-12]]
+
+^<<v5-16-12,12>>^ Lembrar-te-ás de que foste servo no Egito, e guardarás estes estatutos, e os cumprirás.
+
+[[v5-16-13]]
+
+^<<v5-16-13,13>>^ A Festa dos Tabernáculos, celebrá-la-ás por sete dias, quando houveres recolhido da tua eira e do teu lagar.
+
+[[v5-16-14]]
+
+^<<v5-16-14,14>>^ Alegrar-te-ás, na tua festa, tu, e o teu filho, e a tua filha, e o teu servo, e a tua serva, e o levita, e o estrangeiro, e o órfão, e a viúva que estão dentro das tuas cidades.
+
+[[v5-16-15]]
+
+^<<v5-16-15,15>>^ Sete dias celebrarás a festa ao SENHOR, teu Deus, no lugar que o SENHOR escolher, porque o SENHOR, teu Deus, há de abençoar-te em toda a tua colheita e em toda obra das tuas mãos, pelo que de todo te alegrarás.
+
+[[v5-16-16]]
+
+^<<v5-16-16,16>>^ Três vezes no ano, todo varão entre ti aparecerá perante o SENHOR, teu Deus, no lugar que escolher, na Festa dos Pães Asmos, e na Festa das Semanas, e na Festa dos Tabernáculos; porém não aparecerá de mãos vazias perante o SENHOR;
+
+[[v5-16-17]]
+
+^<<v5-16-17,17>>^ cada um oferecerá na proporção em que possa dar, segundo a bênção que o SENHOR, seu Deus, lhe houver concedido.
+
+[[v5-16-18]]
+
+^<<v5-16-18,18>>^ Juízes e oficiais constituirás em todas as tuas cidades que o SENHOR, teu Deus, te der entre as tuas tribos, para que julguem o povo com reto juízo.
+
+[[v5-16-19]]
+
+^<<v5-16-19,19>>^ Não torcerás a justiça, não farás acepção de pessoas, nem tomarás suborno; porquanto o suborno cega os olhos dos sábios e subverte a causa dos justos.
+
+[[v5-16-20]]
+
+^<<v5-16-20,20>>^ A justiça seguirás, somente a justiça, para que vivas e possuas em herança a terra que te dá o SENHOR, teu Deus.
+
+[[v5-16-21]]
+
+^<<v5-16-21,21>>^ Não estabelecerás poste-ídolo, plantando qualquer árvore junto ao altar do SENHOR, teu Deus, que fizeres para ti.
+
+[[v5-16-22]]
+
+^<<v5-16-22,22>>^ Nem levantarás coluna, a qual o SENHOR, teu Deus, odeia.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-015.adoc#v5-15-0[&#60; Capítulo Anterior] | <<v5-16-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-017.adoc#v5-17-0[Próximo Capítulo &#62;]

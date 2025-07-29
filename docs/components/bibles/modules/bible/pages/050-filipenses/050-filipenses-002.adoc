@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v50-2-0]]
+=== Filipenses, 2
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v50-2-1]]
+
+^<<v50-2-1,1>>^ Se há, pois, alguma exortação em Cristo, alguma consolação de amor, alguma comunhão do Espírito, se há entranhados afetos e misericórdias,
+
+[[v50-2-2]]
+
+^<<v50-2-2,2>>^ completai a minha alegria, de modo que penseis a mesma coisa, tenhais o mesmo amor, sejais unidos de alma, tendo o mesmo sentimento.
+
+[[v50-2-3]]
+
+^<<v50-2-3,3>>^ Nada façais por partidarismo ou vanglória, mas por humildade, considerando cada um os outros superiores a si mesmo.
+
+[[v50-2-4]]
+
+^<<v50-2-4,4>>^ Não tenha cada um em vista o que é propriamente seu, senão também cada qual o que é dos outros.
+
+[[v50-2-5]]
+
+^<<v50-2-5,5>>^ Tende em vós o mesmo sentimento que houve também em Cristo Jesus,
+
+[[v50-2-6]]
+
+^<<v50-2-6,6>>^ pois ele, subsistindo em forma de Deus, não julgou como usurpação o ser igual a Deus;
+
+[[v50-2-7]]
+
+^<<v50-2-7,7>>^ antes, a si mesmo se esvaziou, assumindo a forma de servo, tornando-se em semelhança de homens; e, reconhecido em figura humana,
+
+[[v50-2-8]]
+
+^<<v50-2-8,8>>^ a si mesmo se humilhou, tornando-se obediente até à morte e morte de cruz.
+
+[[v50-2-9]]
+
+^<<v50-2-9,9>>^ Pelo que também Deus o exaltou sobremaneira e lhe deu o nome que está acima de todo nome,
+
+[[v50-2-10]]
+
+^<<v50-2-10,10>>^ para que ao nome de Jesus se dobre todo joelho, nos céus, na terra e debaixo da terra,
+
+[[v50-2-11]]
+
+^<<v50-2-11,11>>^ e toda língua confesse que Jesus Cristo é Senhor, para glória de Deus Pai.
+
+[[v50-2-12]]
+
+^<<v50-2-12,12>>^ Assim, pois, amados meus, como sempre obedecestes, não só na minha presença, porém, muito mais agora, na minha ausência, desenvolvei a vossa salvação com temor e tremor;
+
+[[v50-2-13]]
+
+^<<v50-2-13,13>>^ porque Deus é quem efetua em vós tanto o querer como o realizar, segundo a sua boa vontade.
+
+[[v50-2-14]]
+
+^<<v50-2-14,14>>^ Fazei tudo sem murmurações nem contendas,
+
+[[v50-2-15]]
+
+^<<v50-2-15,15>>^ para que vos torneis irrepreensíveis e sinceros, filhos de Deus inculpáveis no meio de uma geração pervertida e corrupta, na qual resplandeceis como luzeiros no mundo,
+
+[[v50-2-16]]
+
+^<<v50-2-16,16>>^ preservando a palavra da vida, para que, no Dia de Cristo, eu me glorie de que não corri em vão, nem me esforcei inutilmente.
+
+[[v50-2-17]]
+
+^<<v50-2-17,17>>^ Entretanto, mesmo que seja eu oferecido por libação sobre o sacrifício e serviço da vossa fé, alegro-me e, com todos vós, me congratulo.
+
+[[v50-2-18]]
+
+^<<v50-2-18,18>>^ Assim, vós também, pela mesma razão, alegrai-vos e congratulai-vos comigo.
+
+[[v50-2-19]]
+
+^<<v50-2-19,19>>^ Espero, porém, no Senhor Jesus, mandar-vos Timóteo, o mais breve possível, a fim de que eu me sinta animado também, tendo conhecimento da vossa situação.
+
+[[v50-2-20]]
+
+^<<v50-2-20,20>>^ Porque a ninguém tenho de igual sentimento que, sinceramente, cuide dos vossos interesses;
+
+[[v50-2-21]]
+
+^<<v50-2-21,21>>^ pois todos eles buscam o que é seu próprio, não o que é de Cristo Jesus.
+
+[[v50-2-22]]
+
+^<<v50-2-22,22>>^ E conheceis o seu caráter provado, pois serviu ao evangelho, junto comigo, como filho ao pai.
+
+[[v50-2-23]]
+
+^<<v50-2-23,23>>^ Este, com efeito, é quem espero enviar, tão logo tenha eu visto a minha situação.
+
+[[v50-2-24]]
+
+^<<v50-2-24,24>>^ E estou persuadido no Senhor de que também eu mesmo, brevemente, irei.
+
+[[v50-2-25]]
+
+^<<v50-2-25,25>>^ Julguei, todavia, necessário mandar até vós Epafrodito, por um lado, meu irmão, cooperador e companheiro de lutas; e, por outro, vosso mensageiro e vosso auxiliar nas minhas necessidades;
+
+[[v50-2-26]]
+
+^<<v50-2-26,26>>^ visto que ele tinha saudade de todos vós e estava angustiado porque ouvistes que adoeceu.
+
+[[v50-2-27]]
+
+^<<v50-2-27,27>>^ Com efeito, adoeceu mortalmente; Deus, porém, se compadeceu dele e não somente dele, mas também de mim, para que eu não tivesse tristeza sobre tristeza.
+
+[[v50-2-28]]
+
+^<<v50-2-28,28>>^ Por isso, tanto mais me apresso em mandá-lo, para que, vendo-o novamente, vos alegreis, e eu tenha menos tristeza.
+
+[[v50-2-29]]
+
+^<<v50-2-29,29>>^ Recebei-o, pois, no Senhor, com toda a alegria, e honrai sempre a homens como esse;
+
+[[v50-2-30]]
+
+^<<v50-2-30,30>>^ visto que, por causa da obra de Cristo, chegou ele às portas da morte e se dispôs a dar a própria vida, para suprir a vossa carência de socorro para comigo.
+
+'''
+
+xref:050-filipenses/050-filipenses-001.adoc#v50-1-0[&#60; Capítulo Anterior] | <<v50-2-0,Topo>> | xref:050-filipenses/050-filipenses-003.adoc#v50-3-0[Próximo Capítulo &#62;]

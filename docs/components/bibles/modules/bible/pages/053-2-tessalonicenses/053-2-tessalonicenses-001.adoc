@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v53-1-0]]
+=== 2 Tessalonicenses, 1
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v53-1-1]]
+
+^<<v53-1-1,1>>^ Paulo, Silvano e Timóteo, à igreja dos tessalonicenses, em Deus, nosso Pai, e no Senhor Jesus Cristo,
+
+[[v53-1-2]]
+
+^<<v53-1-2,2>>^ graça e paz a vós outros, da parte de Deus Pai e do Senhor Jesus Cristo.
+
+[[v53-1-3]]
+
+^<<v53-1-3,3>>^ Irmãos, cumpre-nos dar sempre graças a Deus no tocante a vós outros, como é justo, pois a vossa fé cresce sobremaneira, e o vosso mútuo amor de uns para com os outros vai aumentando,
+
+[[v53-1-4]]
+
+^<<v53-1-4,4>>^ a tal ponto que nós mesmos nos gloriamos de vós nas igrejas de Deus, à vista da vossa constância e fé, em todas as vossas perseguições e nas tribulações que suportais,
+
+[[v53-1-5]]
+
+^<<v53-1-5,5>>^ sinal evidente do reto juízo de Deus, para que sejais considerados dignos do reino de Deus, pelo qual, com efeito, estais sofrendo;
+
+[[v53-1-6]]
+
+^<<v53-1-6,6>>^ se, de fato, é justo para com Deus que ele dê em paga tribulação aos que vos atribulam
+
+[[v53-1-7]]
+
+^<<v53-1-7,7>>^ e a vós outros, que sois atribulados, alívio juntamente conosco, quando do céu se manifestar o Senhor Jesus com os anjos do seu poder,
+
+[[v53-1-8]]
+
+^<<v53-1-8,8>>^ em chama de fogo, tomando vingança contra os que não conhecem a Deus e contra os que não obedecem ao evangelho de nosso Senhor Jesus.
+
+[[v53-1-9]]
+
+^<<v53-1-9,9>>^ Estes sofrerão penalidade de eterna destruição, banidos da face do Senhor e da glória do seu poder,
+
+[[v53-1-10]]
+
+^<<v53-1-10,10>>^ quando vier para ser glorificado nos seus santos e ser admirado em todos os que creram, naquele dia (porquanto foi crido entre vós o nosso testemunho).
+
+[[v53-1-11]]
+
+^<<v53-1-11,11>>^ Por isso, também não cessamos de orar por vós, para que o nosso Deus vos torne dignos da sua vocação e cumpra com poder todo propósito de bondade e obra de fé,
+
+[[v53-1-12]]
+
+^<<v53-1-12,12>>^ a fim de que o nome de nosso Senhor Jesus seja glorificado em vós, e vós, nele, segundo a graça do nosso Deus e do Senhor Jesus Cristo.
+
+'''
+
+xref:052-1-tessalonicenses/052-1-tessalonicenses-005.adoc#v52-5-0[&#60; Capítulo Anterior] | <<v53-1-0,Topo>> | xref:053-2-tessalonicenses/053-2-tessalonicenses-002.adoc#v53-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v23-6-0]]
+=== Isaías, 6
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v23-6-1]]
+
+^<<v23-6-1,1>>^ No ano da morte do rei Uzias, eu vi o Senhor assentado sobre um alto e sublime trono, e as abas de suas vestes enchiam o templo.
+
+[[v23-6-2]]
+
+^<<v23-6-2,2>>^ Serafins estavam por cima dele; cada um tinha seis asas: com duas cobria o rosto, com duas cobria os seus pés e com duas voava.
+
+[[v23-6-3]]
+
+^<<v23-6-3,3>>^ E clamavam uns para os outros, dizendo: Santo, santo, santo é o SENHOR dos Exércitos; toda a terra está cheia da sua glória.
+
+[[v23-6-4]]
+
+^<<v23-6-4,4>>^ As bases do limiar se moveram à voz do que clamava, e a casa se encheu de fumaça.
+
+[[v23-6-5]]
+
+^<<v23-6-5,5>>^ Então, disse eu: ai de mim! Estou perdido! Porque sou homem de lábios impuros, habito no meio de um povo de impuros lábios, e os meus olhos viram o Rei, o SENHOR dos Exércitos!
+
+[[v23-6-6]]
+
+^<<v23-6-6,6>>^ Então, um dos serafins voou para mim, trazendo na mão uma brasa viva, que tirara do altar com uma tenaz;
+
+[[v23-6-7]]
+
+^<<v23-6-7,7>>^ com a brasa tocou a minha boca e disse: Eis que ela tocou os teus lábios; a tua iniquidade foi tirada, e perdoado, o teu pecado.
+
+[[v23-6-8]]
+
+^<<v23-6-8,8>>^ Depois disto, ouvi a voz do Senhor, que dizia: A quem enviarei, e quem há de ir por nós? Disse eu: eis-me aqui, envia-me a mim.
+
+[[v23-6-9]]
+
+^<<v23-6-9,9>>^ Então, disse ele: Vai e dize a este povo: Ouvi, ouvi e não entendais; vede, vede, mas não percebais.
+
+[[v23-6-10]]
+
+^<<v23-6-10,10>>^ Torna insensível o coração deste povo, endurece-lhe os ouvidos e fecha-lhe os olhos, para que não venha ele a ver com os olhos, a ouvir com os ouvidos e a entender com o coração, e se converta, e seja salvo.
+
+[[v23-6-11]]
+
+^<<v23-6-11,11>>^ Então, disse eu: até quando, Senhor? Ele respondeu: Até que sejam desoladas as cidades e fiquem sem habitantes, as casas fiquem sem moradores, e a terra seja de todo assolada,
+
+[[v23-6-12]]
+
+^<<v23-6-12,12>>^ e o SENHOR afaste dela os homens, e no meio da terra seja grande o desamparo.
+
+[[v23-6-13]]
+
+^<<v23-6-13,13>>^ Mas, se ainda ficar a décima parte dela, tornará a ser destruída. Como terebinto e como carvalho, dos quais, depois de derribados, ainda fica o toco, assim a santa semente é o seu toco.
+
+'''
+
+xref:023-isaias/023-isaias-005.adoc#v23-5-0[&#60; Capítulo Anterior] | <<v23-6-0,Topo>> | xref:023-isaias/023-isaias-007.adoc#v23-7-0[Próximo Capítulo &#62;]

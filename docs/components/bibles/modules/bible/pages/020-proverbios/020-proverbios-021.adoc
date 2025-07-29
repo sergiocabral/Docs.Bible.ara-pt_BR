@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v20-21-0]]
+=== Provérbios, 21
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v20-21-1]]
+
+^<<v20-21-1,1>>^ Como ribeiros de águas assim é o coração do rei na mão do SENHOR; este, segundo o seu querer, o inclina.
+
+[[v20-21-2]]
+
+^<<v20-21-2,2>>^ Todo caminho do homem é reto aos seus próprios olhos, mas o SENHOR sonda os corações.
+
+[[v20-21-3]]
+
+^<<v20-21-3,3>>^ Exercitar justiça e juízo é mais aceitável ao SENHOR do que sacrifício.
+
+[[v20-21-4]]
+
+^<<v20-21-4,4>>^ Olhar altivo e coração orgulhoso, a lâmpada dos perversos, são pecado.
+
+[[v20-21-5]]
+
+^<<v20-21-5,5>>^ Os planos do diligente tendem à abundância, mas a pressa excessiva, à pobreza.
+
+[[v20-21-6]]
+
+^<<v20-21-6,6>>^ Trabalhar por adquirir tesouro com língua falsa é vaidade e laço mortal.
+
+[[v20-21-7]]
+
+^<<v20-21-7,7>>^ A violência dos perversos os arrebata, porque recusam praticar a justiça.
+
+[[v20-21-8]]
+
+^<<v20-21-8,8>>^ Tortuoso é o caminho do homem carregado de culpa, mas reto, o proceder do honesto.
+
+[[v20-21-9]]
+
+^<<v20-21-9,9>>^ Melhor é morar no canto do eirado do que junto com a mulher rixosa na mesma casa.
+
+[[v20-21-10]]
+
+^<<v20-21-10,10>>^ A alma do perverso deseja o mal; nem o seu vizinho recebe dele compaixão.
+
+[[v20-21-11]]
+
+^<<v20-21-11,11>>^ Quando o escarnecedor é castigado, o simples se torna sábio; e, quando o sábio é instruído, recebe o conhecimento.
+
+[[v20-21-12]]
+
+^<<v20-21-12,12>>^ O Justo considera a casa dos perversos e os arrasta para o mal.
+
+[[v20-21-13]]
+
+^<<v20-21-13,13>>^ O que tapa o ouvido ao clamor do pobre também clamará e não será ouvido.
+
+[[v20-21-14]]
+
+^<<v20-21-14,14>>^ O presente que se dá em segredo abate a ira, e a dádiva em sigilo, uma forte indignação.
+
+[[v20-21-15]]
+
+^<<v20-21-15,15>>^ Praticar a justiça é alegria para o justo, mas espanto, para os que praticam a iniquidade.
+
+[[v20-21-16]]
+
+^<<v20-21-16,16>>^ O homem que se desvia do caminho do entendimento na congregação dos mortos repousará.
+
+[[v20-21-17]]
+
+^<<v20-21-17,17>>^ Quem ama os prazeres empobrecerá, quem ama o vinho e o azeite jamais enriquecerá.
+
+[[v20-21-18]]
+
+^<<v20-21-18,18>>^ O perverso serve de resgate para o justo; e, para os retos, o pérfido.
+
+[[v20-21-19]]
+
+^<<v20-21-19,19>>^ Melhor é morar numa terra deserta do que com a mulher rixosa e iracunda.
+
+[[v20-21-20]]
+
+^<<v20-21-20,20>>^ Tesouro desejável e azeite há na casa do sábio, mas o homem insensato os desperdiça.
+
+[[v20-21-21]]
+
+^<<v20-21-21,21>>^ O que segue a justiça e a bondade achará a vida, a justiça e a honra.
+
+[[v20-21-22]]
+
+^<<v20-21-22,22>>^ O sábio escala a cidade dos valentes e derriba a fortaleza em que ela confia.
+
+[[v20-21-23]]
+
+^<<v20-21-23,23>>^ O que guarda a boca e a língua guarda a sua alma das angústias.
+
+[[v20-21-24]]
+
+^<<v20-21-24,24>>^ Quanto ao soberbo e presumido, zombador é seu nome; procede com indignação e arrogância.
+
+[[v20-21-25]]
+
+^<<v20-21-25,25>>^ O preguiçoso morre desejando, porque as suas mãos recusam trabalhar.
+
+[[v20-21-26]]
+
+^<<v20-21-26,26>>^ O cobiçoso cobiça todo o dia, mas o justo dá e nada retém.
+
+[[v20-21-27]]
+
+^<<v20-21-27,27>>^ O sacrifício dos perversos já é abominação; quanto mais oferecendo-o com intenção maligna!
+
+[[v20-21-28]]
+
+^<<v20-21-28,28>>^ A testemunha falsa perecerá, mas a auricular falará sem ser contestada.
+
+[[v20-21-29]]
+
+^<<v20-21-29,29>>^ O homem perverso mostra dureza no rosto, mas o reto considera o seu caminho.
+
+[[v20-21-30]]
+
+^<<v20-21-30,30>>^ Não há sabedoria, nem inteligência, nem mesmo conselho contra o SENHOR.
+
+[[v20-21-31]]
+
+^<<v20-21-31,31>>^ O cavalo prepara-se para o dia da batalha, mas a vitória vem do SENHOR.
+
+'''
+
+xref:020-proverbios/020-proverbios-020.adoc#v20-20-0[&#60; Capítulo Anterior] | <<v20-21-0,Topo>> | xref:020-proverbios/020-proverbios-022.adoc#v20-22-0[Próximo Capítulo &#62;]

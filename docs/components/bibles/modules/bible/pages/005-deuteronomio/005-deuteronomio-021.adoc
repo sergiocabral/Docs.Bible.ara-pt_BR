@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v5-21-0]]
+=== Deuteronômio, 21
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v5-21-1]]
+
+^<<v5-21-1,1>>^ Quando na terra que te der o SENHOR, teu Deus, para possuí-la se achar alguém morto, caído no campo, sem que se saiba quem o matou,
+
+[[v5-21-2]]
+
+^<<v5-21-2,2>>^ sairão os teus anciãos e os teus juízes e medirão a distância até às cidades que estiverem em redor do morto.
+
+[[v5-21-3]]
+
+^<<v5-21-3,3>>^ Os anciãos da cidade mais próxima do morto tomarão uma novilha da manada, que não tenha trabalhado, nem puxado com o jugo,
+
+[[v5-21-4]]
+
+^<<v5-21-4,4>>^ e a trarão a um vale de águas correntes, que não foi lavrado, nem semeado; e ali, naquele vale, desnucarão a novilha.
+
+[[v5-21-5]]
+
+^<<v5-21-5,5>>^ Chegar-se-ão os sacerdotes, filhos de Levi, porque o SENHOR, teu Deus, os escolheu para o servirem, para abençoarem em nome do SENHOR e, por sua palavra, decidirem toda demanda e todo caso de violência.
+
+[[v5-21-6]]
+
+^<<v5-21-6,6>>^ Todos os anciãos desta cidade, mais próximos do morto, lavarão as mãos sobre a novilha desnucada no vale
+
+[[v5-21-7]]
+
+^<<v5-21-7,7>>^ e dirão: As nossas mãos não derramaram este sangue, e os nossos olhos o não viram derramar-se.
+
+[[v5-21-8]]
+
+^<<v5-21-8,8>>^ Sê propício ao teu povo de Israel, que tu, ó SENHOR, resgataste, e não ponhas a culpa do sangue inocente no meio do teu povo de Israel. E a culpa daquele sangue lhe será perdoada.
+
+[[v5-21-9]]
+
+^<<v5-21-9,9>>^ Assim, eliminarás a culpa do sangue inocente do meio de ti, pois farás o que é reto aos olhos do SENHOR.
+
+[[v5-21-10]]
+
+^<<v5-21-10,10>>^ Quando saíres à peleja contra os teus inimigos, e o SENHOR, teu Deus, os entregar nas tuas mãos, e tu deles levares cativos,
+
+[[v5-21-11]]
+
+^<<v5-21-11,11>>^ e vires entre eles uma mulher formosa, e te afeiçoares a ela, e a quiseres tomar por mulher,
+
+[[v5-21-12]]
+
+^<<v5-21-12,12>>^ então, a levarás para casa, e ela rapará a cabeça, e cortará as unhas,
+
+[[v5-21-13]]
+
+^<<v5-21-13,13>>^ e despirá o vestido do seu cativeiro, e ficará na tua casa, e chorará a seu pai e a sua mãe durante um mês. Depois disto, a tomarás; tu serás seu marido, e ela, tua mulher.
+
+[[v5-21-14]]
+
+^<<v5-21-14,14>>^ E, se não te agradares dela, deixá-la-ás ir à sua própria vontade; porém, de nenhuma sorte, a venderás por dinheiro, nem a tratarás mal, pois a tens humilhado.
+
+[[v5-21-15]]
+
+^<<v5-21-15,15>>^ Se um homem tiver duas mulheres, uma a quem ama e outra a quem aborrece, e uma e outra lhe derem filhos, e o primogênito for da aborrecida,
+
+[[v5-21-16]]
+
+^<<v5-21-16,16>>^ no dia em que fizer herdar a seus filhos aquilo que possuir, não poderá dar a primogenitura ao filho da amada, preferindo-o ao filho da aborrecida, que é o primogênito.
+
+[[v5-21-17]]
+
+^<<v5-21-17,17>>^ Mas ao filho da aborrecida reconhecerá por primogênito, dando-lhe dobrada porção de tudo quanto possuir, porquanto aquele é o primogênito do seu vigor; o direito da primogenitura é dele.
+
+[[v5-21-18]]
+
+^<<v5-21-18,18>>^ Se alguém tiver um filho contumaz e rebelde, que não obedece à voz de seu pai e à de sua mãe e, ainda castigado, não lhes dá ouvidos,
+
+[[v5-21-19]]
+
+^<<v5-21-19,19>>^ seu pai e sua mãe o pegarão, e o levarão aos anciãos da cidade, à sua porta,
+
+[[v5-21-20]]
+
+^<<v5-21-20,20>>^ e lhes dirão: Este nosso filho é rebelde e contumaz, não dá ouvidos à nossa voz, é dissoluto e beberrão.
+
+[[v5-21-21]]
+
+^<<v5-21-21,21>>^ Então, todos os homens da sua cidade o apedrejarão até que morra; assim, eliminarás o mal do meio de ti; todo o Israel ouvirá e temerá.
+
+[[v5-21-22]]
+
+^<<v5-21-22,22>>^ Se alguém houver pecado, passível da pena de morte, e tiver sido morto, e o pendurares num madeiro,
+
+[[v5-21-23]]
+
+^<<v5-21-23,23>>^ o seu cadáver não permanecerá no madeiro durante a noite, mas, certamente, o enterrarás no mesmo dia; porquanto o que for pendurado no madeiro é maldito de Deus; assim, não contaminarás a terra que o SENHOR, teu Deus, te dá em herança.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-020.adoc#v5-20-0[&#60; Capítulo Anterior] | <<v5-21-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-022.adoc#v5-22-0[Próximo Capítulo &#62;]

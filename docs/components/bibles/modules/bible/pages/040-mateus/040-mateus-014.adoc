@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v40-14-0]]
+=== Mateus, 14
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v40-14-1]]
+
+^<<v40-14-1,1>>^ Por aquele tempo, ouviu o tetrarca Herodes a fama de Jesus
+
+[[v40-14-2]]
+
+^<<v40-14-2,2>>^ e disse aos que o serviam: Este é João Batista; ele ressuscitou dos mortos, e, por isso, nele operam forças miraculosas.
+
+[[v40-14-3]]
+
+^<<v40-14-3,3>>^ Porque Herodes, havendo prendido e atado a João, o metera no cárcere, por causa de Herodias, mulher de Filipe, seu irmão;
+
+[[v40-14-4]]
+
+^<<v40-14-4,4>>^ pois João lhe dizia: Não te é lícito possuí-la.
+
+[[v40-14-5]]
+
+^<<v40-14-5,5>>^ E, querendo matá-lo, temia o povo, porque o tinham como profeta.
+
+[[v40-14-6]]
+
+^<<v40-14-6,6>>^ Ora, tendo chegado o dia natalício de Herodes, dançou a filha de Herodias diante de todos e agradou a Herodes.
+
+[[v40-14-7]]
+
+^<<v40-14-7,7>>^ Pelo que prometeu, com juramento, dar-lhe o que pedisse.
+
+[[v40-14-8]]
+
+^<<v40-14-8,8>>^ Então, ela, instigada por sua mãe, disse: Dá-me, aqui, num prato, a cabeça de João Batista.
+
+[[v40-14-9]]
+
+^<<v40-14-9,9>>^ Entristeceu-se o rei, mas, por causa do juramento e dos que estavam com ele à mesa, determinou que lha dessem;
+
+[[v40-14-10]]
+
+^<<v40-14-10,10>>^ e deu ordens e decapitou a João no cárcere.
+
+[[v40-14-11]]
+
+^<<v40-14-11,11>>^ Foi trazida a cabeça num prato e dada à jovem, que a levou a sua mãe.
+
+[[v40-14-12]]
+
+^<<v40-14-12,12>>^ Então, vieram os seus discípulos, levaram o corpo e o sepultaram; depois, foram e o anunciaram a Jesus.
+
+[[v40-14-13]]
+
+^<<v40-14-13,13>>^ Jesus, ouvindo isto, retirou-se dali num barco, para um lugar deserto, à parte; sabendo-o as multidões, vieram das cidades seguindo-o por terra.
+
+[[v40-14-14]]
+
+^<<v40-14-14,14>>^ Desembarcando, viu Jesus uma grande multidão, compadeceu-se dela e curou os seus enfermos.
+
+[[v40-14-15]]
+
+^<<v40-14-15,15>>^ Ao cair da tarde, vieram os discípulos a Jesus e lhe disseram: O lugar é deserto, e vai adiantada a hora; despede, pois, as multidões para que, indo pelas aldeias, comprem para si o que comer.
+
+[[v40-14-16]]
+
+^<<v40-14-16,16>>^ Jesus, porém, lhes disse: Não precisam retirar-se; dai-lhes, vós mesmos, de comer.
+
+[[v40-14-17]]
+
+^<<v40-14-17,17>>^ Mas eles responderam: Não temos aqui senão cinco pães e dois peixes.
+
+[[v40-14-18]]
+
+^<<v40-14-18,18>>^ Então, ele disse: Trazei-mos.
+
+[[v40-14-19]]
+
+^<<v40-14-19,19>>^ E, tendo mandado que a multidão se assentasse sobre a relva, tomando os cinco pães e os dois peixes, erguendo os olhos ao céu, os abençoou. Depois, tendo partido os pães, deu-os aos discípulos, e estes, às multidões.
+
+[[v40-14-20]]
+
+^<<v40-14-20,20>>^ Todos comeram e se fartaram; e dos pedaços que sobejaram recolheram ainda doze cestos cheios.
+
+[[v40-14-21]]
+
+^<<v40-14-21,21>>^ E os que comeram foram cerca de cinco mil homens, além de mulheres e crianças.
+
+[[v40-14-22]]
+
+^<<v40-14-22,22>>^ Logo a seguir, compeliu Jesus os discípulos a embarcar e passar adiante dele para o outro lado, enquanto ele despedia as multidões.
+
+[[v40-14-23]]
+
+^<<v40-14-23,23>>^ E, despedidas as multidões, subiu ao monte, a fim de orar sozinho. Em caindo a tarde, lá estava ele, só.
+
+[[v40-14-24]]
+
+^<<v40-14-24,24>>^ Entretanto, o barco já estava longe, a muitos estádios da terra, açoitado pelas ondas; porque o vento era contrário.
+
+[[v40-14-25]]
+
+^<<v40-14-25,25>>^ Na quarta vigília da noite, foi Jesus ter com eles, andando por sobre o mar.
+
+[[v40-14-26]]
+
+^<<v40-14-26,26>>^ E os discípulos, ao verem-no andando sobre as águas, ficaram aterrados e exclamaram: É um fantasma! E, tomados de medo, gritaram.
+
+[[v40-14-27]]
+
+^<<v40-14-27,27>>^ Mas Jesus imediatamente lhes disse: Tende bom ânimo! Sou eu. Não temais!
+
+[[v40-14-28]]
+
+^<<v40-14-28,28>>^ Respondendo-lhe Pedro, disse: Se és tu, Senhor, manda-me ir ter contigo, por sobre as águas.
+
+[[v40-14-29]]
+
+^<<v40-14-29,29>>^ E ele disse: Vem!  E Pedro, descendo do barco, andou por sobre as águas e foi ter com Jesus.
+
+[[v40-14-30]]
+
+^<<v40-14-30,30>>^ Reparando, porém, na força do vento, teve medo; e, começando a submergir, gritou: Salva-me, Senhor!
+
+[[v40-14-31]]
+
+^<<v40-14-31,31>>^ E, prontamente, Jesus, estendendo a mão, tomou-o e lhe disse: Homem de pequena fé, por que duvidaste?
+
+[[v40-14-32]]
+
+^<<v40-14-32,32>>^ Subindo ambos para o barco, cessou o vento.
+
+[[v40-14-33]]
+
+^<<v40-14-33,33>>^ E os que estavam no barco o adoraram, dizendo: Verdadeiramente és Filho de Deus!
+
+[[v40-14-34]]
+
+^<<v40-14-34,34>>^ Então, estando já no outro lado, chegaram a terra, em Genesaré.
+
+[[v40-14-35]]
+
+^<<v40-14-35,35>>^ Reconhecendo-o os homens daquela terra, mandaram avisar a toda a circunvizinhança e trouxeram-lhe todos os enfermos;
+
+[[v40-14-36]]
+
+^<<v40-14-36,36>>^ e lhe rogavam que ao menos pudessem tocar na orla da sua veste. E todos os que tocaram ficaram sãos.
+
+'''
+
+xref:040-mateus/040-mateus-013.adoc#v40-13-0[&#60; Capítulo Anterior] | <<v40-14-0,Topo>> | xref:040-mateus/040-mateus-015.adoc#v40-15-0[Próximo Capítulo &#62;]

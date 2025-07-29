@@ -1,0 +1,197 @@
+include::./index.adoc[]
+
+[[v42-20-0]]
+=== Lucas, 20
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v42-20-1]]
+
+^<<v42-20-1,1>>^ Aconteceu que, num daqueles dias, estando Jesus a ensinar o povo no templo e a evangelizar, sobrevieram os principais sacerdotes e os escribas, juntamente com os anciãos,
+
+[[v42-20-2]]
+
+^<<v42-20-2,2>>^ e o arguiram nestes termos: Dize-nos: com que autoridade fazes estas coisas? Ou quem te deu esta autoridade?
+
+[[v42-20-3]]
+
+^<<v42-20-3,3>>^ Respondeu-lhes: Também eu vos farei uma pergunta; dizei-me:
+
+[[v42-20-4]]
+
+^<<v42-20-4,4>>^ o batismo de João era dos céus ou dos homens?
+
+[[v42-20-5]]
+
+^<<v42-20-5,5>>^ Então, eles arrazoavam entre si: Se dissermos: do céu, ele dirá: Por que não acreditastes nele?
+
+[[v42-20-6]]
+
+^<<v42-20-6,6>>^ Mas, se dissermos: dos homens, o povo todo nos apedrejará; porque está convicto de ser João um profeta.
+
+[[v42-20-7]]
+
+^<<v42-20-7,7>>^ Por fim, responderam que não sabiam.
+
+[[v42-20-8]]
+
+^<<v42-20-8,8>>^ Então, Jesus lhes replicou: Pois nem eu vos digo com que autoridade faço estas coisas.
+
+[[v42-20-9]]
+
+^<<v42-20-9,9>>^ A seguir, passou Jesus a proferir ao povo esta parábola: Certo homem plantou uma vinha, arrendou-a a lavradores e ausentou-se do país por prazo considerável.
+
+[[v42-20-10]]
+
+^<<v42-20-10,10>>^ No devido tempo, mandou um servo aos lavradores para que lhe dessem do fruto da vinha; os lavradores, porém, depois de o espancarem, o despacharam vazio.
+
+[[v42-20-11]]
+
+^<<v42-20-11,11>>^ Em vista disso, enviou-lhes outro servo; mas eles também a este espancaram e, depois de o ultrajarem, o despacharam vazio.
+
+[[v42-20-12]]
+
+^<<v42-20-12,12>>^ Mandou ainda um terceiro; também a este, depois de o ferirem, expulsaram.
+
+[[v42-20-13]]
+
+^<<v42-20-13,13>>^ Então, disse o dono da vinha: Que farei? Enviarei o meu filho amado; talvez o respeitem.
+
+[[v42-20-14]]
+
+^<<v42-20-14,14>>^ Vendo-o, porém, os lavradores, arrazoavam entre si, dizendo: Este é o herdeiro; matemo-lo, para que a herança venha a ser nossa.
+
+[[v42-20-15]]
+
+^<<v42-20-15,15>>^ E, lançando-o fora da vinha, o mataram. Que lhes fará, pois, o dono da vinha?
+
+[[v42-20-16]]
+
+^<<v42-20-16,16>>^ Virá, exterminará aqueles lavradores e passará a vinha a outros.  Ao ouvirem isto, disseram: Tal não aconteça!
+
+[[v42-20-17]]
+
+^<<v42-20-17,17>>^ Mas Jesus, fitando-os, disse: Que quer dizer, pois, o que está escrito: A pedra que os construtores rejeitaram, esta veio a ser a principal pedra, angular?
+
+[[v42-20-18]]
+
+^<<v42-20-18,18>>^ Todo o que cair sobre esta pedra ficará em pedaços; e aquele sobre quem ela cair ficará reduzido a pó.
+
+[[v42-20-19]]
+
+^<<v42-20-19,19>>^ Naquela mesma hora, os escribas e os principais sacerdotes procuravam lançar-lhe as mãos, pois perceberam que, em referência a eles, dissera esta parábola; mas temiam o povo.
+
+[[v42-20-20]]
+
+^<<v42-20-20,20>>^ Observando-o, subornaram emissários que se fingiam de justos para verem se o apanhavam em alguma palavra, a fim de entregá-lo à jurisdição e à autoridade do governador.
+
+[[v42-20-21]]
+
+^<<v42-20-21,21>>^ Então, o consultaram, dizendo: Mestre, sabemos que falas e ensinas retamente e não te deixas levar de respeitos humanos, porém ensinas o caminho de Deus segundo a verdade;
+
+[[v42-20-22]]
+
+^<<v42-20-22,22>>^ é lícito pagar tributo a César ou não?
+
+[[v42-20-23]]
+
+^<<v42-20-23,23>>^ Mas Jesus, percebendo-lhes o ardil, respondeu:
+
+[[v42-20-24]]
+
+^<<v42-20-24,24>>^ Mostrai-me um denário. De quem é a efígie e a inscrição?  Prontamente disseram: De César. Então, lhes recomendou Jesus:
+
+[[v42-20-25]]
+
+^<<v42-20-25,25>>^ Dai, pois, a César o que é de César e a Deus o que é de Deus.
+
+[[v42-20-26]]
+
+^<<v42-20-26,26>>^ Não puderam apanhá-lo em palavra alguma diante do povo; e, admirados da sua resposta, calaram-se.
+
+[[v42-20-27]]
+
+^<<v42-20-27,27>>^ Chegando alguns dos saduceus, homens que dizem não haver ressurreição,
+
+[[v42-20-28]]
+
+^<<v42-20-28,28>>^ perguntaram-lhe: Mestre, Moisés nos deixou escrito que, se morrer o irmão de alguém, sendo aquele casado e não deixando filhos, seu irmão deve casar com a viúva e suscitar descendência ao falecido.
+
+[[v42-20-29]]
+
+^<<v42-20-29,29>>^ Ora, havia sete irmãos: o primeiro casou e morreu sem filhos;
+
+[[v42-20-30]]
+
+^<<v42-20-30,30>>^ o segundo e o terceiro também desposaram a viúva;
+
+[[v42-20-31]]
+
+^<<v42-20-31,31>>^ igualmente os sete não tiveram filhos e morreram.
+
+[[v42-20-32]]
+
+^<<v42-20-32,32>>^ Por fim, morreu também a mulher.
+
+[[v42-20-33]]
+
+^<<v42-20-33,33>>^ Esta mulher, pois, no dia da ressurreição, de qual deles será esposa? Porque os sete a desposaram.
+
+[[v42-20-34]]
+
+^<<v42-20-34,34>>^ Então, lhes acrescentou Jesus: Os filhos deste mundo casam-se e dão-se em casamento;
+
+[[v42-20-35]]
+
+^<<v42-20-35,35>>^ mas os que são havidos por dignos de alcançar a era vindoura e a ressurreição dentre os mortos não casam, nem se dão em casamento.
+
+[[v42-20-36]]
+
+^<<v42-20-36,36>>^ Pois não podem mais morrer, porque são iguais aos anjos e são filhos de Deus, sendo filhos da ressurreição.
+
+[[v42-20-37]]
+
+^<<v42-20-37,37>>^ E que os mortos hão de ressuscitar, Moisés o indicou no trecho referente à sarça, quando chama ao Senhor o Deus de Abraão, o Deus de Isaque e o Deus de Jacó.
+
+[[v42-20-38]]
+
+^<<v42-20-38,38>>^ Ora, Deus não é Deus de mortos, e sim de vivos; porque para ele todos vivem.
+
+[[v42-20-39]]
+
+^<<v42-20-39,39>>^ Então, disseram alguns dos escribas: Mestre, respondeste bem!
+
+[[v42-20-40]]
+
+^<<v42-20-40,40>>^ Dali por diante, não ousaram mais interrogá-lo.
+
+[[v42-20-41]]
+
+^<<v42-20-41,41>>^ Mas Jesus lhes perguntou: Como podem dizer que o Cristo é filho de Davi?
+
+[[v42-20-42]]
+
+^<<v42-20-42,42>>^ Visto como o próprio Davi afirma no livro dos Salmos: Disse o Senhor ao meu Senhor: Assenta-te à minha direita,
+
+[[v42-20-43]]
+
+^<<v42-20-43,43>>^ até que eu ponha os teus inimigos por estrado dos teus pés.
+
+[[v42-20-44]]
+
+^<<v42-20-44,44>>^ Assim, pois, Davi lhe chama Senhor, e como pode ser ele seu filho?
+
+[[v42-20-45]]
+
+^<<v42-20-45,45>>^ Ouvindo-o todo o povo, recomendou Jesus a seus discípulos:
+
+[[v42-20-46]]
+
+^<<v42-20-46,46>>^ Guardai-vos dos escribas, que gostam de andar com vestes talares e muito apreciam as saudações nas praças, as primeiras cadeiras nas sinagogas e os primeiros lugares nos banquetes;
+
+[[v42-20-47]]
+
+^<<v42-20-47,47>>^ os quais devoram as casas das viúvas e, para o justificar, fazem longas orações; estes sofrerão juízo muito mais severo.
+
+'''
+
+xref:042-lucas/042-lucas-019.adoc#v42-19-0[&#60; Capítulo Anterior] | <<v42-20-0,Topo>> | xref:042-lucas/042-lucas-021.adoc#v42-21-0[Próximo Capítulo &#62;]

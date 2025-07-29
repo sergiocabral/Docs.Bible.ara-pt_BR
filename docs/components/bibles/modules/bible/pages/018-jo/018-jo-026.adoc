@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v18-26-0]]
+=== Jó, 26
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v18-26-1]]
+
+^<<v18-26-1,1>>^ Jó, porém, respondeu:
+
+[[v18-26-2]]
+
+^<<v18-26-2,2>>^ Como sabes ajudar ao que não tem força e prestar socorro ao braço que não tem vigor!
+
+[[v18-26-3]]
+
+^<<v18-26-3,3>>^ Como sabes aconselhar ao que não tem sabedoria e revelar plenitude de verdadeiro conhecimento!
+
+[[v18-26-4]]
+
+^<<v18-26-4,4>>^ Com a ajuda de quem proferes tais palavras? E de quem é o espírito que fala em ti?
+
+[[v18-26-5]]
+
+^<<v18-26-5,5>>^ A alma dos mortos treme debaixo das águas com seus habitantes.
+
+[[v18-26-6]]
+
+^<<v18-26-6,6>>^ O além está desnudo perante ele, e não há coberta para o abismo.
+
+[[v18-26-7]]
+
+^<<v18-26-7,7>>^ Ele estende o norte sobre o vazio e faz pairar a terra sobre o nada.
+
+[[v18-26-8]]
+
+^<<v18-26-8,8>>^ Prende as águas em densas nuvens, e as nuvens não se rasgam debaixo delas.
+
+[[v18-26-9]]
+
+^<<v18-26-9,9>>^ Encobre a face do seu trono e sobre ele estende a sua nuvem.
+
+[[v18-26-10]]
+
+^<<v18-26-10,10>>^ Traçou um círculo à superfície das águas, até aos confins da luz e das trevas.
+
+[[v18-26-11]]
+
+^<<v18-26-11,11>>^ As colunas do céu tremem e se espantam da sua ameaça.
+
+[[v18-26-12]]
+
+^<<v18-26-12,12>>^ Com a sua força fende o mar e com o seu entendimento abate o adversário.
+
+[[v18-26-13]]
+
+^<<v18-26-13,13>>^ Pelo seu sopro aclara os céus, a sua mão fere o dragão veloz.
+
+[[v18-26-14]]
+
+^<<v18-26-14,14>>^ Eis que isto são apenas as orlas dos seus caminhos! Que leve sussurro temos ouvido dele! Mas o trovão do seu poder, quem o entenderá?
+
+'''
+
+xref:018-jo/018-jo-025.adoc#v18-25-0[&#60; Capítulo Anterior] | <<v18-26-0,Topo>> | xref:018-jo/018-jo-027.adoc#v18-27-0[Próximo Capítulo &#62;]

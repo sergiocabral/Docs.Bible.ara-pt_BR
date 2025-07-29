@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v30-2-0]]
+=== Amós, 2
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v30-2-1]]
+
+^<<v30-2-1,1>>^ Assim diz o SENHOR: Por três transgressões de Moabe e por quatro, não sustarei o castigo, porque queimou os ossos do rei de Edom, até os reduzir a cal.
+
+[[v30-2-2]]
+
+^<<v30-2-2,2>>^ Por isso, meterei fogo a Moabe, fogo que consumirá os castelos de Queriote; Moabe morrerá entre grande estrondo, alarido e som de trombeta.
+
+[[v30-2-3]]
+
+^<<v30-2-3,3>>^ Eliminarei o juiz do meio dele e a todos os seus príncipes com ele matarei, diz o SENHOR.
+
+[[v30-2-4]]
+
+^<<v30-2-4,4>>^ Assim diz o SENHOR: Por três transgressões de Judá e por quatro, não sustarei o castigo, porque rejeitaram a lei do SENHOR e não guardaram os seus estatutos; antes, as suas próprias mentiras os enganaram, e após elas andaram seus pais.
+
+[[v30-2-5]]
+
+^<<v30-2-5,5>>^ Por isso, meterei fogo a Judá, fogo que consumirá os castelos de Jerusalém.
+
+[[v30-2-6]]
+
+^<<v30-2-6,6>>^ Assim diz o SENHOR: Por três transgressões de Israel e por quatro, não sustarei o castigo, porque os juízes vendem o justo por dinheiro e condenam o necessitado por causa de um par de sandálias.
+
+[[v30-2-7]]
+
+^<<v30-2-7,7>>^ Suspiram pelo pó da terra sobre a cabeça dos pobres e pervertem o caminho dos mansos; um homem e seu pai coabitam com a mesma jovem e, assim, profanam o meu santo nome.
+
+[[v30-2-8]]
+
+^<<v30-2-8,8>>^ E se deitam ao pé de qualquer altar sobre roupas empenhadas e, na casa do seu deus, bebem o vinho dos que foram multados.
+
+[[v30-2-9]]
+
+^<<v30-2-9,9>>^ Todavia, eu destruí diante deles o amorreu, cuja altura era como a dos cedros, e que era forte como os carvalhos; e destruí o seu fruto por cima e as suas raízes por baixo.
+
+[[v30-2-10]]
+
+^<<v30-2-10,10>>^ Também vos fiz subir da terra do Egito e quarenta anos vos conduzi no deserto, para que possuísseis a terra do amorreu.
+
+[[v30-2-11]]
+
+^<<v30-2-11,11>>^ Dentre os vossos filhos, suscitei profetas e, dentre os vossos jovens, nazireus. Não é isto assim, filhos de Israel? — diz o SENHOR.
+
+[[v30-2-12]]
+
+^<<v30-2-12,12>>^ Mas vós aos nazireus destes a beber vinho e aos profetas ordenastes, dizendo: Não profetizeis.
+
+[[v30-2-13]]
+
+^<<v30-2-13,13>>^ Eis que farei oscilar a terra debaixo de vós, como oscila um carro carregado de feixes.
+
+[[v30-2-14]]
+
+^<<v30-2-14,14>>^ De nada valerá a fuga ao ágil, o forte não usará a sua força, nem o valente salvará a sua vida.
+
+[[v30-2-15]]
+
+^<<v30-2-15,15>>^ O que maneja o arco não resistirá, nem o ligeiro de pés se livrará, nem tampouco o que vai montado a cavalo salvará a sua vida.
+
+[[v30-2-16]]
+
+^<<v30-2-16,16>>^ E o mais corajoso entre os valentes fugirá nu naquele dia, disse o SENHOR.
+
+'''
+
+xref:030-amos/030-amos-001.adoc#v30-1-0[&#60; Capítulo Anterior] | <<v30-2-0,Topo>> | xref:030-amos/030-amos-003.adoc#v30-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v45-2-0]]
+=== Romanos, 2
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v45-2-1]]
+
+^<<v45-2-1,1>>^ Portanto, és indesculpável, ó homem, quando julgas, quem quer que sejas; porque, no que julgas a outro, a ti mesmo te condenas; pois praticas as próprias coisas que condenas.
+
+[[v45-2-2]]
+
+^<<v45-2-2,2>>^ Bem sabemos que o juízo de Deus é segundo a verdade contra os que praticam tais coisas.
+
+[[v45-2-3]]
+
+^<<v45-2-3,3>>^ Tu, ó homem, que condenas os que praticam tais coisas e fazes as mesmas, pensas que te livrarás do juízo de Deus?
+
+[[v45-2-4]]
+
+^<<v45-2-4,4>>^ Ou desprezas a riqueza da sua bondade, e tolerância, e longanimidade, ignorando que a bondade de Deus é que te conduz ao arrependimento?
+
+[[v45-2-5]]
+
+^<<v45-2-5,5>>^ Mas, segundo a tua dureza e coração impenitente, acumulas contra ti mesmo ira para o dia da ira e da revelação do justo juízo de Deus,
+
+[[v45-2-6]]
+
+^<<v45-2-6,6>>^ que retribuirá a cada um segundo o seu procedimento:
+
+[[v45-2-7]]
+
+^<<v45-2-7,7>>^ a vida eterna aos que, perseverando em fazer o bem, procuram glória, honra e incorruptibilidade;
+
+[[v45-2-8]]
+
+^<<v45-2-8,8>>^ mas ira e indignação aos facciosos, que desobedecem à verdade e obedecem à injustiça.
+
+[[v45-2-9]]
+
+^<<v45-2-9,9>>^ Tribulação e angústia virão sobre a alma de qualquer homem que faz o mal, ao judeu primeiro e também ao grego;
+
+[[v45-2-10]]
+
+^<<v45-2-10,10>>^ glória, porém, e honra, e paz a todo aquele que pratica o bem, ao judeu primeiro e também ao grego.
+
+[[v45-2-11]]
+
+^<<v45-2-11,11>>^ Porque para com Deus não há acepção de pessoas.
+
+[[v45-2-12]]
+
+^<<v45-2-12,12>>^ Assim, pois, todos os que pecaram sem lei também sem lei perecerão; e todos os que com lei pecaram mediante lei serão julgados.
+
+[[v45-2-13]]
+
+^<<v45-2-13,13>>^ Porque os simples ouvidores da lei não são justos diante de Deus, mas os que praticam a lei hão de ser justificados.
+
+[[v45-2-14]]
+
+^<<v45-2-14,14>>^ Quando, pois, os gentios, que não têm lei, procedem, por natureza, de conformidade com a lei, não tendo lei, servem eles de lei para si mesmos.
+
+[[v45-2-15]]
+
+^<<v45-2-15,15>>^ Estes mostram a norma da lei gravada no seu coração, testemunhando-lhes também a consciência e os seus pensamentos, mutuamente acusando-se ou defendendo-se,
+
+[[v45-2-16]]
+
+^<<v45-2-16,16>>^ no dia em que Deus, por meio de Cristo Jesus, julgar os segredos dos homens, de conformidade com o meu evangelho.
+
+[[v45-2-17]]
+
+^<<v45-2-17,17>>^ Se, porém, tu, que tens por sobrenome judeu, e repousas na lei, e te glorias em Deus;
+
+[[v45-2-18]]
+
+^<<v45-2-18,18>>^ que conheces a sua vontade e aprovas as coisas excelentes, sendo instruído na lei;
+
+[[v45-2-19]]
+
+^<<v45-2-19,19>>^ que estás persuadido de que és guia dos cegos, luz dos que se encontram em trevas,
+
+[[v45-2-20]]
+
+^<<v45-2-20,20>>^ instrutor de ignorantes, mestre de crianças, tendo na lei a forma da sabedoria e da verdade;
+
+[[v45-2-21]]
+
+^<<v45-2-21,21>>^ tu, pois, que ensinas a outrem, não te ensinas a ti mesmo? Tu, que pregas que não se deve furtar, furtas?
+
+[[v45-2-22]]
+
+^<<v45-2-22,22>>^ Dizes que não se deve cometer adultério e o cometes? Abominas os ídolos e lhes roubas os templos?
+
+[[v45-2-23]]
+
+^<<v45-2-23,23>>^ Tu, que te glorias na lei, desonras a Deus pela transgressão da lei?
+
+[[v45-2-24]]
+
+^<<v45-2-24,24>>^ Pois, como está escrito, o nome de Deus é blasfemado entre os gentios por vossa causa.
+
+[[v45-2-25]]
+
+^<<v45-2-25,25>>^ Porque a circuncisão tem valor se praticares a lei; se és, porém, transgressor da lei, a tua circuncisão já se tornou incircuncisão.
+
+[[v45-2-26]]
+
+^<<v45-2-26,26>>^ Se, pois, a incircuncisão observa os preceitos da lei, não será ela, porventura, considerada como circuncisão?
+
+[[v45-2-27]]
+
+^<<v45-2-27,27>>^ E, se aquele que é incircunciso por natureza cumpre a lei, certamente, ele te julgará a ti, que, não obstante a letra e a circuncisão, és transgressor da lei.
+
+[[v45-2-28]]
+
+^<<v45-2-28,28>>^ Porque não é judeu quem o é apenas exteriormente, nem é circuncisão a que é somente na carne.
+
+[[v45-2-29]]
+
+^<<v45-2-29,29>>^ Porém judeu é aquele que o é interiormente, e circuncisão, a que é do coração, no espírito, não segundo a letra, e cujo louvor não procede dos homens, mas de Deus.
+
+'''
+
+xref:045-romanos/045-romanos-001.adoc#v45-1-0[&#60; Capítulo Anterior] | <<v45-2-0,Topo>> | xref:045-romanos/045-romanos-003.adoc#v45-3-0[Próximo Capítulo &#62;]

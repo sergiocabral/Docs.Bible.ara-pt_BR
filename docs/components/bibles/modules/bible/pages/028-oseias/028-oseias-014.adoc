@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v28-14-0]]
+=== Oséias, 14
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v28-14-1]]
+
+^<<v28-14-1,1>>^ Volta, ó Israel, para o SENHOR, teu Deus, porque, pelos teus pecados, estás caído.
+
+[[v28-14-2]]
+
+^<<v28-14-2,2>>^ Tende convosco palavras de arrependimento e convertei-vos ao SENHOR; dizei-lhe: Perdoa toda iniquidade, aceita o que é bom e, em vez de novilhos, os sacrifícios dos nossos lábios.
+
+[[v28-14-3]]
+
+^<<v28-14-3,3>>^ A Assíria já não nos salvará, não iremos montados em cavalos e não mais diremos à obra das nossas mãos: tu és o nosso Deus; por ti o órfão alcançará misericórdia.
+
+[[v28-14-4]]
+
+^<<v28-14-4,4>>^ Curarei a sua infidelidade, eu de mim mesmo os amarei, porque a minha ira se apartou deles.
+
+[[v28-14-5]]
+
+^<<v28-14-5,5>>^ Serei para Israel como orvalho, ele florescerá como o lírio e lançará as suas raízes como o cedro do Líbano.
+
+[[v28-14-6]]
+
+^<<v28-14-6,6>>^ Estender-se-ão os seus ramos, o seu esplendor será como o da oliveira, e sua fragrância, como a do Líbano.
+
+[[v28-14-7]]
+
+^<<v28-14-7,7>>^ Os que se assentam de novo à sua sombra voltarão; serão vivificados como o cereal e florescerão como a vide; a sua fama será como a do vinho do Líbano.
+
+[[v28-14-8]]
+
+^<<v28-14-8,8>>^ Ó Efraim, que tenho eu com os ídolos? Eu te ouvirei e cuidarei de ti; sou como o cipreste verde; de mim procede o teu fruto.
+
+[[v28-14-9]]
+
+^<<v28-14-9,9>>^ Quem é sábio, que entenda estas coisas; quem é prudente, que as saiba, porque os caminhos do SENHOR são retos, e os justos andarão neles, mas os transgressores neles cairão.
+
+'''
+
+xref:028-oseias/028-oseias-013.adoc#v28-13-0[&#60; Capítulo Anterior] | <<v28-14-0,Topo>> | xref:029-joel/029-joel-001.adoc#v29-1-0[Próximo Capítulo &#62;]

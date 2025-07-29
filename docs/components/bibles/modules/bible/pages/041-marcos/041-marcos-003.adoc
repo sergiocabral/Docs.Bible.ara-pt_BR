@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v41-3-0]]
+=== Marcos, 3
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v41-3-1]]
+
+^<<v41-3-1,1>>^ De novo, entrou Jesus na sinagoga e estava ali um homem que tinha ressequida uma das mãos.
+
+[[v41-3-2]]
+
+^<<v41-3-2,2>>^ E estavam observando a Jesus para ver se o curaria em dia de sábado, a fim de o acusarem.
+
+[[v41-3-3]]
+
+^<<v41-3-3,3>>^ E disse Jesus ao homem da mão ressequida: Vem para o meio!
+
+[[v41-3-4]]
+
+^<<v41-3-4,4>>^ Então, lhes perguntou: É lícito nos sábados fazer o bem ou fazer o mal? Salvar a vida ou tirá-la?  Mas eles ficaram em silêncio.
+
+[[v41-3-5]]
+
+^<<v41-3-5,5>>^ Olhando-os ao redor, indignado e condoído com a dureza do seu coração, disse ao homem: Estende a mão.  Estendeu-a, e a mão lhe foi restaurada.
+
+[[v41-3-6]]
+
+^<<v41-3-6,6>>^ Retirando-se os fariseus, conspiravam logo com os herodianos, contra ele, em como lhe tirariam a vida.
+
+[[v41-3-7]]
+
+^<<v41-3-7,7>>^ Retirou-se Jesus com os seus discípulos para os lados do mar. Seguia-o da Galileia uma grande multidão. Também da Judeia,
+
+[[v41-3-8]]
+
+^<<v41-3-8,8>>^ de Jerusalém, da Idumeia, dalém do Jordão e dos arredores de Tiro e de Sidom uma grande multidão, sabendo quantas coisas Jesus fazia, veio ter com ele.
+
+[[v41-3-9]]
+
+^<<v41-3-9,9>>^ Então, recomendou a seus discípulos que sempre lhe tivessem pronto um barquinho, por causa da multidão, a fim de não o comprimirem.
+
+[[v41-3-10]]
+
+^<<v41-3-10,10>>^ Pois curava a muitos, de modo que todos os que padeciam de qualquer enfermidade se arrojavam a ele para o tocar.
+
+[[v41-3-11]]
+
+^<<v41-3-11,11>>^ Também os espíritos imundos, quando o viam, prostravam-se diante dele e exclamavam: Tu és o Filho de Deus!
+
+[[v41-3-12]]
+
+^<<v41-3-12,12>>^ Mas Jesus lhes advertia severamente que o não expusessem à publicidade.
+
+[[v41-3-13]]
+
+^<<v41-3-13,13>>^ Depois, subiu ao monte e chamou os que ele mesmo quis, e vieram para junto dele.
+
+[[v41-3-14]]
+
+^<<v41-3-14,14>>^ Então, designou doze para estarem com ele e para os enviar a pregar
+
+[[v41-3-15]]
+
+^<<v41-3-15,15>>^ e a exercer a autoridade de expelir demônios.
+
+[[v41-3-16]]
+
+^<<v41-3-16,16>>^ Eis os doze que designou: Simão, a quem acrescentou o nome de Pedro;
+
+[[v41-3-17]]
+
+^<<v41-3-17,17>>^ Tiago, filho de Zebedeu, e João, seu irmão, aos quais deu o nome de Boanerges, que quer dizer: filhos do trovão;
+
+[[v41-3-18]]
+
+^<<v41-3-18,18>>^ André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu, Tadeu, Simão, o Zelote,
+
+[[v41-3-19]]
+
+^<<v41-3-19,19>>^ e Judas Iscariotes, que foi quem o traiu.
+
+[[v41-3-20]]
+
+^<<v41-3-20,20>>^ Então, ele foi para casa. Não obstante, a multidão afluiu de novo, de tal modo que nem podiam comer.
+
+[[v41-3-21]]
+
+^<<v41-3-21,21>>^ E, quando os parentes de Jesus ouviram isto, saíram para o prender; porque diziam: Está fora de si.
+
+[[v41-3-22]]
+
+^<<v41-3-22,22>>^ Os escribas, que haviam descido de Jerusalém, diziam: Ele está possesso de Belzebu. E: É pelo maioral dos demônios que expele os demônios.
+
+[[v41-3-23]]
+
+^<<v41-3-23,23>>^ Então, convocando-os Jesus, lhes disse, por meio de parábolas: Como pode Satanás expelir a Satanás?
+
+[[v41-3-24]]
+
+^<<v41-3-24,24>>^ Se um reino estiver dividido contra si mesmo, tal reino não pode subsistir;
+
+[[v41-3-25]]
+
+^<<v41-3-25,25>>^ se uma casa estiver dividida contra si mesma, tal casa não poderá subsistir.
+
+[[v41-3-26]]
+
+^<<v41-3-26,26>>^ Se, pois, Satanás se levantou contra si mesmo e está dividido, não pode subsistir, mas perece.
+
+[[v41-3-27]]
+
+^<<v41-3-27,27>>^ Ninguém pode entrar na casa do valente para roubar-lhe os bens, sem primeiro amarrá-lo; e só então lhe saqueará a casa.
+
+[[v41-3-28]]
+
+^<<v41-3-28,28>>^ Em verdade vos digo que tudo será perdoado aos filhos dos homens: os pecados e as blasfêmias que proferirem.
+
+[[v41-3-29]]
+
+^<<v41-3-29,29>>^ Mas aquele que blasfemar contra o Espírito Santo não tem perdão para sempre, visto que é réu de pecado eterno.
+
+[[v41-3-30]]
+
+^<<v41-3-30,30>>^ Isto, porque diziam: Está possesso de um espírito imundo.
+
+[[v41-3-31]]
+
+^<<v41-3-31,31>>^ Nisto, chegaram sua mãe e seus irmãos e, tendo ficado do lado de fora, mandaram chamá-lo.
+
+[[v41-3-32]]
+
+^<<v41-3-32,32>>^ Muita gente estava assentada ao redor dele e lhe disseram: Olha, tua mãe, teus irmãos e irmãs estão lá fora à tua procura.
+
+[[v41-3-33]]
+
+^<<v41-3-33,33>>^ Então, ele lhes respondeu, dizendo: Quem é minha mãe e meus irmãos?
+
+[[v41-3-34]]
+
+^<<v41-3-34,34>>^ E, correndo o olhar pelos que estavam assentados ao redor, disse: Eis minha mãe e meus irmãos.
+
+[[v41-3-35]]
+
+^<<v41-3-35,35>>^ Portanto, qualquer que fizer a vontade de Deus, esse é meu irmão, irmã e mãe.
+
+'''
+
+xref:041-marcos/041-marcos-002.adoc#v41-2-0[&#60; Capítulo Anterior] | <<v41-3-0,Topo>> | xref:041-marcos/041-marcos-004.adoc#v41-4-0[Próximo Capítulo &#62;]

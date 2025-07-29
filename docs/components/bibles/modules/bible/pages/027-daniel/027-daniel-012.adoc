@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v27-12-0]]
+=== Daniel, 12
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v27-12-1]]
+
+^<<v27-12-1,1>>^ Nesse tempo, se levantará Miguel, o grande príncipe, o defensor dos filhos do teu povo, e haverá tempo de angústia, qual nunca houve, desde que houve nação até àquele tempo; mas, naquele tempo, será salvo o teu povo, todo aquele que for achado inscrito no livro.
+
+[[v27-12-2]]
+
+^<<v27-12-2,2>>^ Muitos dos que dormem no pó da terra ressuscitarão, uns para a vida eterna, e outros para vergonha e horror eterno.
+
+[[v27-12-3]]
+
+^<<v27-12-3,3>>^ Os que forem sábios, pois, resplandecerão como o fulgor do firmamento; e os que a muitos conduzirem à justiça, como as estrelas, sempre e eternamente.
+
+[[v27-12-4]]
+
+^<<v27-12-4,4>>^ Tu, porém, Daniel, encerra as palavras e sela o livro, até ao tempo do fim; muitos o esquadrinharão, e o saber se multiplicará.
+
+[[v27-12-5]]
+
+^<<v27-12-5,5>>^ Então, eu, Daniel, olhei, e eis que estavam em pé outros dois, um, de um lado do rio, o outro, do outro lado.
+
+[[v27-12-6]]
+
+^<<v27-12-6,6>>^ Um deles disse ao homem vestido de linho, que estava sobre as águas do rio: Quando se cumprirão estas maravilhas?
+
+[[v27-12-7]]
+
+^<<v27-12-7,7>>^ Ouvi o homem vestido de linho, que estava sobre as águas do rio, quando levantou a mão direita e a esquerda ao céu e jurou, por aquele que vive eternamente, que isso seria depois de um tempo, dois tempos e metade de um tempo. E, quando se acabar a destruição do poder do povo santo, estas coisas todas se cumprirão.
+
+[[v27-12-8]]
+
+^<<v27-12-8,8>>^ Eu ouvi, porém não entendi; então, eu disse: meu senhor, qual será o fim destas coisas?
+
+[[v27-12-9]]
+
+^<<v27-12-9,9>>^ Ele respondeu: Vai, Daniel, porque estas palavras estão encerradas e seladas até ao tempo do fim.
+
+[[v27-12-10]]
+
+^<<v27-12-10,10>>^ Muitos serão purificados, embranquecidos e provados; mas os perversos procederão perversamente, e nenhum deles entenderá, mas os sábios entenderão.
+
+[[v27-12-11]]
+
+^<<v27-12-11,11>>^ Depois do tempo em que o sacrifício diário for tirado, e posta a abominação desoladora, haverá ainda mil duzentos e noventa dias.
+
+[[v27-12-12]]
+
+^<<v27-12-12,12>>^ Bem-aventurado o que espera e chega até mil trezentos e trinta e cinco dias.
+
+[[v27-12-13]]
+
+^<<v27-12-13,13>>^ Tu, porém, segue o teu caminho até ao fim; pois descansarás e, ao fim dos dias, te levantarás para receber a tua herança.
+
+'''
+
+xref:027-daniel/027-daniel-011.adoc#v27-11-0[&#60; Capítulo Anterior] | <<v27-12-0,Topo>> | xref:028-oseias/028-oseias-001.adoc#v28-1-0[Próximo Capítulo &#62;]

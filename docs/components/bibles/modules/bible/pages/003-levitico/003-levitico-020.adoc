@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v3-20-0]]
+=== Levítico, 20
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v3-20-1]]
+
+^<<v3-20-1,1>>^ Disse mais o SENHOR a Moisés:
+
+[[v3-20-2]]
+
+^<<v3-20-2,2>>^ Também dirás aos filhos de Israel: Qualquer dos filhos de Israel, ou dos estrangeiros que peregrinam em Israel, que der de seus filhos a Moloque será morto; o povo da terra o apedrejará.
+
+[[v3-20-3]]
+
+^<<v3-20-3,3>>^ Voltar-me-ei contra esse homem, e o eliminarei do meio do seu povo, porquanto deu de seus filhos a Moloque, contaminando, assim, o meu santuário e profanando o meu santo nome.
+
+[[v3-20-4]]
+
+^<<v3-20-4,4>>^ Se o povo da terra fechar os olhos para não ver esse homem, quando der de seus filhos a Moloque, e o não matar,
+
+[[v3-20-5]]
+
+^<<v3-20-5,5>>^ então, eu me voltarei contra esse homem e contra a sua família e o eliminarei do meio do seu povo, com todos os que após ele se prostituem com Moloque.
+
+[[v3-20-6]]
+
+^<<v3-20-6,6>>^ Quando alguém se virar para os necromantes e feiticeiros, para se prostituir com eles, eu me voltarei contra ele e o eliminarei do meio do seu povo.
+
+[[v3-20-7]]
+
+^<<v3-20-7,7>>^ Portanto, santificai-vos e sede santos, pois eu sou o SENHOR, vosso Deus.
+
+[[v3-20-8]]
+
+^<<v3-20-8,8>>^ Guardai os meus estatutos e cumpri-os. Eu sou o SENHOR, que vos santifico.
+
+[[v3-20-9]]
+
+^<<v3-20-9,9>>^ Se um homem amaldiçoar a seu pai ou a sua mãe, será morto; amaldiçoou a seu pai ou a sua mãe; o seu sangue cairá sobre ele.
+
+[[v3-20-10]]
+
+^<<v3-20-10,10>>^ Se um homem adulterar com a mulher do seu próximo, será morto o adúltero e a adúltera.
+
+[[v3-20-11]]
+
+^<<v3-20-11,11>>^ O homem que se deitar com a mulher de seu pai terá descoberto a nudez de seu pai; ambos serão mortos; o seu sangue cairá sobre eles.
+
+[[v3-20-12]]
+
+^<<v3-20-12,12>>^ Se um homem se deitar com a nora, ambos serão mortos; fizeram confusão; o seu sangue cairá sobre eles.
+
+[[v3-20-13]]
+
+^<<v3-20-13,13>>^ Se também um homem se deitar com outro homem, como se fosse mulher, ambos praticaram coisa abominável; serão mortos; o seu sangue cairá sobre eles.
+
+[[v3-20-14]]
+
+^<<v3-20-14,14>>^ Se um homem tomar uma mulher e sua mãe, maldade é; a ele e a elas queimarão, para que não haja maldade no meio de vós.
+
+[[v3-20-15]]
+
+^<<v3-20-15,15>>^ Se também um homem se ajuntar com um animal, será morto; e matarás o animal.
+
+[[v3-20-16]]
+
+^<<v3-20-16,16>>^ Se uma mulher se achegar a algum animal e se ajuntar com ele, matarás tanto a mulher como o animal; o seu sangue cairá sobre eles.
+
+[[v3-20-17]]
+
+^<<v3-20-17,17>>^ Se um homem tomar a sua irmã, filha de seu pai ou filha de sua mãe, e vir a nudez dela, e ela vir a dele, torpeza é; portanto, serão eliminados na presença dos filhos do seu povo; descobriu a nudez de sua irmã; levará sobre si a sua iniquidade.
+
+[[v3-20-18]]
+
+^<<v3-20-18,18>>^ Se um homem se deitar com mulher no tempo da enfermidade dela e lhe descobrir a nudez, descobrindo a sua fonte, e ela descobrir a fonte do seu sangue, ambos serão eliminados do meio do seu povo.
+
+[[v3-20-19]]
+
+^<<v3-20-19,19>>^ Também a nudez da irmã de tua mãe ou da irmã de teu pai não descobrirás; porquanto descobriu a nudez da sua parenta, sobre si levarão a sua iniquidade.
+
+[[v3-20-20]]
+
+^<<v3-20-20,20>>^ Também se um homem se deitar com a sua tia, descobriu a nudez de seu tio; seu pecado sobre si levarão; morrerão sem filhos.
+
+[[v3-20-21]]
+
+^<<v3-20-21,21>>^ Se um homem tomar a mulher de seu irmão, imundícia é; descobriu a nudez de seu irmão; ficarão sem filhos.
+
+[[v3-20-22]]
+
+^<<v3-20-22,22>>^ Guardai, pois, todos os meus estatutos e todos os meus juízos e cumpri-os, para que vos não vomite a terra para a qual vos levo para habitardes nela.
+
+[[v3-20-23]]
+
+^<<v3-20-23,23>>^ Não andeis nos costumes da gente que eu lanço de diante de vós, porque fizeram todas estas coisas; por isso, me aborreci deles.
+
+[[v3-20-24]]
+
+^<<v3-20-24,24>>^ Mas a vós outros vos tenho dito: em herança possuireis a sua terra, e eu vo-la darei para a possuirdes, terra que mana leite e mel. Eu sou o SENHOR, vosso Deus, que vos separei dos povos.
+
+[[v3-20-25]]
+
+^<<v3-20-25,25>>^ Fareis, pois, distinção entre os animais limpos e os imundos e entre as aves imundas e as limpas; não vos façais abomináveis por causa dos animais, ou das aves, ou de tudo o que se arrasta sobre a terra, as quais coisas apartei de vós, para tê-las por imundas.
+
+[[v3-20-26]]
+
+^<<v3-20-26,26>>^ Ser-me-eis santos, porque eu, o SENHOR, sou santo e separei-vos dos povos, para serdes meus.
+
+[[v3-20-27]]
+
+^<<v3-20-27,27>>^ O homem ou mulher que sejam necromantes ou sejam feiticeiros serão mortos; serão apedrejados; o seu sangue cairá sobre eles.
+
+'''
+
+xref:003-levitico/003-levitico-019.adoc#v3-19-0[&#60; Capítulo Anterior] | <<v3-20-0,Topo>> | xref:003-levitico/003-levitico-021.adoc#v3-21-0[Próximo Capítulo &#62;]

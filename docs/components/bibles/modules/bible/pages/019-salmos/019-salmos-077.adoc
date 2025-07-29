@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-77-0]]
+=== Salmos, 77
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v19-77-1]]
+
+^<<v19-77-1,1>>^ Elevo a Deus a minha voz e clamo, elevo a Deus a minha voz, para que me atenda.
+
+[[v19-77-2]]
+
+^<<v19-77-2,2>>^ No dia da minha angústia, procuro o Senhor; erguem-se as minhas mãos durante a noite e não se cansam; a minha alma recusa consolar-se.
+
+[[v19-77-3]]
+
+^<<v19-77-3,3>>^ Lembro-me de Deus e passo a gemer; medito, e me desfalece o espírito.
+
+[[v19-77-4]]
+
+^<<v19-77-4,4>>^ Não me deixas pregar os olhos; tão perturbado estou, que nem posso falar.
+
+[[v19-77-5]]
+
+^<<v19-77-5,5>>^ Penso nos dias de outrora, trago à lembrança os anos de passados tempos.
+
+[[v19-77-6]]
+
+^<<v19-77-6,6>>^ De noite indago o meu íntimo, e o meu espírito perscruta.
+
+[[v19-77-7]]
+
+^<<v19-77-7,7>>^ Rejeita o Senhor para sempre? Acaso, não torna a ser propício?
+
+[[v19-77-8]]
+
+^<<v19-77-8,8>>^ Cessou perpetuamente a sua graça? Caducou a sua promessa para todas as gerações?
+
+[[v19-77-9]]
+
+^<<v19-77-9,9>>^ Esqueceu-se Deus de ser benigno? Ou, na sua ira, terá ele reprimido as suas misericórdias?
+
+[[v19-77-10]]
+
+^<<v19-77-10,10>>^ Então, disse eu: isto é a minha aflição; mudou-se a destra do Altíssimo.
+
+[[v19-77-11]]
+
+^<<v19-77-11,11>>^ Recordo os feitos do SENHOR, pois me lembro das tuas maravilhas da antiguidade.
+
+[[v19-77-12]]
+
+^<<v19-77-12,12>>^ Considero também nas tuas obras todas e cogito dos teus prodígios.
+
+[[v19-77-13]]
+
+^<<v19-77-13,13>>^ O teu caminho, ó Deus, é de santidade. Que deus é tão grande como o nosso Deus?
+
+[[v19-77-14]]
+
+^<<v19-77-14,14>>^ Tu és o Deus que operas maravilhas e, entre os povos, tens feito notório o teu poder.
+
+[[v19-77-15]]
+
+^<<v19-77-15,15>>^ Com o teu braço remiste o teu povo, os filhos de Jacó e de José.
+
+[[v19-77-16]]
+
+^<<v19-77-16,16>>^ Viram-te as águas, ó Deus; as águas te viram e temeram, até os abismos se abalaram.
+
+[[v19-77-17]]
+
+^<<v19-77-17,17>>^ Grossas nuvens se desfizeram em água; houve trovões nos espaços; também as suas setas cruzaram de uma parte para outra.
+
+[[v19-77-18]]
+
+^<<v19-77-18,18>>^ O ribombar do teu trovão ecoou na redondeza; os relâmpagos alumiaram o mundo; a terra se abalou e tremeu.
+
+[[v19-77-19]]
+
+^<<v19-77-19,19>>^ Pelo mar foi o teu caminho; as tuas veredas, pelas grandes águas; e não se descobrem os teus vestígios.
+
+[[v19-77-20]]
+
+^<<v19-77-20,20>>^ O teu povo, tu o conduziste, como rebanho, pelas mãos de Moisés e de Arão.
+
+'''
+
+xref:019-salmos/019-salmos-076.adoc#v19-76-0[&#60; Capítulo Anterior] | <<v19-77-0,Topo>> | xref:019-salmos/019-salmos-078.adoc#v19-78-0[Próximo Capítulo &#62;]

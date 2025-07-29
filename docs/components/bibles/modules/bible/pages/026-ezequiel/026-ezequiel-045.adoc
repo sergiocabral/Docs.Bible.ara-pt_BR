@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v26-45-0]]
+=== Ezequiel, 45
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v26-45-1]]
+
+^<<v26-45-1,1>>^ Quando, pois, repartirdes a terra por sortes em herança, fareis uma oferta ao SENHOR, uma porção santa da terra; o comprimento desta porção será de vinte e cinco mil côvados, e a largura, de dez mil; ela será santa em toda a sua extensão ao redor.
+
+[[v26-45-2]]
+
+^<<v26-45-2,2>>^ Será o santuário de quinhentos côvados com mais quinhentos, em quadrado, e terá em redor uma área aberta de cinquenta côvados.
+
+[[v26-45-3]]
+
+^<<v26-45-3,3>>^ Desta porção santa medirás vinte e cinco mil côvados de comprimento e dez mil de largura; ali estará o santuário, o lugar santíssimo.
+
+[[v26-45-4]]
+
+^<<v26-45-4,4>>^ Este será o lugar santo da terra; ele será para os sacerdotes, ministros do santuário, que dele se aproximam para servir ao SENHOR, e lhes servirá de lugar para casas; e, como lugar santo, pertencerá ao santuário.
+
+[[v26-45-5]]
+
+^<<v26-45-5,5>>^ Os levitas, ministros da casa, terão vinte e cinco mil côvados de comprimento e dez mil de largura, para possessão sua, para vinte câmaras.
+
+[[v26-45-6]]
+
+^<<v26-45-6,6>>^ Para a possessão da cidade, de largura dareis cinco mil côvados e vinte e cinco mil de comprimento defronte da porção santa, o que será para toda a casa de Israel.
+
+[[v26-45-7]]
+
+^<<v26-45-7,7>>^ O príncipe, porém, terá a sua parte deste e do outro lado da santa porção e da possessão da cidade, diante da santa porção e diante da possessão da cidade, ao lado ocidental e oriental; e o comprimento corresponderá a uma das porções, desde o limite ocidental até ao limite oriental.
+
+[[v26-45-8]]
+
+^<<v26-45-8,8>>^ Esta terra será a sua possessão em Israel; os meus príncipes nunca mais oprimirão o meu povo; antes, distribuirão a terra à casa de Israel, segundo as suas tribos.
+
+[[v26-45-9]]
+
+^<<v26-45-9,9>>^ Assim diz o SENHOR Deus: Basta, ó príncipes de Israel; afastai a violência e a opressão e praticai juízo e justiça: tirai as vossas desapropriações do meu povo, diz o SENHOR Deus.
+
+[[v26-45-10]]
+
+^<<v26-45-10,10>>^ Tereis balanças justas, efa justo e bato justo.
+
+[[v26-45-11]]
+
+^<<v26-45-11,11>>^ O efa e o bato serão da mesma capacidade, de maneira que o bato contenha a décima parte do ômer, e o efa, a décima parte do ômer; segundo o ômer, será a sua medida.
+
+[[v26-45-12]]
+
+^<<v26-45-12,12>>^ O siclo será de vinte geras. Vinte siclos, mais vinte e cinco siclos, mais quinze siclos serão iguais a uma mina para vós.
+
+[[v26-45-13]]
+
+^<<v26-45-13,13>>^ Esta será a oferta que haveis de fazer: de trigo, a sexta parte de um efa de cada ômer, e também de cevada, a sexta parte de um efa de cada ômer.
+
+[[v26-45-14]]
+
+^<<v26-45-14,14>>^ A porção determinada de azeite será a décima parte de um bato de cada coro; um coro, como o ômer, tem dez batos.
+
+[[v26-45-15]]
+
+^<<v26-45-15,15>>^ De cada rebanho de duzentas cabeças, um cordeiro tirado dos pastos ricos de Israel; tudo para oferta de manjares, e para holocausto, e para sacrifício pacífico; para que façam expiação pelo povo, diz o SENHOR Deus.
+
+[[v26-45-16]]
+
+^<<v26-45-16,16>>^ Todo o povo da terra fará contribuição, para esta oferta, ao príncipe em Israel.
+
+[[v26-45-17]]
+
+^<<v26-45-17,17>>^ Estarão a cargo do príncipe os holocaustos, e as ofertas de manjares, e as libações, nas Festas da Lua Nova e nos sábados, em todas as festas fixas da casa de Israel; ele mesmo proverá a oferta pelo pecado, e a oferta de manjares, e o holocausto, e os sacrifícios pacíficos, para fazer expiação pela casa de Israel.
+
+[[v26-45-18]]
+
+^<<v26-45-18,18>>^ Assim diz o SENHOR Deus: No primeiro mês, no primeiro dia do mês, tomarás um novilho sem defeito e purificarás o santuário.
+
+[[v26-45-19]]
+
+^<<v26-45-19,19>>^ O sacerdote tomará do sangue e porá dele nas ombreiras da casa, e nos quatro cantos da fiada do altar, e nas ombreiras da porta do átrio interior.
+
+[[v26-45-20]]
+
+^<<v26-45-20,20>>^ Assim também farás no sétimo dia do mês, por causa dos que pecam por ignorância e por causa dos símplices; assim, expiareis o templo.
+
+[[v26-45-21]]
+
+^<<v26-45-21,21>>^ No primeiro mês, no dia catorze do mês, tereis a Páscoa, festa de sete dias; pão asmo se comerá.
+
+[[v26-45-22]]
+
+^<<v26-45-22,22>>^ O príncipe, no mesmo dia, por si e por todo o povo da terra, proverá um novilho para oferta pelo pecado.
+
+[[v26-45-23]]
+
+^<<v26-45-23,23>>^ Nos sete dias da festa, preparará ele um holocausto ao SENHOR, sete novilhos e sete carneiros sem defeito, cada dia durante os sete dias; e um bode cada dia como oferta pelo pecado.
+
+[[v26-45-24]]
+
+^<<v26-45-24,24>>^ Também preparará uma oferta de manjares: para cada novilho, um efa, e um efa para cada carneiro, e um him de azeite para cada efa.
+
+[[v26-45-25]]
+
+^<<v26-45-25,25>>^ No dia quinze do sétimo mês e durante os sete dias da festa, fará o mesmo: a mesma oferta pelo pecado, o mesmo holocausto, a mesma oferta e a mesma porção de azeite.
+
+'''
+
+xref:026-ezequiel/026-ezequiel-044.adoc#v26-44-0[&#60; Capítulo Anterior] | <<v26-45-0,Topo>> | xref:026-ezequiel/026-ezequiel-046.adoc#v26-46-0[Próximo Capítulo &#62;]

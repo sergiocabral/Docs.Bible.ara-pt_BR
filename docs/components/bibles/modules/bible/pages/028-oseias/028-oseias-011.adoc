@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v28-11-0]]
+=== Oséias, 11
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v28-11-1]]
+
+^<<v28-11-1,1>>^ Quando Israel era menino, eu o amei; e do Egito chamei o meu filho.
+
+[[v28-11-2]]
+
+^<<v28-11-2,2>>^ Quanto mais eu os chamava, tanto mais se iam da minha presença; sacrificavam a baalins e queimavam incenso às imagens de escultura.
+
+[[v28-11-3]]
+
+^<<v28-11-3,3>>^ Todavia, eu ensinei a andar a Efraim; tomei-os nos meus braços, mas não atinaram que eu os curava.
+
+[[v28-11-4]]
+
+^<<v28-11-4,4>>^ Atraí-os com cordas humanas, com laços de amor; fui para eles como quem alivia o jugo de sobre as suas queixadas e me inclinei para dar-lhes de comer.
+
+[[v28-11-5]]
+
+^<<v28-11-5,5>>^ Não voltarão para a terra do Egito, mas o assírio será seu rei, porque recusam converter-se.
+
+[[v28-11-6]]
+
+^<<v28-11-6,6>>^ A espada cairá sobre as suas cidades, e consumirá os seus ferrolhos, e as devorará, por causa dos seus caprichos.
+
+[[v28-11-7]]
+
+^<<v28-11-7,7>>^ Porque o meu povo é inclinado a desviar-se de mim; se é concitado a dirigir-se acima, ninguém o faz.
+
+[[v28-11-8]]
+
+^<<v28-11-8,8>>^ Como te deixaria, ó Efraim? Como te entregaria, ó Israel? Como te faria como a Admá? Como fazer-te um Zeboim? Meu coração está comovido dentro de mim, as minhas compaixões, à uma, se acendem.
+
+[[v28-11-9]]
+
+^<<v28-11-9,9>>^ Não executarei o furor da minha ira; não tornarei para destruir a Efraim, porque eu sou Deus e não homem, o Santo no meio de ti; não voltarei em ira.
+
+[[v28-11-10]]
+
+^<<v28-11-10,10>>^ Andarão após o SENHOR; este bramará como leão, e, bramando, os filhos, tremendo, virão do Ocidente;
+
+[[v28-11-11]]
+
+^<<v28-11-11,11>>^ tremendo, virão, como passarinhos, os do Egito, e, como pombas, os da terra da Assíria, e os farei habitar em suas próprias casas, diz o SENHOR.
+
+[[v28-11-12]]
+
+^<<v28-11-12,12>>^ Efraim me cercou por meio de mentiras, e a casa de Israel, com engano; mas Judá ainda domina com Deus e é fiel com o Santo.
+
+'''
+
+xref:028-oseias/028-oseias-010.adoc#v28-10-0[&#60; Capítulo Anterior] | <<v28-11-0,Topo>> | xref:028-oseias/028-oseias-012.adoc#v28-12-0[Próximo Capítulo &#62;]

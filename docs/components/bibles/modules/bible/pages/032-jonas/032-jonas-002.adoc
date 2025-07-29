@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v32-2-0]]
+=== Jonas, 2
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v32-2-1]]
+
+^<<v32-2-1,1>>^ Então, Jonas, do ventre do peixe, orou ao SENHOR, seu Deus,
+
+[[v32-2-2]]
+
+^<<v32-2-2,2>>^ e disse: Na minha angústia, clamei ao SENHOR, e ele me respondeu; do ventre do abismo, gritei, e tu me ouviste a voz.
+
+[[v32-2-3]]
+
+^<<v32-2-3,3>>^ Pois me lançaste no profundo, no coração dos mares, e a corrente das águas me cercou; todas as tuas ondas e as tuas vagas passaram por cima de mim.
+
+[[v32-2-4]]
+
+^<<v32-2-4,4>>^ Então, eu disse: lançado estou de diante dos teus olhos; tornarei, porventura, a ver o teu santo templo?
+
+[[v32-2-5]]
+
+^<<v32-2-5,5>>^ As águas me cercaram até à alma, o abismo me rodeou; e as algas se enrolaram na minha cabeça.
+
+[[v32-2-6]]
+
+^<<v32-2-6,6>>^ Desci até aos fundamentos dos montes, desci até à terra, cujos ferrolhos se correram sobre mim, para sempre; contudo, fizeste subir da sepultura a minha vida, ó SENHOR, meu Deus!
+
+[[v32-2-7]]
+
+^<<v32-2-7,7>>^ Quando, dentro de mim, desfalecia a minha alma, eu me lembrei do SENHOR; e subiu a ti a minha oração, no teu santo templo.
+
+[[v32-2-8]]
+
+^<<v32-2-8,8>>^ Os que se entregam à idolatria vã abandonam aquele que lhes é misericordioso.
+
+[[v32-2-9]]
+
+^<<v32-2-9,9>>^ Mas, com a voz do agradecimento, eu te oferecerei sacrifício; o que votei pagarei. Ao SENHOR pertence a salvação!
+
+[[v32-2-10]]
+
+^<<v32-2-10,10>>^ Falou, pois, o SENHOR ao peixe, e este vomitou a Jonas na terra.
+
+'''
+
+xref:032-jonas/032-jonas-001.adoc#v32-1-0[&#60; Capítulo Anterior] | <<v32-2-0,Topo>> | xref:032-jonas/032-jonas-003.adoc#v32-3-0[Próximo Capítulo &#62;]

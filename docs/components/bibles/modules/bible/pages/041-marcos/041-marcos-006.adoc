@@ -1,0 +1,233 @@
+include::./index.adoc[]
+
+[[v41-6-0]]
+=== Marcos, 6
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v41-6-1]]
+
+^<<v41-6-1,1>>^ Tendo Jesus partido dali, foi para a sua terra, e os seus discípulos o acompanharam.
+
+[[v41-6-2]]
+
+^<<v41-6-2,2>>^ Chegando o sábado, passou a ensinar na sinagoga; e muitos, ouvindo-o, se maravilhavam, dizendo: Donde vêm a este estas coisas? Que sabedoria é esta que lhe foi dada? E como se fazem tais maravilhas por suas mãos?
+
+[[v41-6-3]]
+
+^<<v41-6-3,3>>^ Não é este o carpinteiro, filho de Maria, irmão de Tiago, José, Judas e Simão? E não vivem aqui entre nós suas irmãs? E escandalizavam-se nele.
+
+[[v41-6-4]]
+
+^<<v41-6-4,4>>^ Jesus, porém, lhes disse: Não há profeta sem honra, senão na sua terra, entre os seus parentes e na sua casa.
+
+[[v41-6-5]]
+
+^<<v41-6-5,5>>^ Não pôde fazer ali nenhum milagre, senão curar uns poucos enfermos, impondo-lhes as mãos.
+
+[[v41-6-6]]
+
+^<<v41-6-6,6>>^ Admirou-se da incredulidade deles. Contudo, percorria as aldeias circunvizinhas, a ensinar.
+
+[[v41-6-7]]
+
+^<<v41-6-7,7>>^ Chamou Jesus os doze e passou a enviá-los de dois a dois, dando-lhes autoridade sobre os espíritos imundos.
+
+[[v41-6-8]]
+
+^<<v41-6-8,8>>^ Ordenou-lhes que nada levassem para o caminho, exceto um bordão; nem pão, nem alforje, nem dinheiro;
+
+[[v41-6-9]]
+
+^<<v41-6-9,9>>^ que fossem calçados de sandálias e não usassem duas túnicas.
+
+[[v41-6-10]]
+
+^<<v41-6-10,10>>^ E recomendou-lhes: Quando entrardes nalguma casa, permanecei aí até vos retirardes do lugar.
+
+[[v41-6-11]]
+
+^<<v41-6-11,11>>^ Se nalgum lugar não vos receberem nem vos ouvirem, ao sairdes dali, sacudi o pó dos pés, em testemunho contra eles.
+
+[[v41-6-12]]
+
+^<<v41-6-12,12>>^ Então, saindo eles, pregavam ao povo que se arrependesse;
+
+[[v41-6-13]]
+
+^<<v41-6-13,13>>^ expeliam muitos demônios e curavam numerosos enfermos, ungindo-os com óleo.
+
+[[v41-6-14]]
+
+^<<v41-6-14,14>>^ Chegou isto aos ouvidos do rei Herodes, porque o nome de Jesus já se tornara notório; e alguns diziam: João Batista ressuscitou dentre os mortos, e, por isso, nele operam forças miraculosas.
+
+[[v41-6-15]]
+
+^<<v41-6-15,15>>^ Outros diziam: É Elias; ainda outros: É profeta como um dos profetas.
+
+[[v41-6-16]]
+
+^<<v41-6-16,16>>^ Herodes, porém, ouvindo isto, disse: É João, a quem eu mandei decapitar, que ressurgiu.
+
+[[v41-6-17]]
+
+^<<v41-6-17,17>>^ Porque o mesmo Herodes, por causa de Herodias, mulher de seu irmão Filipe (porquanto Herodes se casara com ela), mandara prender a João e atá-lo no cárcere.
+
+[[v41-6-18]]
+
+^<<v41-6-18,18>>^ Pois João lhe dizia: Não te é lícito possuir a mulher de teu irmão.
+
+[[v41-6-19]]
+
+^<<v41-6-19,19>>^ E Herodias o odiava, querendo matá-lo, e não podia.
+
+[[v41-6-20]]
+
+^<<v41-6-20,20>>^ Porque Herodes temia a João, sabendo que era homem justo e santo, e o tinha em segurança. E, quando o ouvia, ficava perplexo, escutando-o de boa mente.
+
+[[v41-6-21]]
+
+^<<v41-6-21,21>>^ E, chegando um dia favorável, em que Herodes no seu aniversário natalício dera um banquete aos seus dignitários, aos oficiais militares e aos principais da Galileia,
+
+[[v41-6-22]]
+
+^<<v41-6-22,22>>^ entrou a filha de Herodias e, dançando, agradou a Herodes e aos seus convivas. Então, disse o rei à jovem: Pede-me o que quiseres, e eu to darei.
+
+[[v41-6-23]]
+
+^<<v41-6-23,23>>^ E jurou-lhe: Se pedires mesmo que seja a metade do meu reino, eu ta darei.
+
+[[v41-6-24]]
+
+^<<v41-6-24,24>>^ Saindo ela, perguntou à sua mãe: Que pedirei? Esta respondeu: A cabeça de João Batista.
+
+[[v41-6-25]]
+
+^<<v41-6-25,25>>^ No mesmo instante, voltando apressadamente para junto do rei, disse: Quero que, sem demora, me dês num prato a cabeça de João Batista.
+
+[[v41-6-26]]
+
+^<<v41-6-26,26>>^ Entristeceu-se profundamente o rei; mas, por causa do juramento e dos que estavam com ele à mesa, não lha quis negar.
+
+[[v41-6-27]]
+
+^<<v41-6-27,27>>^ E, enviando logo o executor, mandou que lhe trouxessem a cabeça de João. Ele foi, e o decapitou no cárcere,
+
+[[v41-6-28]]
+
+^<<v41-6-28,28>>^ e, trazendo a cabeça num prato, a entregou à jovem, e esta, por sua vez, a sua mãe.
+
+[[v41-6-29]]
+
+^<<v41-6-29,29>>^ Os discípulos de João, logo que souberam disto, vieram, levaram-lhe o corpo e o depositaram no túmulo.
+
+[[v41-6-30]]
+
+^<<v41-6-30,30>>^ Voltaram os apóstolos à presença de Jesus e lhe relataram tudo quanto haviam feito e ensinado.
+
+[[v41-6-31]]
+
+^<<v41-6-31,31>>^ E ele lhes disse: Vinde repousar um pouco, à parte, num lugar deserto;  porque eles não tinham tempo nem para comer, visto serem numerosos os que iam e vinham.
+
+[[v41-6-32]]
+
+^<<v41-6-32,32>>^ Então, foram sós no barco para um lugar solitário.
+
+[[v41-6-33]]
+
+^<<v41-6-33,33>>^ Muitos, porém, os viram partir e, reconhecendo-os, correram para lá, a pé, de todas as cidades, e chegaram antes deles.
+
+[[v41-6-34]]
+
+^<<v41-6-34,34>>^ Ao desembarcar, viu Jesus uma grande multidão e compadeceu-se deles, porque eram como ovelhas que não têm pastor. E passou a ensinar-lhes muitas coisas.
+
+[[v41-6-35]]
+
+^<<v41-6-35,35>>^ Em declinando a tarde, vieram os discípulos a Jesus e lhe disseram: É deserto este lugar, e já avançada a hora;
+
+[[v41-6-36]]
+
+^<<v41-6-36,36>>^ despede-os para que, passando pelos campos ao redor e pelas aldeias, comprem para si o que comer.
+
+[[v41-6-37]]
+
+^<<v41-6-37,37>>^ Porém ele lhes respondeu: Dai-lhes vós mesmos de comer.  Disseram-lhe: Iremos comprar duzentos denários de pão para lhes dar de comer?
+
+[[v41-6-38]]
+
+^<<v41-6-38,38>>^ E ele lhes disse: Quantos pães tendes? Ide ver!  E, sabendo-o eles, responderam: Cinco pães e dois peixes.
+
+[[v41-6-39]]
+
+^<<v41-6-39,39>>^ Então, Jesus lhes ordenou que todos se assentassem, em grupos, sobre a relva verde.
+
+[[v41-6-40]]
+
+^<<v41-6-40,40>>^ E o fizeram, repartindo-se em grupos de cem em cem e de cinquenta em cinquenta.
+
+[[v41-6-41]]
+
+^<<v41-6-41,41>>^ Tomando ele os cinco pães e os dois peixes, erguendo os olhos ao céu, os abençoou; e, partindo os pães, deu-os aos discípulos para que os distribuíssem; e por todos repartiu também os dois peixes.
+
+[[v41-6-42]]
+
+^<<v41-6-42,42>>^ Todos comeram e se fartaram;
+
+[[v41-6-43]]
+
+^<<v41-6-43,43>>^ e ainda recolheram doze cestos cheios de pedaços de pão e de peixe.
+
+[[v41-6-44]]
+
+^<<v41-6-44,44>>^ Os que comeram dos pães eram cinco mil homens.
+
+[[v41-6-45]]
+
+^<<v41-6-45,45>>^ Logo a seguir, compeliu Jesus os seus discípulos a embarcar e passar adiante para o outro lado, a Betsaida, enquanto ele despedia a multidão.
+
+[[v41-6-46]]
+
+^<<v41-6-46,46>>^ E, tendo-os despedido, subiu ao monte para orar.
+
+[[v41-6-47]]
+
+^<<v41-6-47,47>>^ Ao cair da tarde, estava o barco no meio do mar, e ele, sozinho em terra.
+
+[[v41-6-48]]
+
+^<<v41-6-48,48>>^ E, vendo-os em dificuldade a remar, porque o vento lhes era contrário, por volta da quarta vigília da noite, veio ter com eles, andando por sobre o mar; e queria tomar-lhes a dianteira.
+
+[[v41-6-49]]
+
+^<<v41-6-49,49>>^ Eles, porém, vendo-o andar sobre o mar, pensaram tratar-se de um fantasma e gritaram.
+
+[[v41-6-50]]
+
+^<<v41-6-50,50>>^ Pois todos ficaram aterrados à vista dele. Mas logo lhes falou e disse: Tende bom ânimo! Sou eu. Não temais!
+
+[[v41-6-51]]
+
+^<<v41-6-51,51>>^ E subiu para o barco para estar com eles, e o vento cessou. Ficaram entre si atônitos,
+
+[[v41-6-52]]
+
+^<<v41-6-52,52>>^ porque não haviam compreendido o milagre dos pães; antes, o seu coração estava endurecido.
+
+[[v41-6-53]]
+
+^<<v41-6-53,53>>^ Estando já no outro lado, chegaram a terra, em Genesaré, onde aportaram.
+
+[[v41-6-54]]
+
+^<<v41-6-54,54>>^ Saindo eles do barco, logo o povo reconheceu Jesus;
+
+[[v41-6-55]]
+
+^<<v41-6-55,55>>^ e, percorrendo toda aquela região, traziam em leitos os enfermos, para onde ouviam que ele estava.
+
+[[v41-6-56]]
+
+^<<v41-6-56,56>>^ Onde quer que ele entrasse nas aldeias, cidades ou campos, punham os enfermos nas praças, rogando-lhe que os deixasse tocar ao menos na orla da sua veste; e quantos a tocavam saíam curados.
+
+'''
+
+xref:041-marcos/041-marcos-005.adoc#v41-5-0[&#60; Capítulo Anterior] | <<v41-6-0,Topo>> | xref:041-marcos/041-marcos-007.adoc#v41-7-0[Próximo Capítulo &#62;]

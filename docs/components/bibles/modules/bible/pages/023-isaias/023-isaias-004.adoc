@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v23-4-0]]
+=== Isaías, 4
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v23-4-1]]
+
+^<<v23-4-1,1>>^ Sete mulheres, naquele dia, lançarão mão de um homem, dizendo: Nós mesmas do nosso próprio pão nos sustentaremos e do que é nosso nos vestiremos; tão somente queremos ser chamadas pelo teu nome; tira o nosso opróbrio.
+
+[[v23-4-2]]
+
+^<<v23-4-2,2>>^ Naquele dia, o Renovo do SENHOR será de beleza e de glória; e o fruto da terra, orgulho e adorno para os de Israel que forem salvos.
+
+[[v23-4-3]]
+
+^<<v23-4-3,3>>^ Será que os restantes de Sião e os que ficarem em Jerusalém serão chamados santos; todos os que estão inscritos em Jerusalém, para a vida,
+
+[[v23-4-4]]
+
+^<<v23-4-4,4>>^ quando o Senhor lavar a imundícia das filhas de Sião e limpar Jerusalém da culpa do sangue do meio dela, com o Espírito de justiça e com o Espírito purificador.
+
+[[v23-4-5]]
+
+^<<v23-4-5,5>>^ Criará o SENHOR, sobre todo o monte de Sião e sobre todas as suas assembleias, uma nuvem de dia e fumaça e resplendor de fogo chamejante de noite; porque sobre toda a glória se estenderá um dossel e um pavilhão,
+
+[[v23-4-6]]
+
+^<<v23-4-6,6>>^ os quais serão para sombra contra o calor do dia e para refúgio e esconderijo contra a tempestade e a chuva.
+
+'''
+
+xref:023-isaias/023-isaias-003.adoc#v23-3-0[&#60; Capítulo Anterior] | <<v23-4-0,Topo>> | xref:023-isaias/023-isaias-005.adoc#v23-5-0[Próximo Capítulo &#62;]

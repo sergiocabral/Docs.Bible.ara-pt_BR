@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v45-6-0]]
+=== Romanos, 6
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v45-6-1]]
+
+^<<v45-6-1,1>>^ Que diremos, pois? Permaneceremos no pecado, para que seja a graça mais abundante?
+
+[[v45-6-2]]
+
+^<<v45-6-2,2>>^ De modo nenhum! Como viveremos ainda no pecado, nós os que para ele morremos?
+
+[[v45-6-3]]
+
+^<<v45-6-3,3>>^ Ou, porventura, ignorais que todos nós que fomos batizados em Cristo Jesus fomos batizados na sua morte?
+
+[[v45-6-4]]
+
+^<<v45-6-4,4>>^ Fomos, pois, sepultados com ele na morte pelo batismo; para que, como Cristo foi ressuscitado dentre os mortos pela glória do Pai, assim também andemos nós em novidade de vida.
+
+[[v45-6-5]]
+
+^<<v45-6-5,5>>^ Porque, se fomos unidos com ele na semelhança da sua morte, certamente, o seremos também na semelhança da sua ressurreição,
+
+[[v45-6-6]]
+
+^<<v45-6-6,6>>^ sabendo isto: que foi crucificado com ele o nosso velho homem, para que o corpo do pecado seja destruído, e não sirvamos o pecado como escravos;
+
+[[v45-6-7]]
+
+^<<v45-6-7,7>>^ porquanto quem morreu está justificado do pecado.
+
+[[v45-6-8]]
+
+^<<v45-6-8,8>>^ Ora, se já morremos com Cristo, cremos que também com ele viveremos,
+
+[[v45-6-9]]
+
+^<<v45-6-9,9>>^ sabedores de que, havendo Cristo ressuscitado dentre os mortos, já não morre; a morte já não tem domínio sobre ele.
+
+[[v45-6-10]]
+
+^<<v45-6-10,10>>^ Pois, quanto a ter morrido, de uma vez para sempre morreu para o pecado; mas, quanto a viver, vive para Deus.
+
+[[v45-6-11]]
+
+^<<v45-6-11,11>>^ Assim também vós considerai-vos mortos para o pecado, mas vivos para Deus, em Cristo Jesus.
+
+[[v45-6-12]]
+
+^<<v45-6-12,12>>^ Não reine, portanto, o pecado em vosso corpo mortal, de maneira que obedeçais às suas paixões;
+
+[[v45-6-13]]
+
+^<<v45-6-13,13>>^ nem ofereçais cada um os membros do seu corpo ao pecado, como instrumentos de iniquidade; mas oferecei-vos a Deus, como ressurretos dentre os mortos, e os vossos membros, a Deus, como instrumentos de justiça.
+
+[[v45-6-14]]
+
+^<<v45-6-14,14>>^ Porque o pecado não terá domínio sobre vós; pois não estais debaixo da lei, e sim da graça.
+
+[[v45-6-15]]
+
+^<<v45-6-15,15>>^ E daí? Havemos de pecar porque não estamos debaixo da lei, e sim da graça? De modo nenhum!
+
+[[v45-6-16]]
+
+^<<v45-6-16,16>>^ Não sabeis que daquele a quem vos ofereceis como servos para obediência, desse mesmo a quem obedeceis sois servos, seja do pecado para a morte ou da obediência para a justiça?
+
+[[v45-6-17]]
+
+^<<v45-6-17,17>>^ Mas graças a Deus porque, outrora, escravos do pecado, contudo, viestes a obedecer de coração à forma de doutrina a que fostes entregues;
+
+[[v45-6-18]]
+
+^<<v45-6-18,18>>^ e, uma vez libertados do pecado, fostes feitos servos da justiça.
+
+[[v45-6-19]]
+
+^<<v45-6-19,19>>^ Falo como homem, por causa da fraqueza da vossa carne. Assim como oferecestes os vossos membros para a escravidão da impureza e da maldade para a maldade, assim oferecei, agora, os vossos membros para servirem à justiça para a santificação.
+
+[[v45-6-20]]
+
+^<<v45-6-20,20>>^ Porque, quando éreis escravos do pecado, estáveis isentos em relação à justiça.
+
+[[v45-6-21]]
+
+^<<v45-6-21,21>>^ Naquele tempo, que resultados colhestes? Somente as coisas de que, agora, vos envergonhais; porque o fim delas é morte.
+
+[[v45-6-22]]
+
+^<<v45-6-22,22>>^ Agora, porém, libertados do pecado, transformados em servos de Deus, tendes o vosso fruto para a santificação e, por fim, a vida eterna;
+
+[[v45-6-23]]
+
+^<<v45-6-23,23>>^ porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus, nosso Senhor.
+
+'''
+
+xref:045-romanos/045-romanos-005.adoc#v45-5-0[&#60; Capítulo Anterior] | <<v45-6-0,Topo>> | xref:045-romanos/045-romanos-007.adoc#v45-7-0[Próximo Capítulo &#62;]

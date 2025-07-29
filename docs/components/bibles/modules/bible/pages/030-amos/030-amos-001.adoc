@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v30-1-0]]
+=== Amós, 1
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v30-1-1]]
+
+^<<v30-1-1,1>>^ Palavras que, em visão, vieram a Amós, que era entre os pastores de Tecoa, a respeito de Israel, nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto.
+
+[[v30-1-2]]
+
+^<<v30-1-2,2>>^ Ele disse: O SENHOR rugirá de Sião e de Jerusalém fará ouvir a sua voz; os prados dos pastores estarão de luto, e secar-se-á o cimo do Carmelo.
+
+[[v30-1-3]]
+
+^<<v30-1-3,3>>^ Assim diz o SENHOR: Por três transgressões de Damasco e por quatro, não sustarei o castigo, porque trilharam a Gileade com trilhos de ferro.
+
+[[v30-1-4]]
+
+^<<v30-1-4,4>>^ Por isso, meterei fogo à casa de Hazael, fogo que consumirá os castelos de Ben-Hadade.
+
+[[v30-1-5]]
+
+^<<v30-1-5,5>>^ Quebrarei o ferrolho de Damasco e eliminarei o morador de Biqueate-Áven e ao que tem o cetro de Bete-Éden; e o povo da Síria será levado em cativeiro a Quir, diz o SENHOR.
+
+[[v30-1-6]]
+
+^<<v30-1-6,6>>^ Assim diz o SENHOR: Por três transgressões de Gaza e por quatro, não sustarei o castigo, porque levaram em cativeiro todo o povo, para o entregarem a Edom.
+
+[[v30-1-7]]
+
+^<<v30-1-7,7>>^ Por isso, meterei fogo aos muros de Gaza, fogo que consumirá os seus castelos.
+
+[[v30-1-8]]
+
+^<<v30-1-8,8>>^ Eliminarei o morador de Asdode e o que tem o cetro de Asquelom e volverei a mão contra Ecrom; e o resto dos filisteus perecerá, diz o SENHOR.
+
+[[v30-1-9]]
+
+^<<v30-1-9,9>>^ Assim diz o SENHOR: Por três transgressões de Tiro e por quatro, não sustarei o castigo, porque entregaram todos os cativos a Edom e não se lembraram da aliança de irmãos.
+
+[[v30-1-10]]
+
+^<<v30-1-10,10>>^ Por isso, meterei fogo aos muros de Tiro, fogo que consumirá os seus castelos.
+
+[[v30-1-11]]
+
+^<<v30-1-11,11>>^ Assim diz o SENHOR: Por três transgressões de Edom e por quatro, não sustarei o castigo, porque perseguiu o seu irmão à espada e baniu toda a misericórdia; e a sua ira não cessou de despedaçar, e reteve a sua indignação para sempre.
+
+[[v30-1-12]]
+
+^<<v30-1-12,12>>^ Por isso, meterei fogo a Temã, fogo que consumirá os castelos de Bozra.
+
+[[v30-1-13]]
+
+^<<v30-1-13,13>>^ Assim diz o SENHOR: Por três transgressões dos filhos de Amom e por quatro, não sustarei o castigo, porque rasgaram o ventre às grávidas de Gileade, para dilatarem os seus próprios limites.
+
+[[v30-1-14]]
+
+^<<v30-1-14,14>>^ Por isso, meterei fogo aos muros de Rabá, fogo que consumirá os seus castelos, com alarido no dia da batalha, com turbilhão no dia da tempestade.
+
+[[v30-1-15]]
+
+^<<v30-1-15,15>>^ O seu rei irá para o cativeiro, ele e os seus príncipes juntamente, diz o SENHOR.
+
+'''
+
+xref:029-joel/029-joel-003.adoc#v29-3-0[&#60; Capítulo Anterior] | <<v30-1-0,Topo>> | xref:030-amos/030-amos-002.adoc#v30-2-0[Próximo Capítulo &#62;]

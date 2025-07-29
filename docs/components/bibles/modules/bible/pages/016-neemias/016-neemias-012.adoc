@@ -1,0 +1,197 @@
+include::./index.adoc[]
+
+[[v16-12-0]]
+=== Neemias, 12
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v16-12-1]]
+
+^<<v16-12-1,1>>^ São estes os sacerdotes e levitas que subiram com Zorobabel, filho de Sealtiel, e com Jesua: Seraías, Jeremias, Esdras,
+
+[[v16-12-2]]
+
+^<<v16-12-2,2>>^ Amarias, Maluque, Hatus,
+
+[[v16-12-3]]
+
+^<<v16-12-3,3>>^ Secanias, Reum, Meremote,
+
+[[v16-12-4]]
+
+^<<v16-12-4,4>>^ Ido, Ginetoi, Abias,
+
+[[v16-12-5]]
+
+^<<v16-12-5,5>>^ Miamim, Maadias, Bilga,
+
+[[v16-12-6]]
+
+^<<v16-12-6,6>>^ Semaías, Joiaribe, Jedaías,
+
+[[v16-12-7]]
+
+^<<v16-12-7,7>>^ Salu, Amoque, Hilquias e Jedaías; estes foram os chefes dos sacerdotes e de seus irmãos, nos dias de Jesua.
+
+[[v16-12-8]]
+
+^<<v16-12-8,8>>^ Também os levitas Jesua, Binui, Cadmiel, Serebias, Judá e Matanias; este e seus irmãos dirigiam os louvores.
+
+[[v16-12-9]]
+
+^<<v16-12-9,9>>^ Baquebuquias e Uni, seus irmãos, estavam defronte deles, cada qual no seu mister.
+
+[[v16-12-10]]
+
+^<<v16-12-10,10>>^ Jesua gerou a Joiaquim, Joiaquim gerou a Eliasibe, Eliasibe gerou a Joiada,
+
+[[v16-12-11]]
+
+^<<v16-12-11,11>>^ Joiada gerou a Jônatas, e Jônatas gerou a Jadua.
+
+[[v16-12-12]]
+
+^<<v16-12-12,12>>^ Nos dias de Joiaquim, foram sacerdotes, cabeças de famílias: de Seraías, Meraías; de Jeremias, Hananias;
+
+[[v16-12-13]]
+
+^<<v16-12-13,13>>^ de Esdras, Mesulão; de Amarias, Joanã;
+
+[[v16-12-14]]
+
+^<<v16-12-14,14>>^ de Maluqui, Jônatas; de Sebanias, José;
+
+[[v16-12-15]]
+
+^<<v16-12-15,15>>^ de Harim, Adna; de Meraiote, Helcai;
+
+[[v16-12-16]]
+
+^<<v16-12-16,16>>^ de Ido, Zacarias; de Ginetom, Mesulão;
+
+[[v16-12-17]]
+
+^<<v16-12-17,17>>^ de Abias, Zicri; de Miniamim e de Moadias, Piltai;
+
+[[v16-12-18]]
+
+^<<v16-12-18,18>>^ de Bilga, Samua; de Semaías, Jônatas;
+
+[[v16-12-19]]
+
+^<<v16-12-19,19>>^ de Joiaribe, Matenai; de Jedaías, Uzi;
+
+[[v16-12-20]]
+
+^<<v16-12-20,20>>^ de Salai, Calai; de Amoque, Héber;
+
+[[v16-12-21]]
+
+^<<v16-12-21,21>>^ de Hilquias, Hasabias; de Jedaías, Netanel.
+
+[[v16-12-22]]
+
+^<<v16-12-22,22>>^ Dos levitas, nos dias de Eliasibe, foram inscritos como cabeças de famílias Joiada, Joanã e Jadua, como também os sacerdotes, até ao reinado de Dario, o persa.
+
+[[v16-12-23]]
+
+^<<v16-12-23,23>>^ Os filhos de Levi foram inscritos como cabeças de famílias no Livro das Crônicas, até aos dias de Joanã, filho de Eliasibe.
+
+[[v16-12-24]]
+
+^<<v16-12-24,24>>^ Foram, pois, chefes dos levitas: Hasabias, Serebias e Jesua, filho de Cadmiel; os irmãos deles lhes estavam fronteiros para louvarem e darem graças, segundo o mandado de Davi, homem de Deus, coro contra coro.
+
+[[v16-12-25]]
+
+^<<v16-12-25,25>>^ Matanias, Baquebuquias, Obadias, Mesulão, Talmom e Acube eram porteiros e faziam a guarda aos depósitos das portas.
+
+[[v16-12-26]]
+
+^<<v16-12-26,26>>^ Estes viveram nos dias de Joiaquim, filho de Jesua, filho de Jozadaque, e nos dias de Neemias, o governador, e de Esdras, o sacerdote e escriba.
+
+[[v16-12-27]]
+
+^<<v16-12-27,27>>^ Na dedicação dos muros de Jerusalém, procuraram aos levitas de todos os seus lugares, para fazê-los vir a fim de que fizessem a dedicação com alegria, louvores, canto, címbalos, alaúdes e harpas.
+
+[[v16-12-28]]
+
+^<<v16-12-28,28>>^ Ajuntaram-se os filhos dos cantores, tanto da campina dos arredores de Jerusalém como das aldeias dos netofatitas,
+
+[[v16-12-29]]
+
+^<<v16-12-29,29>>^ como também de Bete-Gilgal e dos campos de Geba e de Azmavete; porque os cantores tinham edificado para si aldeias nos arredores de Jerusalém.
+
+[[v16-12-30]]
+
+^<<v16-12-30,30>>^ Purificaram-se os sacerdotes e os levitas, que também purificaram o povo e as portas e o muro.
+
+[[v16-12-31]]
+
+^<<v16-12-31,31>>^ Então, fiz subir os príncipes de Judá sobre o muro e formei dois grandes coros em procissão, sendo um à mão direita sobre a muralha para o lado da Porta do Monturo.
+
+[[v16-12-32]]
+
+^<<v16-12-32,32>>^ Após eles, ia Hosaías e a metade dos príncipes de Judá,
+
+[[v16-12-33]]
+
+^<<v16-12-33,33>>^ Azarias, Esdras, Mesulão,
+
+[[v16-12-34]]
+
+^<<v16-12-34,34>>^ Judá, Benjamim, Semaías e Jeremias;
+
+[[v16-12-35]]
+
+^<<v16-12-35,35>>^ e dos filhos dos sacerdotes, com trombetas: Zacarias, filho de Jônatas, filho de Semaías, filho de Matanias, filho de Micaías, filho de Zacur, filho de Asafe,
+
+[[v16-12-36]]
+
+^<<v16-12-36,36>>^ e seus irmãos, Semaías, Azarel, Milalai, Gilalai, Maai, Netanel, Judá e Hanani, com os instrumentos músicos de Davi, homem de Deus; Esdras, o escriba, ia adiante deles.
+
+[[v16-12-37]]
+
+^<<v16-12-37,37>>^ À entrada da Porta da Fonte, subiram diretamente as escadas da Cidade de Davi, onde se eleva o muro por sobre a casa de Davi, até à Porta das Águas, do lado oriental.
+
+[[v16-12-38]]
+
+^<<v16-12-38,38>>^ O segundo coro ia em frente, e eu, após ele; metade do povo ia por cima do muro, desde a Torre dos Fornos até ao Muro Largo;
+
+[[v16-12-39]]
+
+^<<v16-12-39,39>>^ e desde a Porta de Efraim, passaram por cima da Porta Velha e da Porta do Peixe, pela Torre de Hananel, pela Torre dos Cem, até à Porta do Gado; e pararam à Porta da Guarda.
+
+[[v16-12-40]]
+
+^<<v16-12-40,40>>^ Então, ambos os coros pararam na Casa de Deus, como também eu e a metade dos magistrados comigo.
+
+[[v16-12-41]]
+
+^<<v16-12-41,41>>^ Os sacerdotes Eliaquim, Maaseias, Miniamim, Micaías, Elioenai, Zacarias e Hananias iam com trombetas,
+
+[[v16-12-42]]
+
+^<<v16-12-42,42>>^ como também Maaseias, Semaías, Eleazar, Uzi, Joanã, Malquias, Elão e Ezer; e faziam-se ouvir os cantores sob a direção de Jezraías.
+
+[[v16-12-43]]
+
+^<<v16-12-43,43>>^ No mesmo dia, ofereceram grandes sacrifícios e se alegraram; pois Deus os alegrara com grande alegria; também as mulheres e os meninos se alegraram, de modo que o júbilo de Jerusalém se ouviu até de longe.
+
+[[v16-12-44]]
+
+^<<v16-12-44,44>>^ Ainda no mesmo dia, se nomearam homens para as câmaras dos tesouros, das ofertas, das primícias e dos dízimos, para ajuntarem nelas, das cidades, as porções designadas pela Lei para os sacerdotes e para os levitas; pois Judá estava alegre, porque os sacerdotes e os levitas ministravam ali;
+
+[[v16-12-45]]
+
+^<<v16-12-45,45>>^ e executavam o serviço do seu Deus e o da purificação; como também os cantores e porteiros, segundo o mandado de Davi e de seu filho Salomão.
+
+[[v16-12-46]]
+
+^<<v16-12-46,46>>^ Pois já outrora, nos dias de Davi e de Asafe, havia chefes dos cantores, cânticos de louvor e ações de graças a Deus.
+
+[[v16-12-47]]
+
+^<<v16-12-47,47>>^ Todo o Israel, nos dias de Zorobabel e nos dias de Neemias, dava aos cantores e aos porteiros as porções de cada dia; e consagrava as coisas destinadas aos levitas, e os levitas, as destinadas aos filhos de Arão.
+
+'''
+
+xref:016-neemias/016-neemias-011.adoc#v16-11-0[&#60; Capítulo Anterior] | <<v16-12-0,Topo>> | xref:016-neemias/016-neemias-013.adoc#v16-13-0[Próximo Capítulo &#62;]

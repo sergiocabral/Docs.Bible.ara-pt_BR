@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v1-8-0]]
+=== Gênesis, 8
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v1-8-1]]
+
+^<<v1-8-1,1>>^ Lembrou-se Deus de Noé e de todos os animais selváticos e de todos os animais domésticos que com ele estavam na arca; Deus fez soprar um vento sobre a terra, e baixaram as águas.
+
+[[v1-8-2]]
+
+^<<v1-8-2,2>>^ Fecharam-se as fontes do abismo e também as comportas dos céus, e a copiosa chuva dos céus se deteve.
+
+[[v1-8-3]]
+
+^<<v1-8-3,3>>^ As águas iam-se escoando continuamente de sobre a terra e minguaram ao cabo de cento e cinquenta dias.
+
+[[v1-8-4]]
+
+^<<v1-8-4,4>>^ No dia dezessete do sétimo mês, a arca repousou sobre as montanhas de Ararate.
+
+[[v1-8-5]]
+
+^<<v1-8-5,5>>^ E as águas foram minguando até ao décimo mês, em cujo primeiro dia apareceram os cimos dos montes.
+
+[[v1-8-6]]
+
+^<<v1-8-6,6>>^ Ao cabo de quarenta dias, abriu Noé a janela que fizera na arca
+
+[[v1-8-7]]
+
+^<<v1-8-7,7>>^ e soltou um corvo, o qual, tendo saído, ia e voltava, até que se secaram as águas de sobre a terra.
+
+[[v1-8-8]]
+
+^<<v1-8-8,8>>^ Depois, soltou uma pomba para ver se as águas teriam já minguado da superfície da terra;
+
+[[v1-8-9]]
+
+^<<v1-8-9,9>>^ mas a pomba, não achando onde pousar o pé, tornou a ele para a arca; porque as águas cobriam ainda a terra. Noé, estendendo a mão, tomou-a e a recolheu consigo na arca.
+
+[[v1-8-10]]
+
+^<<v1-8-10,10>>^ Esperou ainda outros sete dias e de novo soltou a pomba fora da arca.
+
+[[v1-8-11]]
+
+^<<v1-8-11,11>>^ À tarde, ela voltou a ele; trazia no bico uma folha nova de oliveira; assim entendeu Noé que as águas tinham minguado de sobre a terra.
+
+[[v1-8-12]]
+
+^<<v1-8-12,12>>^ Então, esperou ainda mais sete dias e soltou a pomba; ela, porém, já não tornou a ele.
+
+[[v1-8-13]]
+
+^<<v1-8-13,13>>^ Sucedeu que, no primeiro dia do primeiro mês, do ano seiscentos e um, as águas se secaram de sobre a terra. Então, Noé removeu a cobertura da arca e olhou, e eis que o solo estava enxuto.
+
+[[v1-8-14]]
+
+^<<v1-8-14,14>>^ E, aos vinte e sete dias do segundo mês, a terra estava seca.
+
+[[v1-8-15]]
+
+^<<v1-8-15,15>>^ Então, disse Deus a Noé:
+
+[[v1-8-16]]
+
+^<<v1-8-16,16>>^ Sai da arca, e, contigo, tua mulher, e teus filhos, e as mulheres de teus filhos.
+
+[[v1-8-17]]
+
+^<<v1-8-17,17>>^ Os animais que estão contigo, de toda carne, tanto aves como gado, e todo réptil que rasteja sobre a terra, faze sair a todos, para que povoem a terra, sejam fecundos e nela se multipliquem.
+
+[[v1-8-18]]
+
+^<<v1-8-18,18>>^ Saiu, pois, Noé, com seus filhos, sua mulher e as mulheres de seus filhos.
+
+[[v1-8-19]]
+
+^<<v1-8-19,19>>^ E também saíram da arca todos os animais, todos os répteis, todas as aves e tudo o que se move sobre a terra, segundo as suas famílias.
+
+[[v1-8-20]]
+
+^<<v1-8-20,20>>^ Levantou Noé um altar ao SENHOR e, tomando de animais limpos e de aves limpas, ofereceu holocaustos sobre o altar.
+
+[[v1-8-21]]
+
+^<<v1-8-21,21>>^ E o SENHOR aspirou o suave cheiro e disse consigo mesmo: Não tornarei a amaldiçoar a terra por causa do homem, porque é mau o desígnio íntimo do homem desde a sua mocidade; nem tornarei a ferir todo vivente, como fiz.
+
+[[v1-8-22]]
+
+^<<v1-8-22,22>>^ Enquanto durar a terra, não deixará de haver sementeira e ceifa, frio e calor, verão e inverno, dia e noite.
+
+'''
+
+xref:001-genesis/001-genesis-007.adoc#v1-7-0[&#60; Capítulo Anterior] | <<v1-8-0,Topo>> | xref:001-genesis/001-genesis-009.adoc#v1-9-0[Próximo Capítulo &#62;]

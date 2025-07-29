@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v19-80-0]]
+=== Salmos, 80
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v19-80-1]]
+
+^<<v19-80-1,1>>^ Dá ouvidos, ó pastor de Israel, tu que conduzes a José como um rebanho; tu que estás entronizado acima dos querubins, mostra o teu esplendor.
+
+[[v19-80-2]]
+
+^<<v19-80-2,2>>^ Perante Efraim, Benjamim e Manassés, desperta o teu poder e vem salvar-nos.
+
+[[v19-80-3]]
+
+^<<v19-80-3,3>>^ Restaura-nos, ó Deus; faze resplandecer o teu rosto, e seremos salvos.
+
+[[v19-80-4]]
+
+^<<v19-80-4,4>>^ Ó SENHOR, Deus dos Exércitos, até quando estarás indignado contra a oração do teu povo?
+
+[[v19-80-5]]
+
+^<<v19-80-5,5>>^ Dás-lhe a comer pão de lágrimas e a beber copioso pranto.
+
+[[v19-80-6]]
+
+^<<v19-80-6,6>>^ Constituis-nos em contendas para os nossos vizinhos, e os nossos inimigos zombam de nós a valer.
+
+[[v19-80-7]]
+
+^<<v19-80-7,7>>^ Restaura-nos, ó Deus dos Exércitos; faze resplandecer o teu rosto, e seremos salvos.
+
+[[v19-80-8]]
+
+^<<v19-80-8,8>>^ Trouxeste uma videira do Egito, expulsaste as nações e a plantaste.
+
+[[v19-80-9]]
+
+^<<v19-80-9,9>>^ Dispuseste-lhe o terreno, ela deitou profundas raízes e encheu a terra.
+
+[[v19-80-10]]
+
+^<<v19-80-10,10>>^ Com a sombra dela os montes se cobriram, e, com os seus sarmentos, os cedros de Deus.
+
+[[v19-80-11]]
+
+^<<v19-80-11,11>>^ Estendeu ela a sua ramagem até ao mar e os seus rebentos, até ao rio.
+
+[[v19-80-12]]
+
+^<<v19-80-12,12>>^ Por que lhe derribaste as cercas, de sorte que a vindimam todos os que passam pelo caminho?
+
+[[v19-80-13]]
+
+^<<v19-80-13,13>>^ O javali da selva a devasta, e nela se repastam os animais que pululam no campo.
+
+[[v19-80-14]]
+
+^<<v19-80-14,14>>^ Ó Deus dos Exércitos, volta-te, nós te rogamos, olha do céu, e vê, e visita esta vinha;
+
+[[v19-80-15]]
+
+^<<v19-80-15,15>>^ protege o que a tua mão direita plantou, o sarmento que para ti fortaleceste.
+
+[[v19-80-16]]
+
+^<<v19-80-16,16>>^ Está queimada, está decepada. Pereçam os nossos inimigos pela repreensão do teu rosto.
+
+[[v19-80-17]]
+
+^<<v19-80-17,17>>^ Seja a tua mão sobre o povo da tua destra, sobre o filho do homem que fortaleceste para ti.
+
+[[v19-80-18]]
+
+^<<v19-80-18,18>>^ E assim não nos apartaremos de ti; vivifica-nos, e invocaremos o teu nome.
+
+[[v19-80-19]]
+
+^<<v19-80-19,19>>^ Restaura-nos, ó SENHOR, Deus dos Exércitos, faze resplandecer o teu rosto, e seremos salvos.
+
+'''
+
+xref:019-salmos/019-salmos-079.adoc#v19-79-0[&#60; Capítulo Anterior] | <<v19-80-0,Topo>> | xref:019-salmos/019-salmos-081.adoc#v19-81-0[Próximo Capítulo &#62;]

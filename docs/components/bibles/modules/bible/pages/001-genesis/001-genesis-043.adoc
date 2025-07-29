@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v1-43-0]]
+=== Gênesis, 43
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v1-43-1]]
+
+^<<v1-43-1,1>>^ A fome persistia gravíssima na terra.
+
+[[v1-43-2]]
+
+^<<v1-43-2,2>>^ Tendo eles acabado de consumir o cereal que trouxeram do Egito, disse-lhes seu pai: Voltai, comprai-nos um pouco de mantimento.
+
+[[v1-43-3]]
+
+^<<v1-43-3,3>>^ Mas Judá lhe respondeu: Fortemente nos protestou o homem, dizendo: Não me vereis o rosto, se o vosso irmão não vier convosco.
+
+[[v1-43-4]]
+
+^<<v1-43-4,4>>^ Se resolveres enviar conosco o nosso irmão, desceremos e te compraremos mantimento;
+
+[[v1-43-5]]
+
+^<<v1-43-5,5>>^ se, porém, não o enviares, não desceremos; pois o homem nos disse: Não me vereis o rosto, se o vosso irmão não vier convosco.
+
+[[v1-43-6]]
+
+^<<v1-43-6,6>>^ Disse-lhes Israel: Por que me fizestes esse mal, dando a saber àquele homem que tínheis outro irmão?
+
+[[v1-43-7]]
+
+^<<v1-43-7,7>>^ Responderam eles: O homem nos perguntou particularmente por nós e pela nossa parentela, dizendo: Vive ainda vosso pai? Tendes outro irmão? Respondemos-lhe segundo as suas palavras. Acaso, poderíamos adivinhar que haveria de dizer: Trazei vosso irmão?
+
+[[v1-43-8]]
+
+^<<v1-43-8,8>>^ Com isto disse Judá a Israel, seu pai: Envia o jovem comigo, e nos levantaremos e iremos; para que vivamos e não morramos, nem nós, nem tu, nem os nossos filhinhos.
+
+[[v1-43-9]]
+
+^<<v1-43-9,9>>^ Eu serei responsável por ele, da minha mão o requererás; se eu to não trouxer e não to puser à presença, serei culpado para contigo para sempre.
+
+[[v1-43-10]]
+
+^<<v1-43-10,10>>^ Se não nos tivéssemos demorado já estaríamos, com certeza, de volta segunda vez.
+
+[[v1-43-11]]
+
+^<<v1-43-11,11>>^ Respondeu-lhes Israel, seu pai: Se é tal, fazei, pois, isto: tomai do mais precioso desta terra nos sacos para o mantimento e levai de presente a esse homem: um pouco de bálsamo e um pouco de mel, arômatas e mirra, nozes de pistácia e amêndoas;
+
+[[v1-43-12]]
+
+^<<v1-43-12,12>>^ levai também dinheiro em dobro; e o dinheiro restituído na boca dos sacos de cereal, tornai a levá-lo convosco; pode bem ser que fosse engano.
+
+[[v1-43-13]]
+
+^<<v1-43-13,13>>^ Levai também vosso irmão, levantai-vos e voltai àquele homem.
+
+[[v1-43-14]]
+
+^<<v1-43-14,14>>^ Deus Todo-Poderoso vos dê misericórdia perante o homem, para que vos restitua o vosso outro irmão e deixe vir Benjamim. Quanto a mim, se eu perder os filhos, sem filhos ficarei.
+
+[[v1-43-15]]
+
+^<<v1-43-15,15>>^ Tomaram, pois, os homens os presentes, o dinheiro em dobro e a Benjamim; levantaram-se, desceram ao Egito e se apresentaram perante José.
+
+[[v1-43-16]]
+
+^<<v1-43-16,16>>^ Vendo José a Benjamim com eles, disse ao despenseiro de sua casa: Leva estes homens para casa, mata reses e prepara tudo; pois estes homens comerão comigo ao meio-dia.
+
+[[v1-43-17]]
+
+^<<v1-43-17,17>>^ Fez ele como José lhe ordenara e levou os homens para a casa de José.
+
+[[v1-43-18]]
+
+^<<v1-43-18,18>>^ Os homens tiveram medo, porque foram levados à casa de José; e diziam: É por causa do dinheiro que da outra vez voltou nos sacos de cereal, para nos acusar e arremeter contra nós, escravizar-nos e tomar nossos jumentos.
+
+[[v1-43-19]]
+
+^<<v1-43-19,19>>^ E se chegaram ao mordomo da casa de José, e lhe falaram à porta,
+
+[[v1-43-20]]
+
+^<<v1-43-20,20>>^ e disseram: Ai! Senhor meu, já uma vez descemos a comprar mantimento;
+
+[[v1-43-21]]
+
+^<<v1-43-21,21>>^ quando chegamos à estalagem, abrindo os sacos de cereal, eis que o dinheiro de cada um estava na boca do saco de cereal, nosso dinheiro intacto; tornamos a trazê-lo conosco.
+
+[[v1-43-22]]
+
+^<<v1-43-22,22>>^ Trouxemos também outro dinheiro conosco, para comprar mantimento; não sabemos quem tenha posto o nosso dinheiro nos sacos de cereal.
+
+[[v1-43-23]]
+
+^<<v1-43-23,23>>^ Ele disse: Paz seja convosco, não temais; o vosso Deus, e o Deus de vosso pai, vos deu tesouro nos sacos de cereal; o vosso dinheiro me chegou a mim. E lhes trouxe fora a Simeão.
+
+[[v1-43-24]]
+
+^<<v1-43-24,24>>^ Depois, levou o mordomo aqueles homens à casa de José e lhes deu água, e eles lavaram os pés; também deu ração aos seus jumentos.
+
+[[v1-43-25]]
+
+^<<v1-43-25,25>>^ Então, prepararam o presente, para quando José viesse ao meio-dia; pois ouviram que ali haviam de comer.
+
+[[v1-43-26]]
+
+^<<v1-43-26,26>>^ Chegando José a casa, trouxeram-lhe para dentro o presente que tinham em mãos; e prostraram-se perante ele até à terra.
+
+[[v1-43-27]]
+
+^<<v1-43-27,27>>^ Ele lhes perguntou pelo seu bem-estar e disse: Vosso pai, o ancião de quem me falastes, vai bem? Ainda vive?
+
+[[v1-43-28]]
+
+^<<v1-43-28,28>>^ Responderam: Vai bem o teu servo, nosso pai vive ainda; e abaixaram a cabeça e prostraram-se.
+
+[[v1-43-29]]
+
+^<<v1-43-29,29>>^ Levantando José os olhos, viu a Benjamim, seu irmão, filho de sua mãe, e disse: É este o vosso irmão mais novo, de quem me falastes? E acrescentou: Deus te conceda graça, meu filho.
+
+[[v1-43-30]]
+
+^<<v1-43-30,30>>^ José se apressou e procurou onde chorar, porque se movera no seu íntimo, para com seu irmão; entrou na câmara e chorou ali.
+
+[[v1-43-31]]
+
+^<<v1-43-31,31>>^ Depois, lavou o rosto e saiu; conteve-se e disse: Servi a refeição.
+
+[[v1-43-32]]
+
+^<<v1-43-32,32>>^ Serviram-lhe a ele à parte, e a eles também à parte, e à parte aos egípcios que comiam com ele; porque aos egípcios não lhes era lícito comer pão com os hebreus, porquanto é isso abominação para os egípcios.
+
+[[v1-43-33]]
+
+^<<v1-43-33,33>>^ E assentaram-se diante dele, o primogênito segundo a sua primogenitura e o mais novo segundo a sua menoridade; disto os homens se maravilhavam entre si.
+
+[[v1-43-34]]
+
+^<<v1-43-34,34>>^ Então, lhes apresentou as porções que estavam diante dele; a porção de Benjamim era cinco vezes mais do que a de qualquer deles. E eles beberam e se regalaram com ele.
+
+'''
+
+xref:001-genesis/001-genesis-042.adoc#v1-42-0[&#60; Capítulo Anterior] | <<v1-43-0,Topo>> | xref:001-genesis/001-genesis-044.adoc#v1-44-0[Próximo Capítulo &#62;]

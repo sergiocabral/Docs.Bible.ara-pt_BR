@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v35-3-0]]
+=== Habacuque, 3
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v35-3-1]]
+
+^<<v35-3-1,1>>^ Oração do profeta Habacuque sob a forma de canto.
+
+[[v35-3-2]]
+
+^<<v35-3-2,2>>^ Tenho ouvido, ó SENHOR, as tuas declarações, e me sinto alarmado; aviva a tua obra, ó SENHOR, no decorrer dos anos, e, no decurso dos anos, faze-a conhecida; na tua ira, lembra-te da misericórdia.
+
+[[v35-3-3]]
+
+^<<v35-3-3,3>>^ Deus vem de Temã, e do monte Parã vem o Santo. A sua glória cobre os céus, e a terra se enche do seu louvor.
+
+[[v35-3-4]]
+
+^<<v35-3-4,4>>^ O seu resplendor é como a luz, raios brilham da sua mão; e ali está velado o seu poder.
+
+[[v35-3-5]]
+
+^<<v35-3-5,5>>^ Adiante dele vai a peste, e a pestilência segue os seus passos.
+
+[[v35-3-6]]
+
+^<<v35-3-6,6>>^ Ele para e faz tremer a terra; olha e sacode as nações. Esmigalham-se os montes primitivos; os outeiros eternos se abatem. Os caminhos de Deus são eternos.
+
+[[v35-3-7]]
+
+^<<v35-3-7,7>>^ Vejo as tendas de Cusã em aflição; os acampamentos da terra de Midiã tremem.
+
+[[v35-3-8]]
+
+^<<v35-3-8,8>>^ Acaso, é contra os rios, SENHOR, que estás irado? É contra os ribeiros a tua ira ou contra o mar, o teu furor, já que andas montado nos teus cavalos, nos teus carros de vitória?
+
+[[v35-3-9]]
+
+^<<v35-3-9,9>>^ Tiras a descoberto o teu arco, e farta está a tua aljava de flechas. Tu fendes a terra com rios.
+
+[[v35-3-10]]
+
+^<<v35-3-10,10>>^ Os montes te veem e se contorcem; passam torrentes de água; as profundezas do mar fazem ouvir a sua voz e levantam bem alto as suas mãos.
+
+[[v35-3-11]]
+
+^<<v35-3-11,11>>^ O sol e a lua param nas suas moradas, ao resplandecer a luz das tuas flechas sibilantes, ao fulgor do relâmpago da tua lança.
+
+[[v35-3-12]]
+
+^<<v35-3-12,12>>^ Na tua indignação, marchas pela terra, na tua ira, calcas aos pés as nações.
+
+[[v35-3-13]]
+
+^<<v35-3-13,13>>^ Tu sais para salvamento do teu povo, para salvar o teu ungido; feres o telhado da casa do perverso e lhe descobres de todo o fundamento.
+
+[[v35-3-14]]
+
+^<<v35-3-14,14>>^ Traspassas a cabeça dos guerreiros do inimigo com as suas próprias lanças, os quais, como tempestade, avançam para me destruir; regozijam-se, como se estivessem para devorar o pobre às ocultas.
+
+[[v35-3-15]]
+
+^<<v35-3-15,15>>^ Marchas com os teus cavalos pelo mar, pela massa de grandes águas.
+
+[[v35-3-16]]
+
+^<<v35-3-16,16>>^ Ouvi-o, e o meu íntimo se comoveu, à sua voz, tremeram os meus lábios; entrou a podridão nos meus ossos, e os joelhos me vacilaram, pois, em silêncio, devo esperar o dia da angústia, que virá contra o povo que nos acomete.
+
+[[v35-3-17]]
+
+^<<v35-3-17,17>>^ Ainda que a figueira não floresça, nem haja fruto na vide; o produto da oliveira minta, e os campos não produzam mantimento; as ovelhas sejam arrebatadas do aprisco, e nos currais não haja gado,
+
+[[v35-3-18]]
+
+^<<v35-3-18,18>>^ todavia, eu me alegro no SENHOR, exulto no Deus da minha salvação.
+
+[[v35-3-19]]
+
+^<<v35-3-19,19>>^ O SENHOR Deus é a minha fortaleza, e faz os meus pés como os da corça, e me faz andar altaneiramente. Ao mestre de canto. Para instrumentos de cordas.
+
+'''
+
+xref:035-habacuque/035-habacuque-002.adoc#v35-2-0[&#60; Capítulo Anterior] | <<v35-3-0,Topo>> | xref:036-sofonias/036-sofonias-001.adoc#v36-1-0[Próximo Capítulo &#62;]

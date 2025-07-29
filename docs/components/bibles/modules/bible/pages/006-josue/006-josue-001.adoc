@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v6-1-0]]
+=== Josué, 1
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v6-1-1]]
+
+^<<v6-1-1,1>>^ Sucedeu, depois da morte de Moisés, servo do SENHOR, que este falou a Josué, filho de Num, servidor de Moisés, dizendo:
+
+[[v6-1-2]]
+
+^<<v6-1-2,2>>^ Moisés, meu servo, é morto; dispõe-te, agora, passa este Jordão, tu e todo este povo, à terra que eu dou aos filhos de Israel.
+
+[[v6-1-3]]
+
+^<<v6-1-3,3>>^ Todo lugar que pisar a planta do vosso pé, vo-lo tenho dado, como eu prometi a Moisés.
+
+[[v6-1-4]]
+
+^<<v6-1-4,4>>^ Desde o deserto e o Líbano até ao grande rio, o rio Eufrates, toda a terra dos heteus e até ao mar Grande para o poente do sol será o vosso limite.
+
+[[v6-1-5]]
+
+^<<v6-1-5,5>>^ Ninguém te poderá resistir todos os dias da tua vida; como fui com Moisés, assim serei contigo; não te deixarei, nem te desampararei.
+
+[[v6-1-6]]
+
+^<<v6-1-6,6>>^ Sê forte e corajoso, porque tu farás este povo herdar a terra que, sob juramento, prometi dar a seus pais.
+
+[[v6-1-7]]
+
+^<<v6-1-7,7>>^ Tão somente sê forte e mui corajoso para teres o cuidado de fazer segundo toda a lei que meu servo Moisés te ordenou; dela não te desvies, nem para a direita nem para a esquerda, para que sejas bem-sucedido por onde quer que andares.
+
+[[v6-1-8]]
+
+^<<v6-1-8,8>>^ Não cesses de falar deste Livro da Lei; antes, medita nele dia e noite, para que tenhas cuidado de fazer segundo tudo quanto nele está escrito; então, farás prosperar o teu caminho e serás bem-sucedido.
+
+[[v6-1-9]]
+
+^<<v6-1-9,9>>^ Não to mandei eu? Sê forte e corajoso; não temas, nem te espantes, porque o SENHOR, teu Deus, é contigo por onde quer que andares.
+
+[[v6-1-10]]
+
+^<<v6-1-10,10>>^ Então, deu ordem Josué aos príncipes do povo, dizendo:
+
+[[v6-1-11]]
+
+^<<v6-1-11,11>>^ Passai pelo meio do arraial e ordenai ao povo, dizendo: Provede-vos de comida, porque, dentro de três dias, passareis este Jordão, para que entreis na terra que vos dá o SENHOR, vosso Deus, para a possuirdes.
+
+[[v6-1-12]]
+
+^<<v6-1-12,12>>^ Falou Josué aos rubenitas, e aos gaditas, e à meia tribo de Manassés, dizendo:
+
+[[v6-1-13]]
+
+^<<v6-1-13,13>>^ Lembrai-vos do que vos ordenou Moisés, servo do SENHOR, dizendo: O SENHOR, vosso Deus, vos concede descanso e vos dá esta terra.
+
+[[v6-1-14]]
+
+^<<v6-1-14,14>>^ Vossas mulheres, vossos meninos e vosso gado fiquem na terra que Moisés vos deu deste lado do Jordão; porém vós, todos os valentes, passareis armados na frente de vossos irmãos e os ajudareis,
+
+[[v6-1-15]]
+
+^<<v6-1-15,15>>^ até que o SENHOR conceda descanso a vossos irmãos, como a vós outros, e eles também tomem posse da terra que o SENHOR, vosso Deus, lhes dá; então, tornareis à terra da vossa herança e possuireis a que vos deu Moisés, servo do SENHOR, deste lado do Jordão, para o nascente do sol.
+
+[[v6-1-16]]
+
+^<<v6-1-16,16>>^ Então, responderam a Josué, dizendo: Tudo quanto nos ordenaste faremos e aonde quer que nos enviares iremos.
+
+[[v6-1-17]]
+
+^<<v6-1-17,17>>^ Como em tudo obedecemos a Moisés, assim obedeceremos a ti; tão somente seja o SENHOR, teu Deus, contigo, como foi com Moisés.
+
+[[v6-1-18]]
+
+^<<v6-1-18,18>>^ Todo homem que se rebelar contra as tuas ordens e não obedecer às tuas palavras em tudo quanto lhe ordenares será morto; tão somente sê forte e corajoso.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-034.adoc#v5-34-0[&#60; Capítulo Anterior] | <<v6-1-0,Topo>> | xref:006-josue/006-josue-002.adoc#v6-2-0[Próximo Capítulo &#62;]

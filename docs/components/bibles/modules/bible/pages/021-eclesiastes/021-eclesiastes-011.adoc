@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v21-11-0]]
+=== Eclesiastes, 11
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v21-11-1]]
+
+^<<v21-11-1,1>>^ Lança o teu pão sobre as águas, porque depois de muitos dias o acharás.
+
+[[v21-11-2]]
+
+^<<v21-11-2,2>>^ Reparte com sete e ainda com oito, porque não sabes que mal sobrevirá à terra.
+
+[[v21-11-3]]
+
+^<<v21-11-3,3>>^ Estando as nuvens cheias, derramam aguaceiro sobre a terra; caindo a árvore para o sul ou para o norte, no lugar em que cair, aí ficará.
+
+[[v21-11-4]]
+
+^<<v21-11-4,4>>^ Quem somente observa o vento nunca semeará, e o que olha para as nuvens nunca segará.
+
+[[v21-11-5]]
+
+^<<v21-11-5,5>>^ Assim como tu não sabes qual o caminho do vento, nem como se formam os ossos no ventre da mulher grávida, assim também não sabes as obras de Deus, que faz todas as coisas.
+
+[[v21-11-6]]
+
+^<<v21-11-6,6>>^ Semeia pela manhã a tua semente e à tarde não repouses a mão, porque não sabes qual prosperará; se esta, se aquela ou se ambas igualmente serão boas.
+
+[[v21-11-7]]
+
+^<<v21-11-7,7>>^ Doce é a luz, e agradável aos olhos, ver o sol.
+
+[[v21-11-8]]
+
+^<<v21-11-8,8>>^ Ainda que o homem viva muitos anos, regozije-se em todos eles; contudo, deve lembrar-se de que há dias de trevas, porque serão muitos. Tudo quanto sucede é vaidade.
+
+[[v21-11-9]]
+
+^<<v21-11-9,9>>^ Alegra-te, jovem, na tua juventude, e recreie-se o teu coração nos dias da tua mocidade; anda pelos caminhos que satisfazem ao teu coração e agradam aos teus olhos; sabe, porém, que de todas estas coisas Deus te pedirá contas.
+
+[[v21-11-10]]
+
+^<<v21-11-10,10>>^ Afasta, pois, do teu coração o desgosto e remove da tua carne a dor, porque a juventude e a primavera da vida são vaidade.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-010.adoc#v21-10-0[&#60; Capítulo Anterior] | <<v21-11-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-012.adoc#v21-12-0[Próximo Capítulo &#62;]

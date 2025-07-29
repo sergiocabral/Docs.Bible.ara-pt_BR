@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-96-0]]
+=== Salmos, 96
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v19-96-1]]
+
+^<<v19-96-1,1>>^ Cantai ao SENHOR um cântico novo, cantai ao SENHOR, todas as terras.
+
+[[v19-96-2]]
+
+^<<v19-96-2,2>>^ Cantai ao SENHOR, bendizei o seu nome; proclamai a sua salvação, dia após dia.
+
+[[v19-96-3]]
+
+^<<v19-96-3,3>>^ Anunciai entre as nações a sua glória, entre todos os povos, as suas maravilhas.
+
+[[v19-96-4]]
+
+^<<v19-96-4,4>>^ Porque grande é o SENHOR e mui digno de ser louvado, temível mais que todos os deuses.
+
+[[v19-96-5]]
+
+^<<v19-96-5,5>>^ Porque todos os deuses dos povos não passam de ídolos; o SENHOR, porém, fez os céus.
+
+[[v19-96-6]]
+
+^<<v19-96-6,6>>^ Glória e majestade estão diante dele, força e formosura, no seu santuário.
+
+[[v19-96-7]]
+
+^<<v19-96-7,7>>^ Tributai ao SENHOR, ó famílias dos povos, tributai ao SENHOR glória e força.
+
+[[v19-96-8]]
+
+^<<v19-96-8,8>>^ Tributai ao SENHOR a glória devida ao seu nome; trazei oferendas e entrai nos seus átrios.
+
+[[v19-96-9]]
+
+^<<v19-96-9,9>>^ Adorai o SENHOR na beleza da sua santidade; tremei diante dele, todas as terras.
+
+[[v19-96-10]]
+
+^<<v19-96-10,10>>^ Dizei entre as nações: Reina o SENHOR. Ele firmou o mundo para que não se abale e julga os povos com equidade.
+
+[[v19-96-11]]
+
+^<<v19-96-11,11>>^ Alegrem-se os céus, e a terra exulte; ruja o mar e a sua plenitude.
+
+[[v19-96-12]]
+
+^<<v19-96-12,12>>^ Folgue o campo e tudo o que nele há; regozijem-se todas as árvores do bosque,
+
+[[v19-96-13]]
+
+^<<v19-96-13,13>>^ na presença do SENHOR, porque vem, vem julgar a terra; julgará o mundo com justiça e os povos, consoante a sua fidelidade.
+
+'''
+
+xref:019-salmos/019-salmos-095.adoc#v19-95-0[&#60; Capítulo Anterior] | <<v19-96-0,Topo>> | xref:019-salmos/019-salmos-097.adoc#v19-97-0[Próximo Capítulo &#62;]

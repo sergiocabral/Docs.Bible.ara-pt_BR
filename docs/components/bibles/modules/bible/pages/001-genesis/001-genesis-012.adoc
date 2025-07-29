@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v1-12-0]]
+=== Gênesis, 12
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v1-12-1]]
+
+^<<v1-12-1,1>>^ Ora, disse o SENHOR a Abrão: Sai da tua terra, da tua parentela e da casa de teu pai e vai para a terra que te mostrarei;
+
+[[v1-12-2]]
+
+^<<v1-12-2,2>>^ de ti farei uma grande nação, e te abençoarei, e te engrandecerei o nome. Sê tu uma bênção!
+
+[[v1-12-3]]
+
+^<<v1-12-3,3>>^ Abençoarei os que te abençoarem e amaldiçoarei os que te amaldiçoarem; em ti serão benditas todas as famílias da terra.
+
+[[v1-12-4]]
+
+^<<v1-12-4,4>>^ Partiu, pois, Abrão, como lho ordenara o SENHOR, e Ló foi com ele. Tinha Abrão setenta e cinco anos quando saiu de Harã.
+
+[[v1-12-5]]
+
+^<<v1-12-5,5>>^ Levou Abrão consigo a Sarai, sua mulher, e a Ló, filho de seu irmão, e todos os bens que haviam adquirido, e as pessoas que lhes acresceram em Harã. Partiram para a terra de Canaã; e lá chegaram.
+
+[[v1-12-6]]
+
+^<<v1-12-6,6>>^ Atravessou Abrão a terra até Siquém, até ao carvalho de Moré. Nesse tempo os cananeus habitavam essa terra.
+
+[[v1-12-7]]
+
+^<<v1-12-7,7>>^ Apareceu o SENHOR a Abrão e lhe disse: Darei à tua descendência esta terra. Ali edificou Abrão um altar ao SENHOR, que lhe aparecera.
+
+[[v1-12-8]]
+
+^<<v1-12-8,8>>^ Passando dali para o monte ao oriente de Betel, armou a sua tenda, ficando Betel ao ocidente e Ai ao oriente; ali edificou um altar ao SENHOR e invocou o nome do SENHOR.
+
+[[v1-12-9]]
+
+^<<v1-12-9,9>>^ Depois, seguiu Abrão dali, indo sempre para o Neguebe.
+
+[[v1-12-10]]
+
+^<<v1-12-10,10>>^ Havia fome naquela terra; desceu, pois, Abrão ao Egito, para aí ficar, porquanto era grande a fome na terra.
+
+[[v1-12-11]]
+
+^<<v1-12-11,11>>^ Quando se aproximava do Egito, quase ao entrar, disse a Sarai, sua mulher: Ora, bem sei que és mulher de formosa aparência;
+
+[[v1-12-12]]
+
+^<<v1-12-12,12>>^ os egípcios, quando te virem, vão dizer: É a mulher dele e me matarão, deixando-te com vida.
+
+[[v1-12-13]]
+
+^<<v1-12-13,13>>^ Dize, pois, que és minha irmã, para que me considerem por amor de ti e, por tua causa, me conservem a vida.
+
+[[v1-12-14]]
+
+^<<v1-12-14,14>>^ Tendo Abrão entrado no Egito, viram os egípcios que a mulher era sobremaneira formosa.
+
+[[v1-12-15]]
+
+^<<v1-12-15,15>>^ Viram-na os príncipes de Faraó e gabaram-na junto dele; e a mulher foi levada para a casa de Faraó.
+
+[[v1-12-16]]
+
+^<<v1-12-16,16>>^ Este, por causa dela, tratou bem a Abrão, o qual veio a ter ovelhas, bois, jumentos, escravos e escravas, jumentas e camelos.
+
+[[v1-12-17]]
+
+^<<v1-12-17,17>>^ Porém o SENHOR puniu Faraó e a sua casa com grandes pragas, por causa de Sarai, mulher de Abrão.
+
+[[v1-12-18]]
+
+^<<v1-12-18,18>>^ Chamou, pois, Faraó a Abrão e lhe disse: Que é isso que me fizeste? Por que não me disseste que era ela tua mulher?
+
+[[v1-12-19]]
+
+^<<v1-12-19,19>>^ E me disseste ser tua irmã? Por isso, a tomei para ser minha mulher. Agora, pois, eis a tua mulher, toma-a e vai-te.
+
+[[v1-12-20]]
+
+^<<v1-12-20,20>>^ E Faraó deu ordens aos seus homens a respeito dele; e acompanharam-no, a ele, a sua mulher e a tudo que possuía.
+
+'''
+
+xref:001-genesis/001-genesis-011.adoc#v1-11-0[&#60; Capítulo Anterior] | <<v1-12-0,Topo>> | xref:001-genesis/001-genesis-013.adoc#v1-13-0[Próximo Capítulo &#62;]

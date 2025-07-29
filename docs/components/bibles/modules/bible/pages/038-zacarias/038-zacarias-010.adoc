@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v38-10-0]]
+=== Zacarias, 10
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v38-10-1]]
+
+^<<v38-10-1,1>>^ Pedi ao SENHOR chuva no tempo das chuvas serôdias, ao SENHOR, que faz as nuvens de chuva, dá aos homens aguaceiro e a cada um, erva no campo.
+
+[[v38-10-2]]
+
+^<<v38-10-2,2>>^ Porque os ídolos do lar falam coisas vãs, e os adivinhos veem mentiras, contam sonhos enganadores e oferecem consolações vazias; por isso, anda o povo como ovelhas, aflito, porque não há pastor.
+
+[[v38-10-3]]
+
+^<<v38-10-3,3>>^ Contra os pastores se acendeu a minha ira, e castigarei os bodes-guias; mas o SENHOR dos Exércitos tomará a seu cuidado o rebanho, a casa de Judá, e fará desta o seu cavalo de glória na batalha.
+
+[[v38-10-4]]
+
+^<<v38-10-4,4>>^ De Judá sairá a pedra angular; dele, a estaca da tenda; dele, o arco de guerra; dele sairão todos os chefes juntos.
+
+[[v38-10-5]]
+
+^<<v38-10-5,5>>^ E serão como valentes que, na batalha, pisam aos pés os seus inimigos na lama das ruas; pelejarão, porque o SENHOR está com eles, e envergonharão os que andam montados em cavalos.
+
+[[v38-10-6]]
+
+^<<v38-10-6,6>>^ Fortalecerei a casa de Judá, e salvarei a casa de José, e fá-los-ei voltar, porque me compadeço deles; e serão como se eu não os tivera rejeitado, porque eu sou o SENHOR, seu Deus, e os ouvirei.
+
+[[v38-10-7]]
+
+^<<v38-10-7,7>>^ Os de Efraim serão como um valente, e o seu coração se alegrará como pelo vinho; seus filhos o verão e se alegrarão; o seu coração se regozijará no SENHOR.
+
+[[v38-10-8]]
+
+^<<v38-10-8,8>>^ Eu lhes assobiarei e os ajuntarei, porque os tenho remido; multiplicar-se-ão como antes se tinham multiplicado.
+
+[[v38-10-9]]
+
+^<<v38-10-9,9>>^ Ainda que os espalhei por entre os povos, eles se lembram de mim em lugares remotos; viverão com seus filhos e voltarão.
+
+[[v38-10-10]]
+
+^<<v38-10-10,10>>^ Porque eu os farei voltar da terra do Egito e os congregarei da Assíria; trá-los-ei à terra de Gileade e do Líbano, e não se achará lugar para eles.
+
+[[v38-10-11]]
+
+^<<v38-10-11,11>>^ Passarão o mar de angústia, as ondas do mar serão feridas, e todas as profundezas do Nilo se secarão; então, será derribada a soberba da Assíria, e o cetro do Egito se retirará.
+
+[[v38-10-12]]
+
+^<<v38-10-12,12>>^ Eu os fortalecerei no SENHOR, e andarão no seu nome, diz o SENHOR.
+
+'''
+
+xref:038-zacarias/038-zacarias-009.adoc#v38-9-0[&#60; Capítulo Anterior] | <<v38-10-0,Topo>> | xref:038-zacarias/038-zacarias-011.adoc#v38-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v18-39-0]]
+=== Jó, 39
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v18-39-1]]
+
+^<<v18-39-1,1>>^ Sabes tu o tempo em que as cabras monteses têm os filhos ou cuidaste das corças quando dão suas crias?
+
+[[v18-39-2]]
+
+^<<v18-39-2,2>>^ Podes contar os meses que cumprem? Ou sabes o tempo do seu parto?
+
+[[v18-39-3]]
+
+^<<v18-39-3,3>>^ Elas encurvam-se, para terem seus filhos, e lançam de si as suas dores.
+
+[[v18-39-4]]
+
+^<<v18-39-4,4>>^ Seus filhos se tornam robustos, crescem no campo aberto, saem e nunca mais tornam para elas.
+
+[[v18-39-5]]
+
+^<<v18-39-5,5>>^ Quem despediu livre o jumento selvagem, e quem soltou as prisões ao asno veloz,
+
+[[v18-39-6]]
+
+^<<v18-39-6,6>>^ ao qual dei o ermo por casa e a terra salgada por moradas?
+
+[[v18-39-7]]
+
+^<<v18-39-7,7>>^ Ri-se do tumulto da cidade, não ouve os muitos gritos do arrieiro.
+
+[[v18-39-8]]
+
+^<<v18-39-8,8>>^ Os montes são o lugar do seu pasto, e anda à procura de tudo o que está verde.
+
+[[v18-39-9]]
+
+^<<v18-39-9,9>>^ Acaso, quer o boi selvagem servir-te? Ou passará ele a noite junto da tua manjedoura?
+
+[[v18-39-10]]
+
+^<<v18-39-10,10>>^ Porventura, podes prendê-lo ao sulco com cordas? Ou gradará ele os vales após ti?
+
+[[v18-39-11]]
+
+^<<v18-39-11,11>>^ Confiarás nele, por ser grande a sua força, ou deixarás a seu cuidado o teu trabalho?
+
+[[v18-39-12]]
+
+^<<v18-39-12,12>>^ Fiarás dele que te traga para a casa o que semeaste e o recolha na tua eira?
+
+[[v18-39-13]]
+
+^<<v18-39-13,13>>^ O avestruz bate alegre as asas; acaso, porém, tem asas e penas de bondade?
+
+[[v18-39-14]]
+
+^<<v18-39-14,14>>^ Ele deixa os seus ovos na terra, e os aquenta no pó,
+
+[[v18-39-15]]
+
+^<<v18-39-15,15>>^ e se esquece de que algum pé os pode esmagar ou de que podem pisá-los os animais do campo.
+
+[[v18-39-16]]
+
+^<<v18-39-16,16>>^ Trata com dureza os seus filhos, como se não fossem seus; embora seja em vão o seu trabalho, ele está tranquilo,
+
+[[v18-39-17]]
+
+^<<v18-39-17,17>>^ porque Deus lhe negou sabedoria e não lhe deu entendimento;
+
+[[v18-39-18]]
+
+^<<v18-39-18,18>>^ mas, quando de um salto se levanta para correr, ri-se do cavalo e do cavaleiro.
+
+[[v18-39-19]]
+
+^<<v18-39-19,19>>^ Ou dás tu força ao cavalo ou revestirás o seu pescoço de crinas?
+
+[[v18-39-20]]
+
+^<<v18-39-20,20>>^ Acaso, o fazes pular como ao gafanhoto? Terrível é o fogoso respirar das suas ventas.
+
+[[v18-39-21]]
+
+^<<v18-39-21,21>>^ Escarva no vale, folga na sua força e sai ao encontro dos armados.
+
+[[v18-39-22]]
+
+^<<v18-39-22,22>>^ Ri-se do temor e não se espanta; e não torna atrás por causa da espada.
+
+[[v18-39-23]]
+
+^<<v18-39-23,23>>^ Sobre ele chocalha a aljava, flameja a lança e o dardo.
+
+[[v18-39-24]]
+
+^<<v18-39-24,24>>^ De fúria e ira devora o caminho e não se contém ao som da trombeta.
+
+[[v18-39-25]]
+
+^<<v18-39-25,25>>^ Em cada sonido da trombeta, ele diz: Avante! Cheira de longe a batalha, o trovão dos príncipes e o alarido.
+
+[[v18-39-26]]
+
+^<<v18-39-26,26>>^ Ou é pela tua inteligência que voa o falcão, estendendo as asas para o Sul?
+
+[[v18-39-27]]
+
+^<<v18-39-27,27>>^ Ou é pelo teu mandado que se remonta a águia e faz alto o seu ninho?
+
+[[v18-39-28]]
+
+^<<v18-39-28,28>>^ Habita no penhasco onde faz a sua morada, sobre o cimo do penhasco, em lugar seguro.
+
+[[v18-39-29]]
+
+^<<v18-39-29,29>>^ Dali, descobre a presa; seus olhos a avistam de longe.
+
+[[v18-39-30]]
+
+^<<v18-39-30,30>>^ Seus filhos chupam sangue; onde há mortos, ela aí está.
+
+'''
+
+xref:018-jo/018-jo-038.adoc#v18-38-0[&#60; Capítulo Anterior] | <<v18-39-0,Topo>> | xref:018-jo/018-jo-040.adoc#v18-40-0[Próximo Capítulo &#62;]

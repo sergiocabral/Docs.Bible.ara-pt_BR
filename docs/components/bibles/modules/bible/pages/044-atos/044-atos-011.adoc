@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v44-11-0]]
+=== Atos, 11
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v44-11-1]]
+
+^<<v44-11-1,1>>^ Chegou ao conhecimento dos apóstolos e dos irmãos que estavam na Judeia que também os gentios haviam recebido a palavra de Deus.
+
+[[v44-11-2]]
+
+^<<v44-11-2,2>>^ Quando Pedro subiu a Jerusalém, os que eram da circuncisão o arguiram, dizendo:
+
+[[v44-11-3]]
+
+^<<v44-11-3,3>>^ Entraste em casa de homens incircuncisos e comeste com eles.
+
+[[v44-11-4]]
+
+^<<v44-11-4,4>>^ Então, Pedro passou a fazer-lhes uma exposição por ordem, dizendo:
+
+[[v44-11-5]]
+
+^<<v44-11-5,5>>^ Eu estava na cidade de Jope orando e, num êxtase, tive uma visão em que observei descer um objeto como se fosse um grande lençol baixado do céu pelas quatro pontas e vindo até perto de mim.
+
+[[v44-11-6]]
+
+^<<v44-11-6,6>>^ E, fitando para dentro dele os olhos, vi quadrúpedes da terra, feras, répteis e aves do céu.
+
+[[v44-11-7]]
+
+^<<v44-11-7,7>>^ Ouvi também uma voz que me dizia: Levanta-te, Pedro! Mata e come.
+
+[[v44-11-8]]
+
+^<<v44-11-8,8>>^ Ao que eu respondi: de modo nenhum, Senhor; porque jamais entrou em minha boca qualquer coisa comum ou imunda.
+
+[[v44-11-9]]
+
+^<<v44-11-9,9>>^ Segunda vez, falou a voz do céu: Ao que Deus purificou não consideres comum.
+
+[[v44-11-10]]
+
+^<<v44-11-10,10>>^ Isto sucedeu por três vezes, e, de novo, tudo se recolheu para o céu.
+
+[[v44-11-11]]
+
+^<<v44-11-11,11>>^ E eis que, na mesma hora, pararam junto da casa em que estávamos três homens enviados de Cesareia para se encontrarem comigo.
+
+[[v44-11-12]]
+
+^<<v44-11-12,12>>^ Então, o Espírito me disse que eu fosse com eles, sem hesitar. Foram comigo também estes seis irmãos; e entramos na casa daquele homem.
+
+[[v44-11-13]]
+
+^<<v44-11-13,13>>^ E ele nos contou como vira o anjo em pé em sua casa e que lhe dissera: Envia a Jope e manda chamar Simão, por sobrenome Pedro,
+
+[[v44-11-14]]
+
+^<<v44-11-14,14>>^ o qual te dirá palavras mediante as quais serás salvo, tu e toda a tua casa.
+
+[[v44-11-15]]
+
+^<<v44-11-15,15>>^ Quando, porém, comecei a falar, caiu o Espírito Santo sobre eles, como também sobre nós, no princípio.
+
+[[v44-11-16]]
+
+^<<v44-11-16,16>>^ Então, me lembrei da palavra do Senhor, quando disse: João, na verdade, batizou com água, mas vós sereis batizados com o Espírito Santo.
+
+[[v44-11-17]]
+
+^<<v44-11-17,17>>^ Pois, se Deus lhes concedeu o mesmo dom que a nós nos outorgou quando cremos no Senhor Jesus, quem era eu para que pudesse resistir a Deus?
+
+[[v44-11-18]]
+
+^<<v44-11-18,18>>^ E, ouvindo eles estas coisas, apaziguaram-se e glorificaram a Deus, dizendo: Logo, também aos gentios foi por Deus concedido o arrependimento para vida.
+
+[[v44-11-19]]
+
+^<<v44-11-19,19>>^ Então, os que foram dispersos por causa da tribulação que sobreveio a Estêvão se espalharam até à Fenícia, Chipre e Antioquia, não anunciando a ninguém a palavra, senão somente aos judeus.
+
+[[v44-11-20]]
+
+^<<v44-11-20,20>>^ Alguns deles, porém, que eram de Chipre e de Cirene e que foram até Antioquia, falavam também aos gregos, anunciando-lhes o evangelho do Senhor Jesus.
+
+[[v44-11-21]]
+
+^<<v44-11-21,21>>^ A mão do Senhor estava com eles, e muitos, crendo, se converteram ao Senhor.
+
+[[v44-11-22]]
+
+^<<v44-11-22,22>>^ A notícia a respeito deles chegou aos ouvidos da igreja que estava em Jerusalém; e enviaram Barnabé até Antioquia.
+
+[[v44-11-23]]
+
+^<<v44-11-23,23>>^ Tendo ele chegado e, vendo a graça de Deus, alegrou-se e exortava a todos a que, com firmeza de coração, permanecessem no Senhor.
+
+[[v44-11-24]]
+
+^<<v44-11-24,24>>^ Porque era homem bom, cheio do Espírito Santo e de fé. E muita gente se uniu ao Senhor.
+
+[[v44-11-25]]
+
+^<<v44-11-25,25>>^ E partiu Barnabé para Tarso à procura de Saulo;
+
+[[v44-11-26]]
+
+^<<v44-11-26,26>>^ tendo-o encontrado, levou-o para Antioquia. E, por todo um ano, se reuniram naquela igreja e ensinaram numerosa multidão. Em Antioquia, foram os discípulos, pela primeira vez, chamados cristãos.
+
+[[v44-11-27]]
+
+^<<v44-11-27,27>>^ Naqueles dias, desceram alguns profetas de Jerusalém para Antioquia,
+
+[[v44-11-28]]
+
+^<<v44-11-28,28>>^ e, apresentando-se um deles, chamado Ágabo, dava a entender, pelo Espírito, que estava para vir grande fome por todo o mundo, a qual sobreveio nos dias de Cláudio.
+
+[[v44-11-29]]
+
+^<<v44-11-29,29>>^ Os discípulos, cada um conforme as suas posses, resolveram enviar socorro aos irmãos que moravam na Judeia;
+
+[[v44-11-30]]
+
+^<<v44-11-30,30>>^ o que eles, com efeito, fizeram, enviando-o aos presbíteros por intermédio de Barnabé e de Saulo.
+
+'''
+
+xref:044-atos/044-atos-010.adoc#v44-10-0[&#60; Capítulo Anterior] | <<v44-11-0,Topo>> | xref:044-atos/044-atos-012.adoc#v44-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v40-1-0]]
+=== Mateus, 1
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v40-1-1]]
+
+^<<v40-1-1,1>>^ Livro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão.
+
+[[v40-1-2]]
+
+^<<v40-1-2,2>>^ Abraão gerou a Isaque; Isaque, a Jacó; Jacó, a Judá e a seus irmãos;
+
+[[v40-1-3]]
+
+^<<v40-1-3,3>>^ Judá gerou de Tamar a Perez e a Zera; Perez gerou a Esrom; Esrom, a Arão;
+
+[[v40-1-4]]
+
+^<<v40-1-4,4>>^ Arão gerou a Aminadabe; Aminadabe, a Naassom; Naassom, a Salmom;
+
+[[v40-1-5]]
+
+^<<v40-1-5,5>>^ Salmom gerou de Raabe a Boaz; este, de Rute, gerou a Obede; e Obede, a Jessé;
+
+[[v40-1-6]]
+
+^<<v40-1-6,6>>^ Jessé gerou ao rei Davi; e o rei Davi, a Salomão, da que fora mulher de Urias;
+
+[[v40-1-7]]
+
+^<<v40-1-7,7>>^ Salomão gerou a Roboão; Roboão, a Abias; Abias, a Asa;
+
+[[v40-1-8]]
+
+^<<v40-1-8,8>>^ Asa gerou a Josafá; Josafá, a Jorão; Jorão, a Uzias;
+
+[[v40-1-9]]
+
+^<<v40-1-9,9>>^ Uzias gerou a Jotão; Jotão, a Acaz; Acaz, a Ezequias;
+
+[[v40-1-10]]
+
+^<<v40-1-10,10>>^ Ezequias gerou a Manassés; Manassés, a Amom; Amom, a Josias;
+
+[[v40-1-11]]
+
+^<<v40-1-11,11>>^ Josias gerou a Jeconias e a seus irmãos, no tempo do exílio na Babilônia.
+
+[[v40-1-12]]
+
+^<<v40-1-12,12>>^ Depois do exílio na Babilônia, Jeconias gerou a Salatiel; e Salatiel, a Zorobabel;
+
+[[v40-1-13]]
+
+^<<v40-1-13,13>>^ Zorobabel gerou a Abiúde; Abiúde, a Eliaquim; Eliaquim, a Azor;
+
+[[v40-1-14]]
+
+^<<v40-1-14,14>>^ Azor gerou a Sadoque; Sadoque, a Aquim; Aquim, a Eliúde;
+
+[[v40-1-15]]
+
+^<<v40-1-15,15>>^ Eliúde gerou a Eleazar; Eleazar, a Matã; Matã, a Jacó.
+
+[[v40-1-16]]
+
+^<<v40-1-16,16>>^ E Jacó gerou a José, marido de Maria, da qual nasceu Jesus, que se chama o Cristo.
+
+[[v40-1-17]]
+
+^<<v40-1-17,17>>^ De sorte que todas as gerações, desde Abraão até Davi, são catorze; desde Davi até ao exílio na Babilônia, catorze; e desde o exílio na Babilônia até Cristo, catorze.
+
+[[v40-1-18]]
+
+^<<v40-1-18,18>>^ Ora, o nascimento de Jesus Cristo foi assim: estando Maria, sua mãe, desposada com José, sem que tivessem antes coabitado, achou-se grávida pelo Espírito Santo.
+
+[[v40-1-19]]
+
+^<<v40-1-19,19>>^ Mas José, seu esposo, sendo justo e não a querendo infamar, resolveu deixá-la secretamente.
+
+[[v40-1-20]]
+
+^<<v40-1-20,20>>^ Enquanto ponderava nestas coisas, eis que lhe apareceu, em sonho, um anjo do Senhor, dizendo: José, filho de Davi, não temas receber Maria, tua mulher, porque o que nela foi gerado é do Espírito Santo.
+
+[[v40-1-21]]
+
+^<<v40-1-21,21>>^ Ela dará à luz um filho e lhe porás o nome de Jesus, porque ele salvará o seu povo dos pecados deles.
+
+[[v40-1-22]]
+
+^<<v40-1-22,22>>^ Ora, tudo isto aconteceu para que se cumprisse o que fora dito pelo Senhor por intermédio do profeta:
+
+[[v40-1-23]]
+
+^<<v40-1-23,23>>^ Eis que a virgem conceberá e dará à luz um filho, e ele será chamado pelo nome de Emanuel (que quer dizer: Deus conosco).
+
+[[v40-1-24]]
+
+^<<v40-1-24,24>>^ Despertado José do sono, fez como lhe ordenara o anjo do Senhor e recebeu sua mulher.
+
+[[v40-1-25]]
+
+^<<v40-1-25,25>>^ Contudo, não a conheceu, enquanto ela não deu à luz um filho, a quem pôs o nome de Jesus.
+
+'''
+
+xref:039-malaquias/039-malaquias-004.adoc#v39-4-0[&#60; Capítulo Anterior] | <<v40-1-0,Topo>> | xref:040-mateus/040-mateus-002.adoc#v40-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v45-12-0]]
+=== Romanos, 12
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v45-12-1]]
+
+^<<v45-12-1,1>>^ Rogo-vos, pois, irmãos, pelas misericórdias de Deus, que apresenteis o vosso corpo por sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional.
+
+[[v45-12-2]]
+
+^<<v45-12-2,2>>^ E não vos conformeis com este século, mas transformai-vos pela renovação da vossa mente, para que experimenteis qual seja a boa, agradável e perfeita vontade de Deus.
+
+[[v45-12-3]]
+
+^<<v45-12-3,3>>^ Porque, pela graça que me foi dada, digo a cada um dentre vós que não pense de si mesmo além do que convém; antes, pense com moderação, segundo a medida da fé que Deus repartiu a cada um.
+
+[[v45-12-4]]
+
+^<<v45-12-4,4>>^ Porque assim como num só corpo temos muitos membros, mas nem todos os membros têm a mesma função,
+
+[[v45-12-5]]
+
+^<<v45-12-5,5>>^ assim também nós, conquanto muitos, somos um só corpo em Cristo e membros uns dos outros,
+
+[[v45-12-6]]
+
+^<<v45-12-6,6>>^ tendo, porém, diferentes dons segundo a graça que nos foi dada: se profecia, seja segundo a proporção da fé;
+
+[[v45-12-7]]
+
+^<<v45-12-7,7>>^ se ministério, dediquemo-nos ao ministério; ou o que ensina esmere-se no fazê-lo;
+
+[[v45-12-8]]
+
+^<<v45-12-8,8>>^ ou o que exorta faça-o com dedicação; o que contribui, com liberalidade; o que preside, com diligência; quem exerce misericórdia, com alegria.
+
+[[v45-12-9]]
+
+^<<v45-12-9,9>>^ O amor seja sem hipocrisia. Detestai o mal, apegando-vos ao bem.
+
+[[v45-12-10]]
+
+^<<v45-12-10,10>>^ Amai-vos cordialmente uns aos outros com amor fraternal, preferindo-vos em honra uns aos outros.
+
+[[v45-12-11]]
+
+^<<v45-12-11,11>>^ No zelo, não sejais remissos; sede fervorosos de espírito, servindo ao Senhor;
+
+[[v45-12-12]]
+
+^<<v45-12-12,12>>^ regozijai-vos na esperança, sede pacientes na tribulação, na oração, perseverantes;
+
+[[v45-12-13]]
+
+^<<v45-12-13,13>>^ compartilhai as necessidades dos santos; praticai a hospitalidade;
+
+[[v45-12-14]]
+
+^<<v45-12-14,14>>^ abençoai os que vos perseguem, abençoai e não amaldiçoeis.
+
+[[v45-12-15]]
+
+^<<v45-12-15,15>>^ Alegrai-vos com os que se alegram e chorai com os que choram.
+
+[[v45-12-16]]
+
+^<<v45-12-16,16>>^ Tende o mesmo sentimento uns para com os outros; em lugar de serdes orgulhosos, condescendei com o que é humilde; não sejais sábios aos vossos próprios olhos.
+
+[[v45-12-17]]
+
+^<<v45-12-17,17>>^ Não torneis a ninguém mal por mal; esforçai-vos por fazer o bem perante todos os homens;
+
+[[v45-12-18]]
+
+^<<v45-12-18,18>>^ se possível, quanto depender de vós, tende paz com todos os homens;
+
+[[v45-12-19]]
+
+^<<v45-12-19,19>>^ não vos vingueis a vós mesmos, amados, mas dai lugar à ira; porque está escrito: A mim me pertence a vingança; eu é que retribuirei, diz o Senhor.
+
+[[v45-12-20]]
+
+^<<v45-12-20,20>>^ Pelo contrário, se o teu inimigo tiver fome, dá-lhe de comer; se tiver sede, dá-lhe de beber; porque, fazendo isto, amontoarás brasas vivas sobre a sua cabeça.
+
+[[v45-12-21]]
+
+^<<v45-12-21,21>>^ Não te deixes vencer do mal, mas vence o mal com o bem.
+
+'''
+
+xref:045-romanos/045-romanos-011.adoc#v45-11-0[&#60; Capítulo Anterior] | <<v45-12-0,Topo>> | xref:045-romanos/045-romanos-013.adoc#v45-13-0[Próximo Capítulo &#62;]

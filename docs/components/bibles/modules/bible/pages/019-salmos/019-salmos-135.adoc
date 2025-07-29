@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v19-135-0]]
+=== Salmos, 135
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v19-135-1]]
+
+^<<v19-135-1,1>>^ Aleluia! Louvai o nome do SENHOR; louvai-o, servos do SENHOR,
+
+[[v19-135-2]]
+
+^<<v19-135-2,2>>^ vós que assistis na Casa do SENHOR, nos átrios da casa do nosso Deus.
+
+[[v19-135-3]]
+
+^<<v19-135-3,3>>^ Louvai ao SENHOR, porque o SENHOR é bom; cantai louvores ao seu nome, porque é agradável.
+
+[[v19-135-4]]
+
+^<<v19-135-4,4>>^ Pois o SENHOR escolheu para si a Jacó e a Israel, para sua possessão.
+
+[[v19-135-5]]
+
+^<<v19-135-5,5>>^ Com efeito, eu sei que o SENHOR é grande e que o nosso Deus está acima de todos os deuses.
+
+[[v19-135-6]]
+
+^<<v19-135-6,6>>^ Tudo quanto aprouve ao SENHOR, ele o fez, nos céus e na terra, no mar e em todos os abismos.
+
+[[v19-135-7]]
+
+^<<v19-135-7,7>>^ Faz subir as nuvens dos confins da terra, faz os relâmpagos para a chuva, faz sair o vento dos seus reservatórios.
+
+[[v19-135-8]]
+
+^<<v19-135-8,8>>^ Foi ele quem feriu os primogênitos no Egito, tanto dos homens como das alimárias;
+
+[[v19-135-9]]
+
+^<<v19-135-9,9>>^ quem, no meio de ti, ó Egito, operou sinais e prodígios contra Faraó e todos os seus servos;
+
+[[v19-135-10]]
+
+^<<v19-135-10,10>>^ quem feriu muitas nações e tirou a vida a poderosos reis:
+
+[[v19-135-11]]
+
+^<<v19-135-11,11>>^ a Seom, rei dos amorreus, e a Ogue, rei de Basã, e a todos os reinos de Canaã;
+
+[[v19-135-12]]
+
+^<<v19-135-12,12>>^ cujas terras deu em herança, em herança a Israel, seu povo.
+
+[[v19-135-13]]
+
+^<<v19-135-13,13>>^ O teu nome, SENHOR, subsiste para sempre; a tua memória, SENHOR, passará de geração em geração.
+
+[[v19-135-14]]
+
+^<<v19-135-14,14>>^ Pois o SENHOR julga ao seu povo e se compadece dos seus servos.
+
+[[v19-135-15]]
+
+^<<v19-135-15,15>>^ Os ídolos das nações são prata e ouro, obra das mãos dos homens.
+
+[[v19-135-16]]
+
+^<<v19-135-16,16>>^ Têm boca e não falam; têm olhos e não veem;
+
+[[v19-135-17]]
+
+^<<v19-135-17,17>>^ têm ouvidos e não ouvem; pois não há alento de vida em sua boca.
+
+[[v19-135-18]]
+
+^<<v19-135-18,18>>^ Como eles se tornam os que os fazem, e todos os que neles confiam.
+
+[[v19-135-19]]
+
+^<<v19-135-19,19>>^ Casa de Israel, bendizei ao SENHOR; casa de Arão, bendizei ao SENHOR;
+
+[[v19-135-20]]
+
+^<<v19-135-20,20>>^ casa de Levi, bendizei ao SENHOR; vós que temeis ao SENHOR, bendizei ao SENHOR.
+
+[[v19-135-21]]
+
+^<<v19-135-21,21>>^ Desde Sião bendito seja o SENHOR, que habita em Jerusalém! Aleluia!
+
+'''
+
+xref:019-salmos/019-salmos-134.adoc#v19-134-0[&#60; Capítulo Anterior] | <<v19-135-0,Topo>> | xref:019-salmos/019-salmos-136.adoc#v19-136-0[Próximo Capítulo &#62;]

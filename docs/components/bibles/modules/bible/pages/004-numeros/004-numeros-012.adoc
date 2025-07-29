@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v4-12-0]]
+=== Números, 12
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v4-12-1]]
+
+^<<v4-12-1,1>>^ Falaram Miriã e Arão contra Moisés, por causa da mulher cuxita que tomara; pois tinha tomado a mulher cuxita.
+
+[[v4-12-2]]
+
+^<<v4-12-2,2>>^ E disseram: Porventura, tem falado o SENHOR somente por Moisés? Não tem falado também por nós? O SENHOR o ouviu.
+
+[[v4-12-3]]
+
+^<<v4-12-3,3>>^ Era o varão Moisés mui manso, mais do que todos os homens que havia sobre a terra.
+
+[[v4-12-4]]
+
+^<<v4-12-4,4>>^ Logo o SENHOR disse a Moisés, e a Arão, e a Miriã: Vós três, saí à tenda da congregação. E saíram eles três.
+
+[[v4-12-5]]
+
+^<<v4-12-5,5>>^ Então, o SENHOR desceu na coluna de nuvem e se pôs à porta da tenda; depois, chamou a Arão e a Miriã, e eles se apresentaram.
+
+[[v4-12-6]]
+
+^<<v4-12-6,6>>^ Então, disse: Ouvi, agora, as minhas palavras; se entre vós há profeta, eu, o SENHOR, em visão a ele, me faço conhecer ou falo com ele em sonhos.
+
+[[v4-12-7]]
+
+^<<v4-12-7,7>>^ Não é assim com o meu servo Moisés, que é fiel em toda a minha casa.
+
+[[v4-12-8]]
+
+^<<v4-12-8,8>>^ Boca a boca falo com ele, claramente e não por enigmas; pois ele vê a forma do SENHOR; como, pois, não temestes falar contra o meu servo, contra Moisés?
+
+[[v4-12-9]]
+
+^<<v4-12-9,9>>^ E a ira do SENHOR contra eles se acendeu; e retirou-se.
+
+[[v4-12-10]]
+
+^<<v4-12-10,10>>^ A nuvem afastou-se de sobre a tenda; e eis que Miriã achou-se leprosa, branca como neve; e olhou Arão para Miriã, e eis que estava leprosa.
+
+[[v4-12-11]]
+
+^<<v4-12-11,11>>^ Então, disse Arão a Moisés: Ai! Senhor meu, não ponhas, te rogo, sobre nós este pecado, pois loucamente procedemos e pecamos.
+
+[[v4-12-12]]
+
+^<<v4-12-12,12>>^ Ora, não seja ela como um aborto, que, saindo do ventre de sua mãe, tenha metade de sua carne já consumida.
+
+[[v4-12-13]]
+
+^<<v4-12-13,13>>^ Moisés clamou ao SENHOR, dizendo: Ó Deus, rogo-te que a cures.
+
+[[v4-12-14]]
+
+^<<v4-12-14,14>>^ Respondeu o SENHOR a Moisés: Se seu pai lhe cuspira no rosto, não seria envergonhada por sete dias? Seja detida sete dias fora do arraial e, depois, recolhida.
+
+[[v4-12-15]]
+
+^<<v4-12-15,15>>^ Assim, Miriã foi detida fora do arraial por sete dias; e o povo não partiu enquanto Miriã não foi recolhida.
+
+[[v4-12-16]]
+
+^<<v4-12-16,16>>^ Porém, depois, o povo partiu de Hazerote e acampou-se no deserto de Parã.
+
+'''
+
+xref:004-numeros/004-numeros-011.adoc#v4-11-0[&#60; Capítulo Anterior] | <<v4-12-0,Topo>> | xref:004-numeros/004-numeros-013.adoc#v4-13-0[Próximo Capítulo &#62;]

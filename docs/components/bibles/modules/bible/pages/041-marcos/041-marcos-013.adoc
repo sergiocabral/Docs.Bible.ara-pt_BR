@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v41-13-0]]
+=== Marcos, 13
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v41-13-1]]
+
+^<<v41-13-1,1>>^ Ao sair Jesus do templo, disse-lhe um de seus discípulos: Mestre! Que pedras, que construções!
+
+[[v41-13-2]]
+
+^<<v41-13-2,2>>^ Mas Jesus lhe disse: Vês estas grandes construções? Não ficará pedra sobre pedra, que não seja derribada.
+
+[[v41-13-3]]
+
+^<<v41-13-3,3>>^ No monte das Oliveiras, defronte do templo, achava-se Jesus assentado, quando Pedro, Tiago, João e André lhe perguntaram em particular:
+
+[[v41-13-4]]
+
+^<<v41-13-4,4>>^ Dize-nos quando sucederão estas coisas, e que sinal haverá quando todas elas estiverem para cumprir-se.
+
+[[v41-13-5]]
+
+^<<v41-13-5,5>>^ Então, Jesus passou a dizer-lhes: Vede que ninguém vos engane.
+
+[[v41-13-6]]
+
+^<<v41-13-6,6>>^ Muitos virão em meu nome, dizendo: Sou eu; e enganarão a muitos.
+
+[[v41-13-7]]
+
+^<<v41-13-7,7>>^ Quando, porém, ouvirdes falar de guerras e rumores de guerras, não vos assusteis; é necessário assim acontecer, mas ainda não é o fim.
+
+[[v41-13-8]]
+
+^<<v41-13-8,8>>^ Porque se levantará nação contra nação, e reino, contra reino. Haverá terremotos em vários lugares e também fomes. Estas coisas são o princípio das dores.
+
+[[v41-13-9]]
+
+^<<v41-13-9,9>>^ Estai vós de sobreaviso, porque vos entregarão aos tribunais e às sinagogas; sereis açoitados, e vos farão comparecer à presença de governadores e reis, por minha causa, para lhes servir de testemunho.
+
+[[v41-13-10]]
+
+^<<v41-13-10,10>>^ Mas é necessário que primeiro o evangelho seja pregado a todas as nações.
+
+[[v41-13-11]]
+
+^<<v41-13-11,11>>^ Quando, pois, vos levarem e vos entregarem, não vos preocupeis com o que haveis de dizer, mas o que vos for concedido naquela hora, isso falai; porque não sois vós os que falais, mas o Espírito Santo.
+
+[[v41-13-12]]
+
+^<<v41-13-12,12>>^ Um irmão entregará à morte outro irmão, e o pai, ao filho; filhos haverá que se levantarão contra os progenitores e os matarão.
+
+[[v41-13-13]]
+
+^<<v41-13-13,13>>^ Sereis odiados de todos por causa do meu nome; aquele, porém, que perseverar até ao fim, esse será salvo.
+
+[[v41-13-14]]
+
+^<<v41-13-14,14>>^ Quando, pois, virdes o abominável da desolação situado onde não deve estar (quem lê entenda), então, os que estiverem na Judeia fujam para os montes;
+
+[[v41-13-15]]
+
+^<<v41-13-15,15>>^ quem estiver em cima, no eirado, não desça nem entre para tirar da sua casa alguma coisa;
+
+[[v41-13-16]]
+
+^<<v41-13-16,16>>^ e o que estiver no campo não volte atrás para buscar a sua capa.
+
+[[v41-13-17]]
+
+^<<v41-13-17,17>>^ Ai das que estiverem grávidas e das que amamentarem naqueles dias!
+
+[[v41-13-18]]
+
+^<<v41-13-18,18>>^ Orai para que isso não suceda no inverno.
+
+[[v41-13-19]]
+
+^<<v41-13-19,19>>^ Porque aqueles dias serão de tamanha tribulação como nunca houve desde o princípio do mundo, que Deus criou, até agora e nunca jamais haverá.
+
+[[v41-13-20]]
+
+^<<v41-13-20,20>>^ Não tivesse o Senhor abreviado aqueles dias, e ninguém se salvaria; mas, por causa dos eleitos que ele escolheu, abreviou tais dias.
+
+[[v41-13-21]]
+
+^<<v41-13-21,21>>^ Então, se alguém vos disser: Eis aqui o Cristo! Ou: Ei-lo ali! Não acrediteis;
+
+[[v41-13-22]]
+
+^<<v41-13-22,22>>^ pois surgirão falsos cristos e falsos profetas, operando sinais e prodígios, para enganar, se possível, os próprios eleitos.
+
+[[v41-13-23]]
+
+^<<v41-13-23,23>>^ Estai vós de sobreaviso; tudo vos tenho predito.
+
+[[v41-13-24]]
+
+^<<v41-13-24,24>>^ Mas, naqueles dias, após a referida tribulação, o sol escurecerá, a lua não dará a sua claridade,
+
+[[v41-13-25]]
+
+^<<v41-13-25,25>>^ as estrelas cairão do firmamento, e os poderes dos céus serão abalados.
+
+[[v41-13-26]]
+
+^<<v41-13-26,26>>^ Então, verão o Filho do Homem vir nas nuvens, com grande poder e glória.
+
+[[v41-13-27]]
+
+^<<v41-13-27,27>>^ E ele enviará os anjos e reunirá os seus escolhidos dos quatro ventos, da extremidade da terra até à extremidade do céu.
+
+[[v41-13-28]]
+
+^<<v41-13-28,28>>^ Aprendei, pois, a parábola da figueira: quando já os seus ramos se renovam, e as folhas brotam, sabeis que está próximo o verão.
+
+[[v41-13-29]]
+
+^<<v41-13-29,29>>^ Assim, também vós: quando virdes acontecer estas coisas, sabei que está próximo, às portas.
+
+[[v41-13-30]]
+
+^<<v41-13-30,30>>^ Em verdade vos digo que não passará esta geração sem que tudo isto aconteça.
+
+[[v41-13-31]]
+
+^<<v41-13-31,31>>^ Passará o céu e a terra, porém as minhas palavras não passarão.
+
+[[v41-13-32]]
+
+^<<v41-13-32,32>>^ Mas a respeito daquele dia ou da hora ninguém sabe; nem os anjos no céu, nem o Filho, senão o Pai.
+
+[[v41-13-33]]
+
+^<<v41-13-33,33>>^ Estai de sobreaviso, vigiai [e orai]; porque não sabeis quando será o tempo.
+
+[[v41-13-34]]
+
+^<<v41-13-34,34>>^ É como um homem que, ausentando-se do país, deixa a sua casa, dá autoridade aos seus servos, a cada um a sua obrigação, e ao porteiro ordena que vigie.
+
+[[v41-13-35]]
+
+^<<v41-13-35,35>>^ Vigiai, pois, porque não sabeis quando virá o dono da casa: se à tarde, se à meia-noite, se ao cantar do galo, se pela manhã;
+
+[[v41-13-36]]
+
+^<<v41-13-36,36>>^ para que, vindo ele inesperadamente, não vos ache dormindo.
+
+[[v41-13-37]]
+
+^<<v41-13-37,37>>^ O que, porém, vos digo, digo a todos: vigiai!
+
+'''
+
+xref:041-marcos/041-marcos-012.adoc#v41-12-0[&#60; Capítulo Anterior] | <<v41-13-0,Topo>> | xref:041-marcos/041-marcos-014.adoc#v41-14-0[Próximo Capítulo &#62;]

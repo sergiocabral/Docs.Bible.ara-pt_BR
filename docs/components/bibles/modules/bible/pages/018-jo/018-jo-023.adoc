@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v18-23-0]]
+=== Jó, 23
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v18-23-1]]
+
+^<<v18-23-1,1>>^ Respondeu, porém, Jó:
+
+[[v18-23-2]]
+
+^<<v18-23-2,2>>^ Ainda hoje a minha queixa é de um revoltado, apesar de a minha mão reprimir o meu gemido.
+
+[[v18-23-3]]
+
+^<<v18-23-3,3>>^ Ah! Se eu soubesse onde o poderia achar! Então, me chegaria ao seu tribunal.
+
+[[v18-23-4]]
+
+^<<v18-23-4,4>>^ Exporia ante ele a minha causa, encheria a minha boca de argumentos.
+
+[[v18-23-5]]
+
+^<<v18-23-5,5>>^ Saberia as palavras que ele me respondesse e entenderia o que me dissesse.
+
+[[v18-23-6]]
+
+^<<v18-23-6,6>>^ Acaso, segundo a grandeza de seu poder, contenderia comigo? Não; antes, me atenderia.
+
+[[v18-23-7]]
+
+^<<v18-23-7,7>>^ Ali, o homem reto pleitearia com ele, e eu me livraria para sempre do meu juiz.
+
+[[v18-23-8]]
+
+^<<v18-23-8,8>>^ Eis que, se me adianto, ali não está; se torno para trás, não o percebo.
+
+[[v18-23-9]]
+
+^<<v18-23-9,9>>^ Se opera à esquerda, não o vejo; esconde-se à direita, e não o diviso.
+
+[[v18-23-10]]
+
+^<<v18-23-10,10>>^ Mas ele sabe o meu caminho; se ele me provasse, sairia eu como o ouro.
+
+[[v18-23-11]]
+
+^<<v18-23-11,11>>^ Os meus pés seguiram as suas pisadas; guardei o seu caminho e não me desviei dele.
+
+[[v18-23-12]]
+
+^<<v18-23-12,12>>^ Do mandamento de seus lábios nunca me apartei, escondi no meu íntimo as palavras da sua boca.
+
+[[v18-23-13]]
+
+^<<v18-23-13,13>>^ Mas, se ele resolveu alguma coisa, quem o pode dissuadir? O que ele deseja, isso fará.
+
+[[v18-23-14]]
+
+^<<v18-23-14,14>>^ Pois ele cumprirá o que está ordenado a meu respeito e muitas coisas como estas ainda tem consigo.
+
+[[v18-23-15]]
+
+^<<v18-23-15,15>>^ Por isso, me perturbo perante ele; e, quando o considero, temo-o.
+
+[[v18-23-16]]
+
+^<<v18-23-16,16>>^ Deus é quem me fez desmaiar o coração, e o Todo-Poderoso, quem me perturbou,
+
+[[v18-23-17]]
+
+^<<v18-23-17,17>>^ porque não estou desfalecido por causa das trevas, nem porque a escuridão cobre o meu rosto.
+
+'''
+
+xref:018-jo/018-jo-022.adoc#v18-22-0[&#60; Capítulo Anterior] | <<v18-23-0,Topo>> | xref:018-jo/018-jo-024.adoc#v18-24-0[Próximo Capítulo &#62;]

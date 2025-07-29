@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-17-0]]
+=== Provérbios, 17
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v20-17-1]]
+
+^<<v20-17-1,1>>^ Melhor é um bocado seco e tranquilidade do que a casa farta de carnes e contendas.
+
+[[v20-17-2]]
+
+^<<v20-17-2,2>>^ O escravo prudente dominará sobre o filho que causa vergonha e, entre os irmãos, terá parte na herança.
+
+[[v20-17-3]]
+
+^<<v20-17-3,3>>^ O crisol prova a prata, e o forno, o ouro; mas aos corações prova o SENHOR.
+
+[[v20-17-4]]
+
+^<<v20-17-4,4>>^ O malfazejo atenta para o lábio iníquo; o mentiroso inclina os ouvidos para a língua maligna.
+
+[[v20-17-5]]
+
+^<<v20-17-5,5>>^ O que escarnece do pobre insulta ao que o criou; o que se alegra da calamidade não ficará impune.
+
+[[v20-17-6]]
+
+^<<v20-17-6,6>>^ Coroa dos velhos são os filhos dos filhos; e a glória dos filhos são os pais.
+
+[[v20-17-7]]
+
+^<<v20-17-7,7>>^ Ao insensato não convém a palavra excelente; quanto menos ao príncipe, o lábio mentiroso!
+
+[[v20-17-8]]
+
+^<<v20-17-8,8>>^ Pedra mágica é o suborno aos olhos de quem o dá, e para onde quer que se volte terá seu proveito.
+
+[[v20-17-9]]
+
+^<<v20-17-9,9>>^ O que encobre a transgressão adquire amor, mas o que traz o assunto à baila separa os maiores amigos.
+
+[[v20-17-10]]
+
+^<<v20-17-10,10>>^ Mais fundo entra a repreensão no prudente do que cem açoites no insensato.
+
+[[v20-17-11]]
+
+^<<v20-17-11,11>>^ O rebelde não busca senão o mal; por isso, mensageiro cruel se enviará contra ele.
+
+[[v20-17-12]]
+
+^<<v20-17-12,12>>^ Melhor é encontrar-se uma ursa roubada dos filhos do que o insensato na sua estultícia.
+
+[[v20-17-13]]
+
+^<<v20-17-13,13>>^ Quanto àquele que paga o bem com o mal, não se apartará o mal da sua casa.
+
+[[v20-17-14]]
+
+^<<v20-17-14,14>>^ Como o abrir-se da represa, assim é o começo da contenda; desiste, pois, antes que haja rixas.
+
+[[v20-17-15]]
+
+^<<v20-17-15,15>>^ O que justifica o perverso e o que condena o justo abomináveis são para o SENHOR, tanto um como o outro.
+
+[[v20-17-16]]
+
+^<<v20-17-16,16>>^ De que serviria o dinheiro na mão do insensato para comprar a sabedoria, visto que não tem entendimento?
+
+[[v20-17-17]]
+
+^<<v20-17-17,17>>^ Em todo tempo ama o amigo, e na angústia se faz o irmão.
+
+[[v20-17-18]]
+
+^<<v20-17-18,18>>^ O homem falto de entendimento compromete-se, ficando por fiador do seu próximo.
+
+[[v20-17-19]]
+
+^<<v20-17-19,19>>^ O que ama a contenda ama o pecado; o que faz alta a sua porta facilita a própria queda.
+
+[[v20-17-20]]
+
+^<<v20-17-20,20>>^ O perverso de coração jamais achará o bem; e o que tem a língua dobre vem a cair no mal.
+
+[[v20-17-21]]
+
+^<<v20-17-21,21>>^ O filho estulto é tristeza para o pai, e o pai do insensato não se alegra.
+
+[[v20-17-22]]
+
+^<<v20-17-22,22>>^ O coração alegre é bom remédio, mas o espírito abatido faz secar os ossos.
+
+[[v20-17-23]]
+
+^<<v20-17-23,23>>^ O perverso aceita suborno secretamente, para perverter as veredas da justiça.
+
+[[v20-17-24]]
+
+^<<v20-17-24,24>>^ A sabedoria é o alvo do inteligente, mas os olhos do insensato vagam pelas extremidades da terra.
+
+[[v20-17-25]]
+
+^<<v20-17-25,25>>^ O filho insensato é tristeza para o pai e amargura para quem o deu à luz.
+
+[[v20-17-26]]
+
+^<<v20-17-26,26>>^ Não é bom punir ao justo; é contra todo direito ferir ao príncipe.
+
+[[v20-17-27]]
+
+^<<v20-17-27,27>>^ Quem retém as palavras possui o conhecimento, e o sereno de espírito é homem de inteligência.
+
+[[v20-17-28]]
+
+^<<v20-17-28,28>>^ Até o estulto, quando se cala, é tido por sábio, e o que cerra os lábios, por sábio.
+
+'''
+
+xref:020-proverbios/020-proverbios-016.adoc#v20-16-0[&#60; Capítulo Anterior] | <<v20-17-0,Topo>> | xref:020-proverbios/020-proverbios-018.adoc#v20-18-0[Próximo Capítulo &#62;]

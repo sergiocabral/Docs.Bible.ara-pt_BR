@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v17-7-0]]
+=== Ester, 7
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v17-7-1]]
+
+^<<v17-7-1,1>>^ Veio, pois, o rei com Hamã, para beber com a rainha Ester.
+
+[[v17-7-2]]
+
+^<<v17-7-2,2>>^ No segundo dia, durante o banquete do vinho, disse o rei a Ester: Qual é a tua petição, rainha Ester? E se te dará. Que desejas? Cumprir-se-á ainda que seja metade do reino.
+
+[[v17-7-3]]
+
+^<<v17-7-3,3>>^ Então, respondeu a rainha Ester e disse: Se perante ti, ó rei, achei favor, e se bem parecer ao rei, dê-se-me por minha petição a minha vida, e, pelo meu desejo, a vida do meu povo.
+
+[[v17-7-4]]
+
+^<<v17-7-4,4>>^ Porque fomos vendidos, eu e o meu povo, para nos destruírem, matarem e aniquilarem de vez; se ainda como servos e como servas nos tivessem vendido, calar-me-ia, porque o inimigo não merece que eu moleste o rei.
+
+[[v17-7-5]]
+
+^<<v17-7-5,5>>^ Então, falou o rei Assuero e disse à rainha Ester: Quem é esse e onde está esse cujo coração o instigou a fazer assim?
+
+[[v17-7-6]]
+
+^<<v17-7-6,6>>^ Respondeu Ester: O adversário e inimigo é este mau Hamã. Então, Hamã se perturbou perante o rei e a rainha.
+
+[[v17-7-7]]
+
+^<<v17-7-7,7>>^ O rei, no seu furor, se levantou do banquete do vinho e passou para o jardim do palácio; Hamã, porém, ficou para rogar por sua vida à rainha Ester, pois viu que o mal contra ele já estava determinado pelo rei.
+
+[[v17-7-8]]
+
+^<<v17-7-8,8>>^ Tornando o rei do jardim do palácio à casa do banquete do vinho, Hamã tinha caído sobre o divã em que se achava Ester. Então, disse o rei: Acaso, teria ele querido forçar a rainha perante mim, na minha casa? Tendo o rei dito estas palavras, cobriram o rosto de Hamã.
+
+[[v17-7-9]]
+
+^<<v17-7-9,9>>^ Então, disse Harbona, um dos eunucos que serviam o rei: Eis que existe junto à casa de Hamã a forca de cinquenta côvados de altura que ele preparou para Mordecai, que falara em defesa do rei. Então, disse o rei: Enforcai-o nela.
+
+[[v17-7-10]]
+
+^<<v17-7-10,10>>^ Enforcaram, pois, Hamã na forca que ele tinha preparado para Mordecai. Então, o furor do rei se aplacou.
+
+'''
+
+xref:017-ester/017-ester-006.adoc#v17-6-0[&#60; Capítulo Anterior] | <<v17-7-0,Topo>> | xref:017-ester/017-ester-008.adoc#v17-8-0[Próximo Capítulo &#62;]

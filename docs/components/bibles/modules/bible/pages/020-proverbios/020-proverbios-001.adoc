@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v20-1-0]]
+=== Provérbios, 1
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v20-1-1]]
+
+^<<v20-1-1,1>>^ Provérbios de Salomão, filho de Davi, o rei de Israel.
+
+[[v20-1-2]]
+
+^<<v20-1-2,2>>^ Para aprender a sabedoria e o ensino; para entender as palavras de inteligência;
+
+[[v20-1-3]]
+
+^<<v20-1-3,3>>^ para obter o ensino do bom proceder, a justiça, o juízo e a equidade;
+
+[[v20-1-4]]
+
+^<<v20-1-4,4>>^ para dar aos simples prudência e aos jovens, conhecimento e bom siso.
+
+[[v20-1-5]]
+
+^<<v20-1-5,5>>^ Ouça o sábio e cresça em prudência; e o instruído adquira habilidade
+
+[[v20-1-6]]
+
+^<<v20-1-6,6>>^ para entender provérbios e parábolas, as palavras e enigmas dos sábios.
+
+[[v20-1-7]]
+
+^<<v20-1-7,7>>^ O temor do SENHOR é o princípio do saber, mas os loucos desprezam a sabedoria e o ensino.
+
+[[v20-1-8]]
+
+^<<v20-1-8,8>>^ Filho meu, ouve o ensino de teu pai e não deixes a instrução de tua mãe.
+
+[[v20-1-9]]
+
+^<<v20-1-9,9>>^ Porque serão diadema de graça para a tua cabeça e colares, para o teu pescoço.
+
+[[v20-1-10]]
+
+^<<v20-1-10,10>>^ Filho meu, se os pecadores querem seduzir-te, não o consintas.
+
+[[v20-1-11]]
+
+^<<v20-1-11,11>>^ Se disserem: Vem conosco, embosquemo-nos para derramar sangue, espreitemos, ainda que sem motivo, os inocentes;
+
+[[v20-1-12]]
+
+^<<v20-1-12,12>>^ traguemo-los vivos, como o abismo, e inteiros, como os que descem à cova;
+
+[[v20-1-13]]
+
+^<<v20-1-13,13>>^ acharemos toda sorte de bens preciosos; encheremos de despojos a nossa casa;
+
+[[v20-1-14]]
+
+^<<v20-1-14,14>>^ lança a tua sorte entre nós; teremos todos uma só bolsa.
+
+[[v20-1-15]]
+
+^<<v20-1-15,15>>^ Filho meu, não te ponhas a caminho com eles; guarda das suas veredas os pés;
+
+[[v20-1-16]]
+
+^<<v20-1-16,16>>^ porque os seus pés correm para o mal e se apressam a derramar sangue.
+
+[[v20-1-17]]
+
+^<<v20-1-17,17>>^ Pois debalde se estende a rede à vista de qualquer ave.
+
+[[v20-1-18]]
+
+^<<v20-1-18,18>>^ Estes se emboscam contra o seu próprio sangue e a sua própria vida espreitam.
+
+[[v20-1-19]]
+
+^<<v20-1-19,19>>^ Tal é a sorte de todo ganancioso; e este espírito de ganância tira a vida de quem o possui.
+
+[[v20-1-20]]
+
+^<<v20-1-20,20>>^ Grita na rua a Sabedoria, nas praças, levanta a voz;
+
+[[v20-1-21]]
+
+^<<v20-1-21,21>>^ do alto dos muros clama, à entrada das portas e nas cidades profere as suas palavras:
+
+[[v20-1-22]]
+
+^<<v20-1-22,22>>^ Até quando, ó néscios, amareis a necedade? E vós, escarnecedores, desejareis o escárnio? E vós, loucos, aborrecereis o conhecimento?
+
+[[v20-1-23]]
+
+^<<v20-1-23,23>>^ Atentai para a minha repreensão; eis que derramarei copiosamente para vós outros o meu espírito e vos farei saber as minhas palavras.
+
+[[v20-1-24]]
+
+^<<v20-1-24,24>>^ Mas, porque clamei, e vós recusastes; porque estendi a mão, e não houve quem atendesse;
+
+[[v20-1-25]]
+
+^<<v20-1-25,25>>^ antes, rejeitastes todo o meu conselho e não quisestes a minha repreensão;
+
+[[v20-1-26]]
+
+^<<v20-1-26,26>>^ também eu me rirei na vossa desventura, e, em vindo o vosso terror, eu zombarei,
+
+[[v20-1-27]]
+
+^<<v20-1-27,27>>^ em vindo o vosso terror como a tempestade, em vindo a vossa perdição como o redemoinho, quando vos chegar o aperto e a angústia.
+
+[[v20-1-28]]
+
+^<<v20-1-28,28>>^ Então, me invocarão, mas eu não responderei; procurar-me-ão, porém não me hão de achar.
+
+[[v20-1-29]]
+
+^<<v20-1-29,29>>^ Porquanto aborreceram o conhecimento e não preferiram o temor do SENHOR;
+
+[[v20-1-30]]
+
+^<<v20-1-30,30>>^ não quiseram o meu conselho e desprezaram toda a minha repreensão.
+
+[[v20-1-31]]
+
+^<<v20-1-31,31>>^ Portanto, comerão do fruto do seu procedimento e dos seus próprios conselhos se fartarão.
+
+[[v20-1-32]]
+
+^<<v20-1-32,32>>^ Os néscios são mortos por seu desvio, e aos loucos a sua impressão de bem-estar os leva à perdição.
+
+[[v20-1-33]]
+
+^<<v20-1-33,33>>^ Mas o que me der ouvidos habitará seguro, tranquilo e sem temor do mal.
+
+'''
+
+xref:019-salmos/019-salmos-150.adoc#v19-150-0[&#60; Capítulo Anterior] | <<v20-1-0,Topo>> | xref:020-proverbios/020-proverbios-002.adoc#v20-2-0[Próximo Capítulo &#62;]

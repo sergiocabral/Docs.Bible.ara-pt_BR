@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-36-0]]
+=== Salmos, 36
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v19-36-1]]
+
+^<<v19-36-1,1>>^ Há no coração do ímpio a voz da transgressão; não há temor de Deus diante de seus olhos.
+
+[[v19-36-2]]
+
+^<<v19-36-2,2>>^ Porque a transgressão o lisonjeia a seus olhos e lhe diz que a sua iniquidade não há de ser descoberta, nem detestada.
+
+[[v19-36-3]]
+
+^<<v19-36-3,3>>^ As palavras de sua boca são malícia e dolo; abjurou o discernimento e a prática do bem.
+
+[[v19-36-4]]
+
+^<<v19-36-4,4>>^ No seu leito, maquina a perversidade, detém-se em caminho que não é bom, não se despega do mal.
+
+[[v19-36-5]]
+
+^<<v19-36-5,5>>^ A tua benignidade, SENHOR, chega até aos céus, até às nuvens, a tua fidelidade.
+
+[[v19-36-6]]
+
+^<<v19-36-6,6>>^ A tua justiça é como as montanhas de Deus; os teus juízos, como um abismo profundo. Tu, SENHOR, preservas os homens e os animais.
+
+[[v19-36-7]]
+
+^<<v19-36-7,7>>^ Como é preciosa, ó Deus, a tua benignidade! Por isso, os filhos dos homens se acolhem à sombra das tuas asas.
+
+[[v19-36-8]]
+
+^<<v19-36-8,8>>^ Fartam-se da abundância da tua casa, e na torrente das tuas delícias lhes dás de beber.
+
+[[v19-36-9]]
+
+^<<v19-36-9,9>>^ Pois em ti está o manancial da vida; na tua luz, vemos a luz.
+
+[[v19-36-10]]
+
+^<<v19-36-10,10>>^ Continua a tua benignidade aos que te conhecem, e a tua justiça, aos retos de coração.
+
+[[v19-36-11]]
+
+^<<v19-36-11,11>>^ Não me calque o pé da insolência, nem me repila a mão dos ímpios.
+
+[[v19-36-12]]
+
+^<<v19-36-12,12>>^ Tombaram os obreiros da iniquidade; estão derruídos e já não podem levantar-se.
+
+'''
+
+xref:019-salmos/019-salmos-035.adoc#v19-35-0[&#60; Capítulo Anterior] | <<v19-36-0,Topo>> | xref:019-salmos/019-salmos-037.adoc#v19-37-0[Próximo Capítulo &#62;]

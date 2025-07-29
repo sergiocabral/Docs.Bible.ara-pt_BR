@@ -1,0 +1,241 @@
+include::./index.adoc[]
+
+[[v40-13-0]]
+=== Mateus, 13
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v40-13-1]]
+
+^<<v40-13-1,1>>^ Naquele mesmo dia, saindo Jesus de casa, assentou-se à beira-mar;
+
+[[v40-13-2]]
+
+^<<v40-13-2,2>>^ e grandes multidões se reuniram perto dele, de modo que entrou num barco e se assentou; e toda a multidão estava em pé na praia.
+
+[[v40-13-3]]
+
+^<<v40-13-3,3>>^ E de muitas coisas lhes falou por parábolas e dizia: Eis que o semeador saiu a semear.
+
+[[v40-13-4]]
+
+^<<v40-13-4,4>>^ E, ao semear, uma parte caiu à beira do caminho, e, vindo as aves, a comeram.
+
+[[v40-13-5]]
+
+^<<v40-13-5,5>>^ Outra parte caiu em solo rochoso, onde a terra era pouca, e logo nasceu, visto não ser profunda a terra.
+
+[[v40-13-6]]
+
+^<<v40-13-6,6>>^ Saindo, porém, o sol, a queimou; e, porque não tinha raiz, secou-se.
+
+[[v40-13-7]]
+
+^<<v40-13-7,7>>^ Outra caiu entre os espinhos, e os espinhos cresceram e a sufocaram.
+
+[[v40-13-8]]
+
+^<<v40-13-8,8>>^ Outra, enfim, caiu em boa terra e deu fruto: a cem, a sessenta e a trinta por um.
+
+[[v40-13-9]]
+
+^<<v40-13-9,9>>^ Quem tem ouvidos [para ouvir], ouça.
+
+[[v40-13-10]]
+
+^<<v40-13-10,10>>^ Então, se aproximaram os discípulos e lhe perguntaram: Por que lhes falas por parábolas?
+
+[[v40-13-11]]
+
+^<<v40-13-11,11>>^ Ao que respondeu: Porque a vós outros é dado conhecer os mistérios do reino dos céus, mas àqueles não lhes é isso concedido.
+
+[[v40-13-12]]
+
+^<<v40-13-12,12>>^ Pois ao que tem se lhe dará, e terá em abundância; mas, ao que não tem, até o que tem lhe será tirado.
+
+[[v40-13-13]]
+
+^<<v40-13-13,13>>^ Por isso, lhes falo por parábolas; porque, vendo, não veem; e, ouvindo, não ouvem, nem entendem.
+
+[[v40-13-14]]
+
+^<<v40-13-14,14>>^ De sorte que neles se cumpre a profecia de Isaías: Ouvireis com os ouvidos e de nenhum modo entendereis; vereis com os olhos e de nenhum modo percebereis.
+
+[[v40-13-15]]
+
+^<<v40-13-15,15>>^ Porque o coração deste povo está endurecido, de mau grado ouviram com os ouvidos e fecharam os olhos; para não suceder que vejam com os olhos, ouçam com os ouvidos, entendam com o coração, se convertam e sejam por mim curados.
+
+[[v40-13-16]]
+
+^<<v40-13-16,16>>^ Bem-aventurados, porém, os vossos olhos, porque veem; e os vossos ouvidos, porque ouvem.
+
+[[v40-13-17]]
+
+^<<v40-13-17,17>>^ Pois em verdade vos digo que muitos profetas e justos desejaram ver o que vedes e não viram; e ouvir o que ouvis e não ouviram.
+
+[[v40-13-18]]
+
+^<<v40-13-18,18>>^ Atendei vós, pois, à parábola do semeador.
+
+[[v40-13-19]]
+
+^<<v40-13-19,19>>^ A todos os que ouvem a palavra do reino e não a compreendem, vem o maligno e arrebata o que lhes foi semeado no coração. Este é o que foi semeado à beira do caminho.
+
+[[v40-13-20]]
+
+^<<v40-13-20,20>>^ O que foi semeado em solo rochoso, esse é o que ouve a palavra e a recebe logo, com alegria;
+
+[[v40-13-21]]
+
+^<<v40-13-21,21>>^ mas não tem raiz em si mesmo, sendo, antes, de pouca duração; em lhe chegando a angústia ou a perseguição por causa da palavra, logo se escandaliza.
+
+[[v40-13-22]]
+
+^<<v40-13-22,22>>^ O que foi semeado entre os espinhos é o que ouve a palavra, porém os cuidados do mundo e a fascinação das riquezas sufocam a palavra, e fica infrutífera.
+
+[[v40-13-23]]
+
+^<<v40-13-23,23>>^ Mas o que foi semeado em boa terra é o que ouve a palavra e a compreende; este frutifica e produz a cem, a sessenta e a trinta por um.
+
+[[v40-13-24]]
+
+^<<v40-13-24,24>>^ Outra parábola lhes propôs, dizendo: O reino dos céus é semelhante a um homem que semeou boa semente no seu campo;
+
+[[v40-13-25]]
+
+^<<v40-13-25,25>>^ mas, enquanto os homens dormiam, veio o inimigo dele, semeou o joio no meio do trigo e retirou-se.
+
+[[v40-13-26]]
+
+^<<v40-13-26,26>>^ E, quando a erva cresceu e produziu fruto, apareceu também o joio.
+
+[[v40-13-27]]
+
+^<<v40-13-27,27>>^ Então, vindo os servos do dono da casa, lhe disseram: Senhor, não semeaste boa semente no teu campo? Donde vem, pois, o joio?
+
+[[v40-13-28]]
+
+^<<v40-13-28,28>>^ Ele, porém, lhes respondeu: Um inimigo fez isso. Mas os servos lhe perguntaram: Queres que vamos e arranquemos o joio?
+
+[[v40-13-29]]
+
+^<<v40-13-29,29>>^ Não! Replicou ele, para que, ao separar o joio, não arranqueis também com ele o trigo.
+
+[[v40-13-30]]
+
+^<<v40-13-30,30>>^ Deixai-os crescer juntos até à colheita, e, no tempo da colheita, direi aos ceifeiros: ajuntai primeiro o joio, atai-o em feixes para ser queimado; mas o trigo, recolhei-o no meu celeiro.
+
+[[v40-13-31]]
+
+^<<v40-13-31,31>>^ Outra parábola lhes propôs, dizendo: O reino dos céus é semelhante a um grão de mostarda, que um homem tomou e plantou no seu campo;
+
+[[v40-13-32]]
+
+^<<v40-13-32,32>>^ o qual é, na verdade, a menor de todas as sementes, e, crescida, é maior do que as hortaliças, e se faz árvore, de modo que as aves do céu vêm aninhar-se nos seus ramos.
+
+[[v40-13-33]]
+
+^<<v40-13-33,33>>^ Disse-lhes outra parábola: O reino dos céus é semelhante ao fermento que uma mulher tomou e escondeu em três medidas de farinha, até ficar tudo levedado.
+
+[[v40-13-34]]
+
+^<<v40-13-34,34>>^ Todas estas coisas disse Jesus às multidões por parábolas e sem parábolas nada lhes dizia;
+
+[[v40-13-35]]
+
+^<<v40-13-35,35>>^ para que se cumprisse o que foi dito por intermédio do profeta: Abrirei em parábolas a minha boca; publicarei coisas ocultas desde a criação [do mundo].
+
+[[v40-13-36]]
+
+^<<v40-13-36,36>>^ Então, despedindo as multidões, foi Jesus para casa. E, chegando-se a ele os seus discípulos, disseram: Explica-nos a parábola do joio do campo.
+
+[[v40-13-37]]
+
+^<<v40-13-37,37>>^ E ele respondeu: O que semeia a boa semente é o Filho do Homem;
+
+[[v40-13-38]]
+
+^<<v40-13-38,38>>^ o campo é o mundo; a boa semente são os filhos do reino; o joio são os filhos do maligno;
+
+[[v40-13-39]]
+
+^<<v40-13-39,39>>^ o inimigo que o semeou é o diabo; a ceifa é a consumação do século, e os ceifeiros são os anjos.
+
+[[v40-13-40]]
+
+^<<v40-13-40,40>>^ Pois, assim como o joio é colhido e lançado ao fogo, assim será na consumação do século.
+
+[[v40-13-41]]
+
+^<<v40-13-41,41>>^ Mandará o Filho do Homem os seus anjos, que ajuntarão do seu reino todos os escândalos e os que praticam a iniquidade
+
+[[v40-13-42]]
+
+^<<v40-13-42,42>>^ e os lançarão na fornalha acesa; ali haverá choro e ranger de dentes.
+
+[[v40-13-43]]
+
+^<<v40-13-43,43>>^ Então, os justos resplandecerão como o sol, no reino de seu Pai. Quem tem ouvidos [para ouvir], ouça.
+
+[[v40-13-44]]
+
+^<<v40-13-44,44>>^ O reino dos céus é semelhante a um tesouro oculto no campo, o qual certo homem, tendo-o achado, escondeu. E, transbordante de alegria, vai, vende tudo o que tem e compra aquele campo.
+
+[[v40-13-45]]
+
+^<<v40-13-45,45>>^ O reino dos céus é também semelhante a um que negocia e procura boas pérolas;
+
+[[v40-13-46]]
+
+^<<v40-13-46,46>>^ e, tendo achado uma pérola de grande valor, vende tudo o que possui e a compra.
+
+[[v40-13-47]]
+
+^<<v40-13-47,47>>^ O reino dos céus é ainda semelhante a uma rede que, lançada ao mar, recolhe peixes de toda espécie.
+
+[[v40-13-48]]
+
+^<<v40-13-48,48>>^ E, quando já está cheia, os pescadores arrastam-na para a praia e, assentados, escolhem os bons para os cestos e os ruins deitam fora.
+
+[[v40-13-49]]
+
+^<<v40-13-49,49>>^ Assim será na consumação do século: sairão os anjos, e separarão os maus dentre os justos,
+
+[[v40-13-50]]
+
+^<<v40-13-50,50>>^ e os lançarão na fornalha acesa; ali haverá choro e ranger de dentes.
+
+[[v40-13-51]]
+
+^<<v40-13-51,51>>^ Entendestes todas estas coisas?  Responderam-lhe: Sim!
+
+[[v40-13-52]]
+
+^<<v40-13-52,52>>^ Então, lhes disse: Por isso, todo escriba versado no reino dos céus é semelhante a um pai de família que tira do seu depósito coisas novas e coisas velhas.
+
+[[v40-13-53]]
+
+^<<v40-13-53,53>>^ Tendo Jesus proferido estas parábolas, retirou-se dali.
+
+[[v40-13-54]]
+
+^<<v40-13-54,54>>^ E, chegando à sua terra, ensinava-os na sinagoga, de tal sorte que se maravilhavam e diziam: Donde lhe vêm esta sabedoria e estes poderes miraculosos?
+
+[[v40-13-55]]
+
+^<<v40-13-55,55>>^ Não é este o filho do carpinteiro? Não se chama sua mãe Maria, e seus irmãos, Tiago, José, Simão e Judas?
+
+[[v40-13-56]]
+
+^<<v40-13-56,56>>^ Não vivem entre nós todas as suas irmãs? Donde lhe vem, pois, tudo isto?
+
+[[v40-13-57]]
+
+^<<v40-13-57,57>>^ E escandalizavam-se nele. Jesus, porém, lhes disse: Não há profeta sem honra, senão na sua terra e na sua casa.
+
+[[v40-13-58]]
+
+^<<v40-13-58,58>>^ E não fez ali muitos milagres, por causa da incredulidade deles.
+
+'''
+
+xref:040-mateus/040-mateus-012.adoc#v40-12-0[&#60; Capítulo Anterior] | <<v40-13-0,Topo>> | xref:040-mateus/040-mateus-014.adoc#v40-14-0[Próximo Capítulo &#62;]

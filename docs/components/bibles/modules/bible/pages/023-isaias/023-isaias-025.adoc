@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v23-25-0]]
+=== Isaías, 25
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v23-25-1]]
+
+^<<v23-25-1,1>>^ Ó SENHOR, tu és o meu Deus; exaltar-te-ei a ti e louvarei o teu nome, porque tens feito maravilhas e tens executado os teus conselhos antigos, fiéis e verdadeiros.
+
+[[v23-25-2]]
+
+^<<v23-25-2,2>>^ Porque da cidade fizeste um montão de pedras e da cidade forte, uma ruína; a fortaleza dos estranhos já não é cidade e jamais será reedificada.
+
+[[v23-25-3]]
+
+^<<v23-25-3,3>>^ Pelo que povos fortes te glorificarão, e a cidade das nações opressoras te temerá.
+
+[[v23-25-4]]
+
+^<<v23-25-4,4>>^ Porque foste a fortaleza do pobre e a fortaleza do necessitado na sua angústia; refúgio contra a tempestade e sombra contra o calor; porque dos tiranos o bufo é como a tempestade contra o muro,
+
+[[v23-25-5]]
+
+^<<v23-25-5,5>>^ como o calor em lugar seco. Tu abaterás o ímpeto dos estranhos; como se abranda o calor pela sombra da espessa nuvem, assim o hino triunfal dos tiranos será aniquilado.
+
+[[v23-25-6]]
+
+^<<v23-25-6,6>>^ O SENHOR dos Exércitos dará neste monte a todos os povos um banquete de coisas gordurosas, uma festa com vinhos velhos, pratos gordurosos com tutanos e vinhos velhos bem-clarificados.
+
+[[v23-25-7]]
+
+^<<v23-25-7,7>>^ Destruirá neste monte a coberta que envolve todos os povos e o véu que está posto sobre todas as nações.
+
+[[v23-25-8]]
+
+^<<v23-25-8,8>>^ Tragará a morte para sempre, e, assim, enxugará o SENHOR Deus as lágrimas de todos os rostos, e tirará de toda a terra o opróbrio do seu povo, porque o SENHOR falou.
+
+[[v23-25-9]]
+
+^<<v23-25-9,9>>^ Naquele dia, se dirá: Eis que este é o nosso Deus, em quem esperávamos, e ele nos salvará; este é o SENHOR, a quem aguardávamos; na sua salvação exultaremos e nos alegraremos.
+
+[[v23-25-10]]
+
+^<<v23-25-10,10>>^ Porque a mão do SENHOR descansará neste monte; mas Moabe será trilhado no seu lugar, como se pisa a palha na água da cova da esterqueira;
+
+[[v23-25-11]]
+
+^<<v23-25-11,11>>^ no meio disto estenderá ele as mãos, como as estende o nadador para nadar; mas o SENHOR lhe abaterá a altivez, não obstante a perícia das suas mãos;
+
+[[v23-25-12]]
+
+^<<v23-25-12,12>>^ e abaixará as altas fortalezas dos seus muros; abatê-las-á e derribá-las-á por terra, até ao pó.
+
+'''
+
+xref:023-isaias/023-isaias-024.adoc#v23-24-0[&#60; Capítulo Anterior] | <<v23-25-0,Topo>> | xref:023-isaias/023-isaias-026.adoc#v23-26-0[Próximo Capítulo &#62;]

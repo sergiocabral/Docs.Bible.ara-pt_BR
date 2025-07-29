@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-40-0]]
+=== Salmos, 40
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v19-40-1]]
+
+^<<v19-40-1,1>>^ Esperei confiantemente pelo SENHOR; ele se inclinou para mim e me ouviu quando clamei por socorro.
+
+[[v19-40-2]]
+
+^<<v19-40-2,2>>^ Tirou-me de um poço de perdição, de um tremedal de lama; colocou-me os pés sobre uma rocha e me firmou os passos.
+
+[[v19-40-3]]
+
+^<<v19-40-3,3>>^ E me pôs nos lábios um novo cântico, um hino de louvor ao nosso Deus; muitos verão essas coisas, temerão e confiarão no SENHOR.
+
+[[v19-40-4]]
+
+^<<v19-40-4,4>>^ Bem-aventurado o homem que põe no SENHOR a sua confiança e não pende para os arrogantes, nem para os afeiçoados à mentira.
+
+[[v19-40-5]]
+
+^<<v19-40-5,5>>^ São muitas, SENHOR, Deus meu, as maravilhas que tens operado e também os teus desígnios para conosco; ninguém há que se possa igualar contigo. Eu quisera anunciá-los e deles falar, mas são mais do que se pode contar.
+
+[[v19-40-6]]
+
+^<<v19-40-6,6>>^ Sacrifícios e ofertas não quiseste; abriste os meus ouvidos; holocaustos e ofertas pelo pecado não requeres.
+
+[[v19-40-7]]
+
+^<<v19-40-7,7>>^ Então, eu disse: eis aqui estou, no rolo do livro está escrito a meu respeito;
+
+[[v19-40-8]]
+
+^<<v19-40-8,8>>^ agrada-me fazer a tua vontade, ó Deus meu; dentro do meu coração, está a tua lei.
+
+[[v19-40-9]]
+
+^<<v19-40-9,9>>^ Proclamei as boas-novas de justiça na grande congregação; jamais cerrei os lábios, tu o sabes, SENHOR.
+
+[[v19-40-10]]
+
+^<<v19-40-10,10>>^ Não ocultei no coração a tua justiça; proclamei a tua fidelidade e a tua salvação; não escondi da grande congregação a tua graça e a tua verdade.
+
+[[v19-40-11]]
+
+^<<v19-40-11,11>>^ Não retenhas de mim, SENHOR, as tuas misericórdias; guardem-me sempre a tua graça e a tua verdade.
+
+[[v19-40-12]]
+
+^<<v19-40-12,12>>^ Não têm conta os males que me cercam; as minhas iniquidades me alcançaram, tantas, que me impedem a vista; são mais numerosas que os cabelos de minha cabeça, e o coração me desfalece.
+
+[[v19-40-13]]
+
+^<<v19-40-13,13>>^ Praza-te, SENHOR, em livrar-me; dá-te pressa, ó SENHOR, em socorrer-me.
+
+[[v19-40-14]]
+
+^<<v19-40-14,14>>^ Sejam à uma envergonhados e cobertos de vexame os que me demandam a vida; tornem atrás e cubram-se de ignomínia os que se comprazem no meu mal.
+
+[[v19-40-15]]
+
+^<<v19-40-15,15>>^ Sofram perturbação por causa da sua ignomínia os que dizem: Bem feito! Bem feito!
+
+[[v19-40-16]]
+
+^<<v19-40-16,16>>^ Folguem e em ti se rejubilem todos os que te buscam; os que amam a tua salvação digam sempre: O SENHOR seja magnificado!
+
+[[v19-40-17]]
+
+^<<v19-40-17,17>>^ Eu sou pobre e necessitado, porém o Senhor cuida de mim; tu és o meu amparo e o meu libertador; não te detenhas, ó Deus meu!
+
+'''
+
+xref:019-salmos/019-salmos-039.adoc#v19-39-0[&#60; Capítulo Anterior] | <<v19-40-0,Topo>> | xref:019-salmos/019-salmos-041.adoc#v19-41-0[Próximo Capítulo &#62;]

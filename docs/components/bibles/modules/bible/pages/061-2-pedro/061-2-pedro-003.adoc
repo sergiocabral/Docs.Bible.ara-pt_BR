@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v61-3-0]]
+=== 2 Pedro, 3
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v61-3-1]]
+
+^<<v61-3-1,1>>^ Amados, esta é, agora, a segunda epístola que vos escrevo; em ambas, procuro despertar com lembranças a vossa mente esclarecida,
+
+[[v61-3-2]]
+
+^<<v61-3-2,2>>^ para que vos recordeis das palavras que, anteriormente, foram ditas pelos santos profetas, bem como do mandamento do Senhor e Salvador, ensinado pelos vossos apóstolos,
+
+[[v61-3-3]]
+
+^<<v61-3-3,3>>^ tendo em conta, antes de tudo, que, nos últimos dias, virão escarnecedores com os seus escárnios, andando segundo as próprias paixões
+
+[[v61-3-4]]
+
+^<<v61-3-4,4>>^ e dizendo: Onde está a promessa da sua vinda? Porque, desde que os pais dormiram, todas as coisas permanecem como desde o princípio da criação.
+
+[[v61-3-5]]
+
+^<<v61-3-5,5>>^ Porque, deliberadamente, esquecem que, de longo tempo, houve céus bem como terra, a qual surgiu da água e através da água pela palavra de Deus,
+
+[[v61-3-6]]
+
+^<<v61-3-6,6>>^ pela qual veio a perecer o mundo daquele tempo, afogado em água.
+
+[[v61-3-7]]
+
+^<<v61-3-7,7>>^ Ora, os céus que agora existem e a terra, pela mesma palavra, têm sido entesourados para fogo, estando reservados para o Dia do Juízo e destruição dos homens ímpios.
+
+[[v61-3-8]]
+
+^<<v61-3-8,8>>^ Há, todavia, uma coisa, amados, que não deveis esquecer: que, para o Senhor, um dia é como mil anos, e mil anos, como um dia.
+
+[[v61-3-9]]
+
+^<<v61-3-9,9>>^ Não retarda o Senhor a sua promessa, como alguns a julgam demorada; pelo contrário, ele é longânimo para convosco, não querendo que nenhum pereça, senão que todos cheguem ao arrependimento.
+
+[[v61-3-10]]
+
+^<<v61-3-10,10>>^ Virá, entretanto, como ladrão, o Dia do Senhor, no qual os céus passarão com estrepitoso estrondo, e os elementos se desfarão abrasados; também a terra e as obras que nela existem serão atingidas.
+
+[[v61-3-11]]
+
+^<<v61-3-11,11>>^ Visto que todas essas coisas hão de ser assim desfeitas, deveis ser tais como os que vivem em santo procedimento e piedade,
+
+[[v61-3-12]]
+
+^<<v61-3-12,12>>^ esperando e apressando a vinda do Dia de Deus, por causa do qual os céus, incendiados, serão desfeitos, e os elementos abrasados se derreterão.
+
+[[v61-3-13]]
+
+^<<v61-3-13,13>>^ Nós, porém, segundo a sua promessa, esperamos novos céus e nova terra, nos quais habita justiça.
+
+[[v61-3-14]]
+
+^<<v61-3-14,14>>^ Por essa razão, pois, amados, esperando estas coisas, empenhai-vos por serdes achados por ele em paz, sem mácula e irrepreensíveis,
+
+[[v61-3-15]]
+
+^<<v61-3-15,15>>^ e tende por salvação a longanimidade de nosso Senhor, como igualmente o nosso amado irmão Paulo vos escreveu, segundo a sabedoria que lhe foi dada,
+
+[[v61-3-16]]
+
+^<<v61-3-16,16>>^ ao falar acerca destes assuntos, como, de fato, costuma fazer em todas as suas epístolas, nas quais há certas coisas difíceis de entender, que os ignorantes e instáveis deturpam, como também deturpam as demais Escrituras, para a própria destruição deles.
+
+[[v61-3-17]]
+
+^<<v61-3-17,17>>^ Vós, pois, amados, prevenidos como estais de antemão, acautelai-vos; não suceda que, arrastados pelo erro desses insubordinados, descaiais da vossa própria firmeza;
+
+[[v61-3-18]]
+
+^<<v61-3-18,18>>^ antes, crescei na graça e no conhecimento de nosso Senhor e Salvador Jesus Cristo. A ele seja a glória, tanto agora como no dia eterno.
+
+'''
+
+xref:061-2-pedro/061-2-pedro-002.adoc#v61-2-0[&#60; Capítulo Anterior] | <<v61-3-0,Topo>> | xref:062-1-joao/062-1-joao-001.adoc#v62-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v46-4-0]]
+=== 1 Coríntios, 4
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v46-4-1]]
+
+^<<v46-4-1,1>>^ Assim, pois, importa que os homens nos considerem como ministros de Cristo e despenseiros dos mistérios de Deus.
+
+[[v46-4-2]]
+
+^<<v46-4-2,2>>^ Ora, além disso, o que se requer dos despenseiros é que cada um deles seja encontrado fiel.
+
+[[v46-4-3]]
+
+^<<v46-4-3,3>>^ Todavia, a mim mui pouco se me dá de ser julgado por vós ou por tribunal humano; nem eu tampouco julgo a mim mesmo.
+
+[[v46-4-4]]
+
+^<<v46-4-4,4>>^ Porque de nada me argui a consciência; contudo, nem por isso me dou por justificado, pois quem me julga é o Senhor.
+
+[[v46-4-5]]
+
+^<<v46-4-5,5>>^ Portanto, nada julgueis antes do tempo, até que venha o Senhor, o qual não somente trará à plena luz as coisas ocultas das trevas, mas também manifestará os desígnios dos corações; e, então, cada um receberá o seu louvor da parte de Deus.
+
+[[v46-4-6]]
+
+^<<v46-4-6,6>>^ Estas coisas, irmãos, apliquei-as figuradamente a mim mesmo e a Apolo, por vossa causa, para que por nosso exemplo aprendais isto: não ultrapasseis o que está escrito; a fim de que ninguém se ensoberbeça a favor de um em detrimento de outro.
+
+[[v46-4-7]]
+
+^<<v46-4-7,7>>^ Pois quem é que te faz sobressair? E que tens tu que não tenhas recebido? E, se o recebeste, por que te vanglorias, como se o não tiveras recebido?
+
+[[v46-4-8]]
+
+^<<v46-4-8,8>>^ Já estais fartos, já estais ricos; chegastes a reinar sem nós; sim, tomara reinásseis para que também nós viéssemos a reinar convosco.
+
+[[v46-4-9]]
+
+^<<v46-4-9,9>>^ Porque a mim me parece que Deus nos pôs a nós, os apóstolos, em último lugar, como se fôssemos condenados à morte; porque nos tornamos espetáculo ao mundo, tanto a anjos, como a homens.
+
+[[v46-4-10]]
+
+^<<v46-4-10,10>>^ Nós somos loucos por causa de Cristo, e vós, sábios em Cristo; nós, fracos, e vós, fortes; vós, nobres, e nós, desprezíveis.
+
+[[v46-4-11]]
+
+^<<v46-4-11,11>>^ Até à presente hora, sofremos fome, e sede, e nudez; e somos esbofeteados, e não temos morada certa,
+
+[[v46-4-12]]
+
+^<<v46-4-12,12>>^ e nos afadigamos, trabalhando com as nossas próprias mãos. Quando somos injuriados, bendizemos; quando perseguidos, suportamos;
+
+[[v46-4-13]]
+
+^<<v46-4-13,13>>^ quando caluniados, procuramos conciliação; até agora, temos chegado a ser considerados lixo do mundo, escória de todos.
+
+[[v46-4-14]]
+
+^<<v46-4-14,14>>^ Não vos escrevo estas coisas para vos envergonhar; pelo contrário, para vos admoestar como a filhos meus amados.
+
+[[v46-4-15]]
+
+^<<v46-4-15,15>>^ Porque, ainda que tivésseis milhares de preceptores em Cristo, não teríeis, contudo, muitos pais; pois eu, pelo evangelho, vos gerei em Cristo Jesus.
+
+[[v46-4-16]]
+
+^<<v46-4-16,16>>^ Admoesto-vos, portanto, a que sejais meus imitadores.
+
+[[v46-4-17]]
+
+^<<v46-4-17,17>>^ Por esta causa, vos mandei Timóteo, que é meu filho amado e fiel no Senhor, o qual vos lembrará os meus caminhos em Cristo Jesus, como, por toda parte, ensino em cada igreja.
+
+[[v46-4-18]]
+
+^<<v46-4-18,18>>^ Alguns se ensoberbeceram, como se eu não tivesse de ir ter convosco;
+
+[[v46-4-19]]
+
+^<<v46-4-19,19>>^ mas, em breve, irei visitar-vos, se o Senhor quiser, e, então, conhecerei não a palavra, mas o poder dos ensoberbecidos.
+
+[[v46-4-20]]
+
+^<<v46-4-20,20>>^ Porque o reino de Deus consiste não em palavra, mas em poder.
+
+[[v46-4-21]]
+
+^<<v46-4-21,21>>^ Que preferis? Irei a vós outros com vara ou com amor e espírito de mansidão?
+
+'''
+
+xref:046-1-corintios/046-1-corintios-003.adoc#v46-3-0[&#60; Capítulo Anterior] | <<v46-4-0,Topo>> | xref:046-1-corintios/046-1-corintios-005.adoc#v46-5-0[Próximo Capítulo &#62;]

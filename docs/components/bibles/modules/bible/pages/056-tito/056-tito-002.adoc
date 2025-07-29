@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v56-2-0]]
+=== Tito, 2
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v56-2-1]]
+
+^<<v56-2-1,1>>^ Tu, porém, fala o que convém à sã doutrina.
+
+[[v56-2-2]]
+
+^<<v56-2-2,2>>^ Quanto aos homens idosos, que sejam temperantes, respeitáveis, sensatos, sadios na fé, no amor e na constância.
+
+[[v56-2-3]]
+
+^<<v56-2-3,3>>^ Quanto às mulheres idosas, semelhantemente, que sejam sérias em seu proceder, não caluniadoras, não escravizadas a muito vinho; sejam mestras do bem,
+
+[[v56-2-4]]
+
+^<<v56-2-4,4>>^ a fim de instruírem as jovens recém-casadas a amarem ao marido e a seus filhos,
+
+[[v56-2-5]]
+
+^<<v56-2-5,5>>^ a serem sensatas, honestas, boas donas de casa, bondosas, sujeitas ao marido, para que a palavra de Deus não seja difamada.
+
+[[v56-2-6]]
+
+^<<v56-2-6,6>>^ Quanto aos moços, de igual modo, exorta-os para que, em todas as coisas, sejam criteriosos.
+
+[[v56-2-7]]
+
+^<<v56-2-7,7>>^ Torna-te, pessoalmente, padrão de boas obras. No ensino, mostra integridade, reverência,
+
+[[v56-2-8]]
+
+^<<v56-2-8,8>>^ linguagem sadia e irrepreensível, para que o adversário seja envergonhado, não tendo indignidade nenhuma que dizer a nosso respeito.
+
+[[v56-2-9]]
+
+^<<v56-2-9,9>>^ Quanto aos servos, que sejam, em tudo, obedientes ao seu senhor, dando-lhe motivo de satisfação; não sejam respondões,
+
+[[v56-2-10]]
+
+^<<v56-2-10,10>>^ não furtem; pelo contrário, deem prova de toda a fidelidade, a fim de ornarem, em todas as coisas, a doutrina de Deus, nosso Salvador.
+
+[[v56-2-11]]
+
+^<<v56-2-11,11>>^ Porquanto a graça de Deus se manifestou salvadora a todos os homens,
+
+[[v56-2-12]]
+
+^<<v56-2-12,12>>^ educando-nos para que, renegadas a impiedade e as paixões mundanas, vivamos, no presente século, sensata, justa e piedosamente,
+
+[[v56-2-13]]
+
+^<<v56-2-13,13>>^ aguardando a bendita esperança e a manifestação da glória do nosso grande Deus e Salvador Cristo Jesus,
+
+[[v56-2-14]]
+
+^<<v56-2-14,14>>^ o qual a si mesmo se deu por nós, a fim de remir-nos de toda iniquidade e purificar, para si mesmo, um povo exclusivamente seu, zeloso de boas obras.
+
+[[v56-2-15]]
+
+^<<v56-2-15,15>>^ Dize estas coisas; exorta e repreende também com toda a autoridade. Ninguém te despreze.
+
+'''
+
+xref:056-tito/056-tito-001.adoc#v56-1-0[&#60; Capítulo Anterior] | <<v56-2-0,Topo>> | xref:056-tito/056-tito-003.adoc#v56-3-0[Próximo Capítulo &#62;]

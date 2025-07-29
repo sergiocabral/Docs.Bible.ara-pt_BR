@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v4-6-0]]
+=== Números, 6
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v4-6-1]]
+
+^<<v4-6-1,1>>^ Disse o SENHOR a Moisés:
+
+[[v4-6-2]]
+
+^<<v4-6-2,2>>^ Fala aos filhos de Israel e dize-lhes: Quando alguém, seja homem seja mulher, fizer voto especial, o voto de nazireu, a fim de consagrar-se para o SENHOR,
+
+[[v4-6-3]]
+
+^<<v4-6-3,3>>^ abster-se-á de vinho e de bebida forte; não beberá vinagre de vinho, nem vinagre de bebida forte, nem tomará beberagens de uvas, nem comerá uvas frescas nem secas.
+
+[[v4-6-4]]
+
+^<<v4-6-4,4>>^ Todos os dias do seu nazireado não comerá de coisa alguma que se faz da vinha, desde as sementes até às cascas.
+
+[[v4-6-5]]
+
+^<<v4-6-5,5>>^ Todos os dias do seu voto de nazireado não passará navalha pela cabeça; até que se cumpram os dias para os quais se consagrou ao SENHOR, santo será, deixando crescer livremente a cabeleira.
+
+[[v4-6-6]]
+
+^<<v4-6-6,6>>^ Todos os dias da sua consagração para o SENHOR, não se aproximará de um cadáver.
+
+[[v4-6-7]]
+
+^<<v4-6-7,7>>^ Por seu pai, ou por sua mãe, ou por seu irmão, ou por sua irmã, por eles se não contaminará, quando morrerem; porquanto o nazireado do seu Deus está sobre a sua cabeça.
+
+[[v4-6-8]]
+
+^<<v4-6-8,8>>^ Por todos os dias do seu nazireado, santo será ao SENHOR.
+
+[[v4-6-9]]
+
+^<<v4-6-9,9>>^ Se alguém vier a morrer junto a ele subitamente, e contaminar a cabeça do seu nazireado, rapará a cabeça no dia da sua purificação; ao sétimo dia, a rapará.
+
+[[v4-6-10]]
+
+^<<v4-6-10,10>>^ Ao oitavo dia, trará duas rolas ou dois pombinhos ao sacerdote, à porta da tenda da congregação;
+
+[[v4-6-11]]
+
+^<<v4-6-11,11>>^ o sacerdote oferecerá um como oferta pelo pecado e o outro, para holocausto; e fará expiação por ele, visto que pecou relativamente ao morto; assim, naquele mesmo dia, consagrará a sua cabeça.
+
+[[v4-6-12]]
+
+^<<v4-6-12,12>>^ Então, consagrará os dias do seu nazireado ao SENHOR e, para oferta pela culpa, trará um cordeiro de um ano; os dias antecedentes serão perdidos, porquanto o seu nazireado foi contaminado.
+
+[[v4-6-13]]
+
+^<<v4-6-13,13>>^ Esta é a lei do nazireu: no dia em que se cumprirem os dias do seu nazireado, será trazido à porta da tenda da congregação.
+
+[[v4-6-14]]
+
+^<<v4-6-14,14>>^ Ele apresentará a sua oferta ao SENHOR, um cordeiro de um ano, sem defeito, em holocausto, e uma cordeira de um ano, sem defeito, para oferta pelo pecado, e um carneiro, sem defeito, por oferta pacífica,
+
+[[v4-6-15]]
+
+^<<v4-6-15,15>>^ e um cesto de pães asmos, bolos de flor de farinha com azeite, amassados, e obreias asmas untadas com azeite, como também a sua oferta de manjares e as suas libações.
+
+[[v4-6-16]]
+
+^<<v4-6-16,16>>^ O sacerdote os trará perante o SENHOR e apresentará a sua oferta pelo pecado e o seu holocausto;
+
+[[v4-6-17]]
+
+^<<v4-6-17,17>>^ oferecerá o carneiro em sacrifício pacífico ao SENHOR, com o cesto dos pães asmos; o sacerdote apresentará também a devida oferta de manjares e a libação.
+
+[[v4-6-18]]
+
+^<<v4-6-18,18>>^ O nazireu, à porta da tenda da congregação, rapará a cabeleira do seu nazireado, e tomá-la-á, e a porá sobre o fogo que está debaixo do sacrifício pacífico.
+
+[[v4-6-19]]
+
+^<<v4-6-19,19>>^ Depois, o sacerdote tomará a espádua cozida do carneiro, e um bolo asmo do cesto, e uma obreia asma e os porá nas mãos do nazireu, depois de haver este rapado a cabeleira do seu nazireado.
+
+[[v4-6-20]]
+
+^<<v4-6-20,20>>^ O sacerdote os moverá em oferta movida perante o SENHOR; isto é santo para o sacerdote, juntamente com o peito da oferta movida e com a coxa da oferta; depois disto, o nazireu pode beber vinho.
+
+[[v4-6-21]]
+
+^<<v4-6-21,21>>^ Esta é a lei do nazireu que fizer voto; a sua oferta ao SENHOR será segundo o seu nazireado, afora o que as suas posses lhe permitirem; segundo o voto que fizer, assim fará conforme a lei do seu nazireado.
+
+[[v4-6-22]]
+
+^<<v4-6-22,22>>^ Disse o SENHOR a Moisés:
+
+[[v4-6-23]]
+
+^<<v4-6-23,23>>^ Fala a Arão e a seus filhos, dizendo: Assim abençoareis os filhos de Israel e dir-lhes-eis:
+
+[[v4-6-24]]
+
+^<<v4-6-24,24>>^ O SENHOR te abençoe e te guarde;
+
+[[v4-6-25]]
+
+^<<v4-6-25,25>>^ o SENHOR faça resplandecer o rosto sobre ti e tenha misericórdia de ti;
+
+[[v4-6-26]]
+
+^<<v4-6-26,26>>^ o SENHOR sobre ti levante o rosto e te dê a paz.
+
+[[v4-6-27]]
+
+^<<v4-6-27,27>>^ Assim, porão o meu nome sobre os filhos de Israel, e eu os abençoarei.
+
+'''
+
+xref:004-numeros/004-numeros-005.adoc#v4-5-0[&#60; Capítulo Anterior] | <<v4-6-0,Topo>> | xref:004-numeros/004-numeros-007.adoc#v4-7-0[Próximo Capítulo &#62;]

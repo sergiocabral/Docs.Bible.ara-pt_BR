@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v20-23-0]]
+=== Provérbios, 23
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v20-23-1]]
+
+^<<v20-23-1,1>>^ Quando te assentares a comer com um governador, atenta bem para aquele que está diante de ti;
+
+[[v20-23-2]]
+
+^<<v20-23-2,2>>^ mete uma faca à tua garganta, se és homem glutão.
+
+[[v20-23-3]]
+
+^<<v20-23-3,3>>^ Não cobices os seus delicados manjares, porque são comidas enganadoras.
+
+[[v20-23-4]]
+
+^<<v20-23-4,4>>^ Não te fatigues para seres rico; não apliques nisso a tua inteligência.
+
+[[v20-23-5]]
+
+^<<v20-23-5,5>>^ Porventura, fitarás os olhos naquilo que não é nada? Pois, certamente, a riqueza fará para si asas, como a águia que voa pelos céus.
+
+[[v20-23-6]]
+
+^<<v20-23-6,6>>^ Não comas o pão do invejoso, nem cobices os seus delicados manjares.
+
+[[v20-23-7]]
+
+^<<v20-23-7,7>>^ Porque, como imagina em sua alma, assim ele é; ele te diz: Come e bebe; mas o seu coração não está contigo.
+
+[[v20-23-8]]
+
+^<<v20-23-8,8>>^ Vomitarás o bocado que comeste e perderás as tuas suaves palavras.
+
+[[v20-23-9]]
+
+^<<v20-23-9,9>>^ Não fales aos ouvidos do insensato, porque desprezará a sabedoria das tuas palavras.
+
+[[v20-23-10]]
+
+^<<v20-23-10,10>>^ Não removas os marcos antigos, nem entres nos campos dos órfãos,
+
+[[v20-23-11]]
+
+^<<v20-23-11,11>>^ porque o seu Vingador é forte e lhes pleiteará a causa contra ti.
+
+[[v20-23-12]]
+
+^<<v20-23-12,12>>^ Aplica o coração ao ensino e os ouvidos às palavras do conhecimento.
+
+[[v20-23-13]]
+
+^<<v20-23-13,13>>^ Não retires da criança a disciplina, pois, se a fustigares com a vara, não morrerá.
+
+[[v20-23-14]]
+
+^<<v20-23-14,14>>^ Tu a fustigarás com a vara e livrarás a sua alma do inferno.
+
+[[v20-23-15]]
+
+^<<v20-23-15,15>>^ Filho meu, se o teu coração for sábio, alegrar-se-á também o meu;
+
+[[v20-23-16]]
+
+^<<v20-23-16,16>>^ exultará o meu íntimo, quando os teus lábios falarem coisas retas.
+
+[[v20-23-17]]
+
+^<<v20-23-17,17>>^ Não tenha o teu coração inveja dos pecadores; antes, no temor do SENHOR perseverarás todo dia.
+
+[[v20-23-18]]
+
+^<<v20-23-18,18>>^ Porque deveras haverá bom futuro; não será frustrada a tua esperança.
+
+[[v20-23-19]]
+
+^<<v20-23-19,19>>^ Ouve, filho meu, e sê sábio; guia retamente no caminho o teu coração.
+
+[[v20-23-20]]
+
+^<<v20-23-20,20>>^ Não estejas entre os bebedores de vinho nem entre os comilões de carne.
+
+[[v20-23-21]]
+
+^<<v20-23-21,21>>^ Porque o beberrão e o comilão caem em pobreza; e a sonolência vestirá de trapos o homem.
+
+[[v20-23-22]]
+
+^<<v20-23-22,22>>^ Ouve a teu pai, que te gerou, e não desprezes a tua mãe, quando vier a envelhecer.
+
+[[v20-23-23]]
+
+^<<v20-23-23,23>>^ Compra a verdade e não a vendas; compra a sabedoria, a instrução e o entendimento.
+
+[[v20-23-24]]
+
+^<<v20-23-24,24>>^ Grandemente se regozijará o pai do justo, e quem gerar a um sábio nele se alegrará.
+
+[[v20-23-25]]
+
+^<<v20-23-25,25>>^ Alegrem-se teu pai e tua mãe, e regozije-se a que te deu à luz.
+
+[[v20-23-26]]
+
+^<<v20-23-26,26>>^ Dá-me, filho meu, o teu coração, e os teus olhos se agradem dos meus caminhos.
+
+[[v20-23-27]]
+
+^<<v20-23-27,27>>^ Pois cova profunda é a prostituta, poço estreito, a alheia.
+
+[[v20-23-28]]
+
+^<<v20-23-28,28>>^ Ela, como salteador, se põe a espreitar e multiplica entre os homens os infiéis.
+
+[[v20-23-29]]
+
+^<<v20-23-29,29>>^ Para quem são os ais? Para quem, os pesares? Para quem, as rixas? Para quem, as queixas? Para quem, as feridas sem causa? E para quem, os olhos vermelhos?
+
+[[v20-23-30]]
+
+^<<v20-23-30,30>>^ Para os que se demoram em beber vinho, para os que andam buscando bebida misturada.
+
+[[v20-23-31]]
+
+^<<v20-23-31,31>>^ Não olhes para o vinho, quando se mostra vermelho, quando resplandece no copo e se escoa suavemente.
+
+[[v20-23-32]]
+
+^<<v20-23-32,32>>^ Pois ao cabo morderá como a cobra e picará como o basilisco.
+
+[[v20-23-33]]
+
+^<<v20-23-33,33>>^ Os teus olhos verão coisas esquisitas, e o teu coração falará perversidades.
+
+[[v20-23-34]]
+
+^<<v20-23-34,34>>^ Serás como o que se deita no meio do mar e como o que se deita no alto do mastro
+
+[[v20-23-35]]
+
+^<<v20-23-35,35>>^ e dirás: Espancaram-me, e não me doeu; bateram-me, e não o senti; quando despertarei? Então, tornarei a beber.
+
+'''
+
+xref:020-proverbios/020-proverbios-022.adoc#v20-22-0[&#60; Capítulo Anterior] | <<v20-23-0,Topo>> | xref:020-proverbios/020-proverbios-024.adoc#v20-24-0[Próximo Capítulo &#62;]

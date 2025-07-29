@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v19-48-0]]
+=== Salmos, 48
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v19-48-1]]
+
+^<<v19-48-1,1>>^ Grande é o SENHOR e mui digno de ser louvado, na cidade do nosso Deus.
+
+[[v19-48-2]]
+
+^<<v19-48-2,2>>^ Seu santo monte, belo e sobranceiro, é a alegria de toda a terra; o monte Sião, para os lados do Norte, a cidade do grande Rei.
+
+[[v19-48-3]]
+
+^<<v19-48-3,3>>^ Nos palácios dela, Deus se faz conhecer como alto refúgio.
+
+[[v19-48-4]]
+
+^<<v19-48-4,4>>^ Por isso, eis que os reis se coligaram e juntos sumiram-se;
+
+[[v19-48-5]]
+
+^<<v19-48-5,5>>^ bastou-lhes vê-lo, e se espantaram, tomaram-se de assombro e fugiram apressados.
+
+[[v19-48-6]]
+
+^<<v19-48-6,6>>^ O terror ali os venceu, e sentiram dores como de parturiente.
+
+[[v19-48-7]]
+
+^<<v19-48-7,7>>^ Com vento oriental destruíste as naus de Társis.
+
+[[v19-48-8]]
+
+^<<v19-48-8,8>>^ Como temos ouvido dizer, assim o vimos na cidade do SENHOR dos Exércitos, na cidade do nosso Deus. Deus a estabelece para sempre.
+
+[[v19-48-9]]
+
+^<<v19-48-9,9>>^ Pensamos, ó Deus, na tua misericórdia no meio do teu templo.
+
+[[v19-48-10]]
+
+^<<v19-48-10,10>>^ Como o teu nome, ó Deus, assim o teu louvor se estende até aos confins da terra; a tua destra está cheia de justiça.
+
+[[v19-48-11]]
+
+^<<v19-48-11,11>>^ Alegre-se o monte Sião, exultem as filhas de Judá, por causa dos teus juízos.
+
+[[v19-48-12]]
+
+^<<v19-48-12,12>>^ Percorrei a Sião, rodeai-a toda, contai-lhe as torres;
+
+[[v19-48-13]]
+
+^<<v19-48-13,13>>^ notai bem os seus baluartes, observai os seus palácios, para narrardes às gerações vindouras
+
+[[v19-48-14]]
+
+^<<v19-48-14,14>>^ que este é Deus, o nosso Deus para todo o sempre; ele será nosso guia até à morte.
+
+'''
+
+xref:019-salmos/019-salmos-047.adoc#v19-47-0[&#60; Capítulo Anterior] | <<v19-48-0,Topo>> | xref:019-salmos/019-salmos-049.adoc#v19-49-0[Próximo Capítulo &#62;]

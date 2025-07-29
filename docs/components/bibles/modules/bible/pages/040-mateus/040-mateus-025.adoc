@@ -1,0 +1,193 @@
+include::./index.adoc[]
+
+[[v40-25-0]]
+=== Mateus, 25
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v40-25-1]]
+
+^<<v40-25-1,1>>^ Então, o reino dos céus será semelhante a dez virgens que, tomando as suas lâmpadas, saíram a encontrar-se com o noivo.
+
+[[v40-25-2]]
+
+^<<v40-25-2,2>>^ Cinco dentre elas eram néscias, e cinco, prudentes.
+
+[[v40-25-3]]
+
+^<<v40-25-3,3>>^ As néscias, ao tomarem as suas lâmpadas, não levaram azeite consigo;
+
+[[v40-25-4]]
+
+^<<v40-25-4,4>>^ no entanto, as prudentes, além das lâmpadas, levaram azeite nas vasilhas.
+
+[[v40-25-5]]
+
+^<<v40-25-5,5>>^ E, tardando o noivo, foram todas tomadas de sono e adormeceram.
+
+[[v40-25-6]]
+
+^<<v40-25-6,6>>^ Mas, à meia-noite, ouviu-se um grito: Eis o noivo! Saí ao seu encontro!
+
+[[v40-25-7]]
+
+^<<v40-25-7,7>>^ Então, se levantaram todas aquelas virgens e prepararam as suas lâmpadas.
+
+[[v40-25-8]]
+
+^<<v40-25-8,8>>^ E as néscias disseram às prudentes: Dai-nos do vosso azeite, porque as nossas lâmpadas estão-se apagando.
+
+[[v40-25-9]]
+
+^<<v40-25-9,9>>^ Mas as prudentes responderam: Não, para que não nos falte a nós e a vós outras! Ide, antes, aos que o vendem e comprai-o.
+
+[[v40-25-10]]
+
+^<<v40-25-10,10>>^ E, saindo elas para comprar, chegou o noivo, e as que estavam apercebidas entraram com ele para as bodas; e fechou-se a porta.
+
+[[v40-25-11]]
+
+^<<v40-25-11,11>>^ Mais tarde, chegaram as virgens néscias, clamando: Senhor, senhor, abre-nos a porta!
+
+[[v40-25-12]]
+
+^<<v40-25-12,12>>^ Mas ele respondeu: Em verdade vos digo que não vos conheço.
+
+[[v40-25-13]]
+
+^<<v40-25-13,13>>^ Vigiai, pois, porque não sabeis o dia nem a hora.
+
+[[v40-25-14]]
+
+^<<v40-25-14,14>>^ Pois será como um homem que, ausentando-se do país, chamou os seus servos e lhes confiou os seus bens.
+
+[[v40-25-15]]
+
+^<<v40-25-15,15>>^ A um deu cinco talentos, a outro, dois e a outro, um, a cada um segundo a sua própria capacidade; e, então, partiu.
+
+[[v40-25-16]]
+
+^<<v40-25-16,16>>^ O que recebera cinco talentos saiu imediatamente a negociar com eles e ganhou outros cinco.
+
+[[v40-25-17]]
+
+^<<v40-25-17,17>>^ Do mesmo modo, o que recebera dois ganhou outros dois.
+
+[[v40-25-18]]
+
+^<<v40-25-18,18>>^ Mas o que recebera um, saindo, abriu uma cova e escondeu o dinheiro do seu senhor.
+
+[[v40-25-19]]
+
+^<<v40-25-19,19>>^ Depois de muito tempo, voltou o senhor daqueles servos e ajustou contas com eles.
+
+[[v40-25-20]]
+
+^<<v40-25-20,20>>^ Então, aproximando-se o que recebera cinco talentos, entregou outros cinco, dizendo: Senhor, confiaste-me cinco talentos; eis aqui outros cinco talentos que ganhei.
+
+[[v40-25-21]]
+
+^<<v40-25-21,21>>^ Disse-lhe o senhor: Muito bem, servo bom e fiel; foste fiel no pouco, sobre o muito te colocarei; entra no gozo do teu senhor.
+
+[[v40-25-22]]
+
+^<<v40-25-22,22>>^ E, aproximando-se também o que recebera dois talentos, disse: Senhor, dois talentos me confiaste; aqui tens outros dois que ganhei.
+
+[[v40-25-23]]
+
+^<<v40-25-23,23>>^ Disse-lhe o senhor: Muito bem, servo bom e fiel; foste fiel no pouco, sobre o muito te colocarei; entra no gozo do teu senhor.
+
+[[v40-25-24]]
+
+^<<v40-25-24,24>>^ Chegando, por fim, o que recebera um talento, disse: Senhor, sabendo que és homem severo, que ceifas onde não semeaste e ajuntas onde não espalhaste,
+
+[[v40-25-25]]
+
+^<<v40-25-25,25>>^ receoso, escondi na terra o teu talento; aqui tens o que é teu.
+
+[[v40-25-26]]
+
+^<<v40-25-26,26>>^ Respondeu-lhe, porém, o senhor: Servo mau e negligente, sabias que ceifo onde não semeei e ajunto onde não espalhei?
+
+[[v40-25-27]]
+
+^<<v40-25-27,27>>^ Cumpria, portanto, que entregasses o meu dinheiro aos banqueiros, e eu, ao voltar, receberia com juros o que é meu.
+
+[[v40-25-28]]
+
+^<<v40-25-28,28>>^ Tirai-lhe, pois, o talento e dai-o ao que tem dez.
+
+[[v40-25-29]]
+
+^<<v40-25-29,29>>^ Porque a todo o que tem se lhe dará, e terá em abundância; mas ao que não tem, até o que tem lhe será tirado.
+
+[[v40-25-30]]
+
+^<<v40-25-30,30>>^ E o servo inútil, lançai-o para fora, nas trevas. Ali haverá choro e ranger de dentes.
+
+[[v40-25-31]]
+
+^<<v40-25-31,31>>^ Quando vier o Filho do Homem na sua majestade e todos os anjos com ele, então, se assentará no trono da sua glória;
+
+[[v40-25-32]]
+
+^<<v40-25-32,32>>^ e todas as nações serão reunidas em sua presença, e ele separará uns dos outros, como o pastor separa dos cabritos as ovelhas;
+
+[[v40-25-33]]
+
+^<<v40-25-33,33>>^ e porá as ovelhas à sua direita, mas os cabritos, à esquerda;
+
+[[v40-25-34]]
+
+^<<v40-25-34,34>>^ então, dirá o Rei aos que estiverem à sua direita: Vinde, benditos de meu Pai! Entrai na posse do reino que vos está preparado desde a fundação do mundo.
+
+[[v40-25-35]]
+
+^<<v40-25-35,35>>^ Porque tive fome, e me destes de comer; tive sede, e me destes de beber; era forasteiro, e me hospedastes;
+
+[[v40-25-36]]
+
+^<<v40-25-36,36>>^ estava nu, e me vestistes; enfermo, e me visitastes; preso, e fostes ver-me.
+
+[[v40-25-37]]
+
+^<<v40-25-37,37>>^ Então, perguntarão os justos: Senhor, quando foi que te vimos com fome e te demos de comer? Ou com sede e te demos de beber?
+
+[[v40-25-38]]
+
+^<<v40-25-38,38>>^ E quando te vimos forasteiro e te hospedamos? Ou nu e te vestimos?
+
+[[v40-25-39]]
+
+^<<v40-25-39,39>>^ E quando te vimos enfermo ou preso e te fomos visitar?
+
+[[v40-25-40]]
+
+^<<v40-25-40,40>>^ O Rei, respondendo, lhes dirá: Em verdade vos afirmo que, sempre que o fizestes a um destes meus pequeninos irmãos, a mim o fizestes.
+
+[[v40-25-41]]
+
+^<<v40-25-41,41>>^ Então, o Rei dirá também aos que estiverem à sua esquerda: Apartai-vos de mim, malditos, para o fogo eterno, preparado para o diabo e seus anjos.
+
+[[v40-25-42]]
+
+^<<v40-25-42,42>>^ Porque tive fome, e não me destes de comer; tive sede, e não me destes de beber;
+
+[[v40-25-43]]
+
+^<<v40-25-43,43>>^ sendo forasteiro, não me hospedastes; estando nu, não me vestistes; achando-me enfermo e preso, não fostes ver-me.
+
+[[v40-25-44]]
+
+^<<v40-25-44,44>>^ E eles lhe perguntarão: Senhor, quando foi que te vimos com fome, com sede, forasteiro, nu, enfermo ou preso e não te assistimos?
+
+[[v40-25-45]]
+
+^<<v40-25-45,45>>^ Então, lhes responderá: Em verdade vos digo que, sempre que o deixastes de fazer a um destes mais pequeninos, a mim o deixastes de fazer.
+
+[[v40-25-46]]
+
+^<<v40-25-46,46>>^ E irão estes para o castigo eterno, porém os justos, para a vida eterna.
+
+'''
+
+xref:040-mateus/040-mateus-024.adoc#v40-24-0[&#60; Capítulo Anterior] | <<v40-25-0,Topo>> | xref:040-mateus/040-mateus-026.adoc#v40-26-0[Próximo Capítulo &#62;]

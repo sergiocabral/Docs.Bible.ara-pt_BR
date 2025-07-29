@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v5-20-0]]
+=== Deuteronômio, 20
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v5-20-1]]
+
+^<<v5-20-1,1>>^ Quando saíres à peleja contra os teus inimigos e vires cavalos, e carros, e povo maior em número do que tu, não os temerás; pois o SENHOR, teu Deus, que te fez sair da terra do Egito, está contigo.
+
+[[v5-20-2]]
+
+^<<v5-20-2,2>>^ Quando vos achegardes à peleja, o sacerdote se adiantará, e falará ao povo,
+
+[[v5-20-3]]
+
+^<<v5-20-3,3>>^ e dir-lhe-á: Ouvi, ó Israel, hoje, vos achegais à peleja contra os vossos inimigos; que não desfaleça o vosso coração; não tenhais medo, não tremais, nem vos aterrorizeis diante deles,
+
+[[v5-20-4]]
+
+^<<v5-20-4,4>>^ pois o SENHOR, vosso Deus, é quem vai convosco a pelejar por vós contra os vossos inimigos, para vos salvar.
+
+[[v5-20-5]]
+
+^<<v5-20-5,5>>^ Os oficiais falarão ao povo, dizendo: Qual o homem que edificou casa nova e ainda não a consagrou? Vá, torne-se para casa, para que não morra na peleja, e outrem a consagre.
+
+[[v5-20-6]]
+
+^<<v5-20-6,6>>^ Qual o homem que plantou uma vinha e ainda não a desfrutou? Vá, torne-se para casa, para que não morra na peleja, e outrem a desfrute.
+
+[[v5-20-7]]
+
+^<<v5-20-7,7>>^ Qual o homem que está desposado com alguma mulher e ainda não a recebeu? Vá, torne-se para casa, para que não morra na peleja, e outro homem a receba.
+
+[[v5-20-8]]
+
+^<<v5-20-8,8>>^ E continuarão os oficiais a falar ao povo, dizendo: Qual o homem medroso e de coração tímido? Vá, torne-se para casa, para que o coração de seus irmãos se não derreta como o seu coração.
+
+[[v5-20-9]]
+
+^<<v5-20-9,9>>^ Quando os oficiais tiverem falado ao povo, designarão os capitães dos exércitos para a dianteira do povo.
+
+[[v5-20-10]]
+
+^<<v5-20-10,10>>^ Quando te aproximares de alguma cidade para pelejar contra ela, oferecer-lhe-ás a paz.
+
+[[v5-20-11]]
+
+^<<v5-20-11,11>>^ Se a sua resposta é de paz, e te abrir as portas, todo o povo que nela se achar será sujeito a trabalhos forçados e te servirá.
+
+[[v5-20-12]]
+
+^<<v5-20-12,12>>^ Porém, se ela não fizer paz contigo, mas te fizer guerra, então, a sitiarás.
+
+[[v5-20-13]]
+
+^<<v5-20-13,13>>^ E o SENHOR, teu Deus, a dará na tua mão; e todos os do sexo masculino que houver nela passarás a fio de espada;
+
+[[v5-20-14]]
+
+^<<v5-20-14,14>>^ mas as mulheres, e as crianças, e os animais, e tudo o que houver na cidade, todo o seu despojo, tomarás para ti; e desfrutarás o despojo dos inimigos que o SENHOR, teu Deus, te deu.
+
+[[v5-20-15]]
+
+^<<v5-20-15,15>>^ Assim farás a todas as cidades que estiverem mui longe de ti, que não forem das cidades destes povos.
+
+[[v5-20-16]]
+
+^<<v5-20-16,16>>^ Porém, das cidades destas nações que o SENHOR, teu Deus, te dá em herança, não deixarás com vida tudo o que tem fôlego.
+
+[[v5-20-17]]
+
+^<<v5-20-17,17>>^ Antes, como te ordenou o SENHOR, teu Deus, destruí-las-ás totalmente: os heteus, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus,
+
+[[v5-20-18]]
+
+^<<v5-20-18,18>>^ para que não vos ensinem a fazer segundo todas as suas abominações, que fizeram a seus deuses, pois pecaríeis contra o SENHOR, vosso Deus.
+
+[[v5-20-19]]
+
+^<<v5-20-19,19>>^ Quando sitiares uma cidade por muito tempo, pelejando contra ela para a tomar, não destruirás o seu arvoredo, metendo nele o machado, porque dele comerás; pelo que não o cortarás, pois será a árvore do campo algum homem, para que fosse sitiada por ti?
+
+[[v5-20-20]]
+
+^<<v5-20-20,20>>^ Mas as árvores cujos frutos souberes não se comem, destruí-las-ás, cortando-as; e, contra a cidade que guerrear contra ti, edificarás baluartes, até que seja derribada.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-019.adoc#v5-19-0[&#60; Capítulo Anterior] | <<v5-20-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-021.adoc#v5-21-0[Próximo Capítulo &#62;]

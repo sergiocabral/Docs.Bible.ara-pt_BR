@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v11-4-0]]
+=== 1 Reis, 4
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v11-4-1]]
+
+^<<v11-4-1,1>>^ O rei Salomão reinou sobre todo o Israel.
+
+[[v11-4-2]]
+
+^<<v11-4-2,2>>^ Eram estes os seus homens principais: Azarias, filho de Zadoque, o principal.
+
+[[v11-4-3]]
+
+^<<v11-4-3,3>>^ Eliorefe e Aías, filhos de Sisa, eram secretários; Josafá, filho de Ailude, era o cronista;
+
+[[v11-4-4]]
+
+^<<v11-4-4,4>>^ Benaia, filho de Joiada, era comandante do exército; Zadoque e Abiatar eram sacerdotes;
+
+[[v11-4-5]]
+
+^<<v11-4-5,5>>^ Azarias, filho de Natã, era intendente-chefe; Zabude, filho de Natã, ministro, amigo do rei;
+
+[[v11-4-6]]
+
+^<<v11-4-6,6>>^ Aisar, mordomo; Adonirão, filho de Abda, superintendente dos que trabalhavam forçados.
+
+[[v11-4-7]]
+
+^<<v11-4-7,7>>^ Tinha Salomão doze intendentes sobre todo o Israel, que forneciam mantimento ao rei e à sua casa; cada um tinha de fornecer durante um mês do ano.
+
+[[v11-4-8]]
+
+^<<v11-4-8,8>>^ São estes os seus nomes: Ben-Hur, nas montanhas de Efraim;
+
+[[v11-4-9]]
+
+^<<v11-4-9,9>>^ Ben-Dequer, em Macaz, Saalabim, Bete-Semes, Elom e Bete-Hanã;
+
+[[v11-4-10]]
+
+^<<v11-4-10,10>>^ Ben-Hesede, em Arubote; a este pertencia também Socó e toda a terra de Héfer;
+
+[[v11-4-11]]
+
+^<<v11-4-11,11>>^ Ben-Abinadabe tinha toda a cordilheira de Dor; Tafate, filha de Salomão, era sua mulher.
+
+[[v11-4-12]]
+
+^<<v11-4-12,12>>^ Baaná, filho de Ailude, tinha a Taanaque, e a Megido, e a toda a Bete-Seã, que está junto a Zaretã, abaixo de Jezreel, desde Bete-Seã até Abel-Meolá, até além de Jocmeão.
+
+[[v11-4-13]]
+
+^<<v11-4-13,13>>^ Ben-Geber, em Ramote-Gileade; tinha este as aldeias de Jair, filho de Manassés, as quais estão em Gileade; também tinha a região de Argobe, a qual está em Basã, sessenta grandes cidades com muros e ferrolhos de bronze.
+
+[[v11-4-14]]
+
+^<<v11-4-14,14>>^ Ainadabe, filho de Ido, em Maanaim;
+
+[[v11-4-15]]
+
+^<<v11-4-15,15>>^ Aimaás, em Naftali; também este tomou filha de Salomão por mulher, a saber, Basemate.
+
+[[v11-4-16]]
+
+^<<v11-4-16,16>>^ Baaná, filho de Husai, em Aser e Bealote;
+
+[[v11-4-17]]
+
+^<<v11-4-17,17>>^ Josafá, filho de Parua, em Issacar;
+
+[[v11-4-18]]
+
+^<<v11-4-18,18>>^ Simei, filho de Elá, em Benjamim;
+
+[[v11-4-19]]
+
+^<<v11-4-19,19>>^ Geber, filho de Uri, na terra de Gileade, a terra de Seom, rei dos amorreus, e de Ogue, rei de Basã; e havia só um intendente nesta terra.
+
+[[v11-4-20]]
+
+^<<v11-4-20,20>>^ Eram, pois, os de Judá e Israel muitos, numerosos como a areia que está ao pé do mar; comiam, bebiam e se alegravam.
+
+[[v11-4-21]]
+
+^<<v11-4-21,21>>^ Dominava Salomão sobre todos os reinos desde o Eufrates até à terra dos filisteus e até à fronteira do Egito; os quais pagavam tributo e serviram a Salomão todos os dias da sua vida.
+
+[[v11-4-22]]
+
+^<<v11-4-22,22>>^ Era, pois, o provimento diário de Salomão trinta coros de flor de farinha e sessenta coros de farinha;
+
+[[v11-4-23]]
+
+^<<v11-4-23,23>>^ dez bois cevados, vinte bois de pasto e cem carneiros, afora os veados, as gazelas, os corços e aves cevadas.
+
+[[v11-4-24]]
+
+^<<v11-4-24,24>>^ Porque dominava sobre toda a região e sobre todos os reis aquém do Eufrates, desde Tifsa até Gaza, e tinha paz por todo o derredor.
+
+[[v11-4-25]]
+
+^<<v11-4-25,25>>^ Judá e Israel habitavam confiados, cada um debaixo da sua videira e debaixo da sua figueira, desde Dã até Berseba, todos os dias de Salomão.
+
+[[v11-4-26]]
+
+^<<v11-4-26,26>>^ Tinha também Salomão quarenta mil cavalos em estrebarias, para os seus carros, e doze mil cavaleiros.
+
+[[v11-4-27]]
+
+^<<v11-4-27,27>>^ Forneciam, pois, os intendentes provisões, cada um no seu mês, ao rei Salomão e a todos quantos lhe chegavam à mesa; coisa nenhuma deixavam faltar.
+
+[[v11-4-28]]
+
+^<<v11-4-28,28>>^ Também levavam a cevada e a palha para os cavalos e os ginetes, para o lugar onde estivesse o rei, segundo lhes fora prescrito.
+
+[[v11-4-29]]
+
+^<<v11-4-29,29>>^ Deu também Deus a Salomão sabedoria, grandíssimo entendimento e larga inteligência como a areia que está na praia do mar.
+
+[[v11-4-30]]
+
+^<<v11-4-30,30>>^ Era a sabedoria de Salomão maior do que a de todos os do Oriente e do que toda a sabedoria dos egípcios.
+
+[[v11-4-31]]
+
+^<<v11-4-31,31>>^ Era mais sábio do que todos os homens, mais sábio do que Etã, ezraíta, e do que Hemã, Calcol e Darda, filhos de Maol; e correu a sua fama por todas as nações em redor.
+
+[[v11-4-32]]
+
+^<<v11-4-32,32>>^ Compôs três mil provérbios, e foram os seus cânticos mil e cinco.
+
+[[v11-4-33]]
+
+^<<v11-4-33,33>>^ Discorreu sobre todas as plantas, desde o cedro que está no Líbano até ao hissopo que brota do muro; também falou dos animais e das aves, dos répteis e dos peixes.
+
+[[v11-4-34]]
+
+^<<v11-4-34,34>>^ De todos os povos vinha gente a ouvir a sabedoria de Salomão, e também enviados de todos os reis da terra que tinham ouvido da sua sabedoria.
+
+'''
+
+xref:011-1-reis/011-1-reis-003.adoc#v11-3-0[&#60; Capítulo Anterior] | <<v11-4-0,Topo>> | xref:011-1-reis/011-1-reis-005.adoc#v11-5-0[Próximo Capítulo &#62;]

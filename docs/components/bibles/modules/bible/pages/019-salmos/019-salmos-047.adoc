@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-47-0]]
+=== Salmos, 47
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v19-47-1]]
+
+^<<v19-47-1,1>>^ Batei palmas, todos os povos; celebrai a Deus com vozes de júbilo.
+
+[[v19-47-2]]
+
+^<<v19-47-2,2>>^ Pois o SENHOR Altíssimo é tremendo, é o grande rei de toda a terra.
+
+[[v19-47-3]]
+
+^<<v19-47-3,3>>^ Ele nos submeteu os povos e pôs sob os nossos pés as nações.
+
+[[v19-47-4]]
+
+^<<v19-47-4,4>>^ Escolheu-nos a nossa herança, a glória de Jacó, a quem ele ama.
+
+[[v19-47-5]]
+
+^<<v19-47-5,5>>^ Subiu Deus por entre aclamações, o SENHOR, ao som de trombeta.
+
+[[v19-47-6]]
+
+^<<v19-47-6,6>>^ Salmodiai a Deus, cantai louvores; salmodiai ao nosso Rei, cantai louvores.
+
+[[v19-47-7]]
+
+^<<v19-47-7,7>>^ Deus é o Rei de toda a terra; salmodiai com harmonioso cântico.
+
+[[v19-47-8]]
+
+^<<v19-47-8,8>>^ Deus reina sobre as nações; Deus se assenta no seu santo trono.
+
+[[v19-47-9]]
+
+^<<v19-47-9,9>>^ Os príncipes dos povos se reúnem, o povo do Deus de Abraão, porque a Deus pertencem os escudos da terra; ele se exaltou gloriosamente.
+
+'''
+
+xref:019-salmos/019-salmos-046.adoc#v19-46-0[&#60; Capítulo Anterior] | <<v19-47-0,Topo>> | xref:019-salmos/019-salmos-048.adoc#v19-48-0[Próximo Capítulo &#62;]

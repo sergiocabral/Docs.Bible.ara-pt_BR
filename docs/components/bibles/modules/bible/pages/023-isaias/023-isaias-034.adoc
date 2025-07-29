@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v23-34-0]]
+=== Isaías, 34
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v23-34-1]]
+
+^<<v23-34-1,1>>^ Chegai-vos, nações, para ouvir, e vós, povos, escutai; ouça a terra e a sua plenitude, o mundo e tudo quanto produz.
+
+[[v23-34-2]]
+
+^<<v23-34-2,2>>^ Porque a indignação do SENHOR está contra todas as nações, e o seu furor, contra todo o exército delas; ele as destinou para a destruição e as entregou à matança.
+
+[[v23-34-3]]
+
+^<<v23-34-3,3>>^ Os seus mortos serão lançados fora, dos seus cadáveres subirá o mau cheiro, e do sangue deles os montes se inundarão.
+
+[[v23-34-4]]
+
+^<<v23-34-4,4>>^ Todo o exército dos céus se dissolverá, e os céus se enrolarão como um pergaminho; todo o seu exército cairá, como cai a folha da vide e a folha da figueira.
+
+[[v23-34-5]]
+
+^<<v23-34-5,5>>^ Porque a minha espada se embriagou nos céus; eis que, para exercer juízo, desce sobre Edom e sobre o povo que destinei para a destruição.
+
+[[v23-34-6]]
+
+^<<v23-34-6,6>>^ A espada do SENHOR está cheia de sangue, engrossada da gordura e do sangue de cordeiros e de bodes, da gordura dos rins de carneiros; porque o SENHOR tem sacrifício em Bozra e grande matança na terra de Edom.
+
+[[v23-34-7]]
+
+^<<v23-34-7,7>>^ Os bois selvagens cairão com eles, e os novilhos, com os touros; a sua terra se embriagará de sangue, e o seu pó se tornará fértil com a gordura.
+
+[[v23-34-8]]
+
+^<<v23-34-8,8>>^ Porque será o dia da vingança do SENHOR, ano de retribuições pela causa de Sião.
+
+[[v23-34-9]]
+
+^<<v23-34-9,9>>^ Os ribeiros de Edom se transformarão em piche, e o seu pó, em enxofre; a sua terra se tornará em piche ardente.
+
+[[v23-34-10]]
+
+^<<v23-34-10,10>>^ Nem de noite nem de dia se apagará; subirá para sempre a sua fumaça; de geração em geração será assolada, e para todo o sempre ninguém passará por ela.
+
+[[v23-34-11]]
+
+^<<v23-34-11,11>>^ Mas o pelicano e o ouriço a possuirão; o bufo e o corvo habitarão nela. Estender-se-á sobre ela o cordel de destruição e o prumo de ruína.
+
+[[v23-34-12]]
+
+^<<v23-34-12,12>>^ Já não haverá nobres para proclamarem um rei; os seus príncipes já não existem.
+
+[[v23-34-13]]
+
+^<<v23-34-13,13>>^ Nos seus palácios, crescerão espinhos, e urtigas e cardos, nas suas fortalezas; será uma habitação de chacais e morada de avestruzes.
+
+[[v23-34-14]]
+
+^<<v23-34-14,14>>^ As feras do deserto se encontrarão com as hienas, e os sátiros clamarão uns para os outros; fantasmas ali pousarão e acharão para si lugar de repouso.
+
+[[v23-34-15]]
+
+^<<v23-34-15,15>>^ Aninhar-se-á ali a coruja, e porá os seus ovos, e os chocará, e na sombra abrigará os seus filhotes; também ali os abutres se ajuntarão, um com o outro.
+
+[[v23-34-16]]
+
+^<<v23-34-16,16>>^ Buscai no livro do SENHOR e lede: Nenhuma destas criaturas falhará, nem uma nem outra faltará; porque a boca do SENHOR o ordenou, e o seu Espírito mesmo as ajuntará.
+
+[[v23-34-17]]
+
+^<<v23-34-17,17>>^ Porque ele lançou as sortes a favor delas, e a sua mão lhes repartiu a terra com o cordel; para sempre a possuirão, através de gerações habitarão nela.
+
+'''
+
+xref:023-isaias/023-isaias-033.adoc#v23-33-0[&#60; Capítulo Anterior] | <<v23-34-0,Topo>> | xref:023-isaias/023-isaias-035.adoc#v23-35-0[Próximo Capítulo &#62;]

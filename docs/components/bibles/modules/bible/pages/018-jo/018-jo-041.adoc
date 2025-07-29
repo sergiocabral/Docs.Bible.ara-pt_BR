@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v18-41-0]]
+=== Jó, 41
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v18-41-1]]
+
+^<<v18-41-1,1>>^ Podes tu, com anzol, apanhar o crocodilo ou lhe travar a língua com uma corda?
+
+[[v18-41-2]]
+
+^<<v18-41-2,2>>^ Podes meter-lhe no nariz uma vara de junco? Ou furar-lhe as bochechas com um gancho?
+
+[[v18-41-3]]
+
+^<<v18-41-3,3>>^ Acaso, te fará muitas súplicas? Ou te falará palavras brandas?
+
+[[v18-41-4]]
+
+^<<v18-41-4,4>>^ Fará ele acordo contigo? Ou tomá-lo-ás por servo para sempre?
+
+[[v18-41-5]]
+
+^<<v18-41-5,5>>^ Brincarás com ele, como se fora um passarinho? Ou tê-lo-ás preso à correia para as tuas meninas?
+
+[[v18-41-6]]
+
+^<<v18-41-6,6>>^ Acaso, os teus sócios negociam com ele? Ou o repartirão entre os mercadores?
+
+[[v18-41-7]]
+
+^<<v18-41-7,7>>^ Encher-lhe-ás a pele de arpões? Ou a cabeça, de farpas?
+
+[[v18-41-8]]
+
+^<<v18-41-8,8>>^ Põe a mão sobre ele, lembra-te da peleja e nunca mais o intentarás.
+
+[[v18-41-9]]
+
+^<<v18-41-9,9>>^ Eis que a gente se engana em sua esperança; acaso, não será o homem derribado só em vê-lo?
+
+[[v18-41-10]]
+
+^<<v18-41-10,10>>^ Ninguém há tão ousado, que se atreva a despertá-lo. Quem é, pois, aquele que pode erguer-se diante de mim?
+
+[[v18-41-11]]
+
+^<<v18-41-11,11>>^ Quem primeiro me deu a mim, para que eu haja de retribuir-lhe? Pois o que está debaixo de todos os céus é meu.
+
+[[v18-41-12]]
+
+^<<v18-41-12,12>>^ Não me calarei a respeito dos seus membros, nem da sua grande força, nem da graça da sua compostura.
+
+[[v18-41-13]]
+
+^<<v18-41-13,13>>^ Quem lhe abrirá as vestes do seu dorso? Ou lhe penetrará a couraça dobrada?
+
+[[v18-41-14]]
+
+^<<v18-41-14,14>>^ Quem abriria as portas do seu rosto? Pois em roda dos seus dentes está o terror.
+
+[[v18-41-15]]
+
+^<<v18-41-15,15>>^ As fileiras de suas escamas são o seu orgulho, cada uma bem-encostada como por um selo que as ajusta.
+
+[[v18-41-16]]
+
+^<<v18-41-16,16>>^ A tal ponto uma se chega à outra, que entre elas não entra nem o ar.
+
+[[v18-41-17]]
+
+^<<v18-41-17,17>>^ Umas às outras se ligam, aderem entre si e não se podem separar.
+
+[[v18-41-18]]
+
+^<<v18-41-18,18>>^ Cada um dos seus espirros faz resplandecer luz, e os seus olhos são como as pestanas da alva.
+
+[[v18-41-19]]
+
+^<<v18-41-19,19>>^ Da sua boca saem tochas; faíscas de fogo saltam dela.
+
+[[v18-41-20]]
+
+^<<v18-41-20,20>>^ Das suas narinas procede fumaça, como de uma panela fervente ou de juncos que ardem.
+
+[[v18-41-21]]
+
+^<<v18-41-21,21>>^ O seu hálito faz incender os carvões; e da sua boca sai chama.
+
+[[v18-41-22]]
+
+^<<v18-41-22,22>>^ No seu pescoço reside a força; e diante dele salta o desespero.
+
+[[v18-41-23]]
+
+^<<v18-41-23,23>>^ Suas partes carnudas são bem-pegadas entre si; todas fundidas nele e imóveis.
+
+[[v18-41-24]]
+
+^<<v18-41-24,24>>^ O seu coração é firme como uma pedra, firme como a mó de baixo.
+
+[[v18-41-25]]
+
+^<<v18-41-25,25>>^ Levantando-se ele, tremem os valentes; quando irrompe, ficam como que fora de si.
+
+[[v18-41-26]]
+
+^<<v18-41-26,26>>^ Se o golpe de espada o alcança, de nada vale, nem de lança, de dardo ou de flecha.
+
+[[v18-41-27]]
+
+^<<v18-41-27,27>>^ Para ele, o ferro é palha, e o cobre, pau podre.
+
+[[v18-41-28]]
+
+^<<v18-41-28,28>>^ A seta o não faz fugir; as pedras das fundas se lhe tornam em restolho.
+
+[[v18-41-29]]
+
+^<<v18-41-29,29>>^ Os porretes atirados são para ele como palha, e ri-se do brandir da lança.
+
+[[v18-41-30]]
+
+^<<v18-41-30,30>>^ Debaixo do ventre, há escamas pontiagudas; arrasta-se sobre a lama, como um instrumento de debulhar.
+
+[[v18-41-31]]
+
+^<<v18-41-31,31>>^ As profundezas faz ferver, como uma panela; torna o mar como caldeira de unguento.
+
+[[v18-41-32]]
+
+^<<v18-41-32,32>>^ Após si, deixa um sulco luminoso; o abismo parece ter-se encanecido.
+
+[[v18-41-33]]
+
+^<<v18-41-33,33>>^ Na terra, não tem ele igual, pois foi feito para nunca ter medo.
+
+[[v18-41-34]]
+
+^<<v18-41-34,34>>^ Ele olha com desprezo tudo o que é alto; é rei sobre todos os animais orgulhosos.
+
+'''
+
+xref:018-jo/018-jo-040.adoc#v18-40-0[&#60; Capítulo Anterior] | <<v18-41-0,Topo>> | xref:018-jo/018-jo-042.adoc#v18-42-0[Próximo Capítulo &#62;]

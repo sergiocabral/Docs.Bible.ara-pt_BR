@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v46-16-0]]
+=== 1 Coríntios, 16
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v46-16-1]]
+
+^<<v46-16-1,1>>^ Quanto à coleta para os santos, fazei vós também como ordenei às igrejas da Galácia.
+
+[[v46-16-2]]
+
+^<<v46-16-2,2>>^ No primeiro dia da semana, cada um de vós ponha de parte, em casa, conforme a sua prosperidade, e vá juntando, para que se não façam coletas quando eu for.
+
+[[v46-16-3]]
+
+^<<v46-16-3,3>>^ E, quando tiver chegado, enviarei, com cartas, para levarem as vossas dádivas a Jerusalém, aqueles que aprovardes.
+
+[[v46-16-4]]
+
+^<<v46-16-4,4>>^ Se convier que eu também vá, eles irão comigo.
+
+[[v46-16-5]]
+
+^<<v46-16-5,5>>^ Irei ter convosco por ocasião da minha passagem pela Macedônia, porque devo percorrer a Macedônia.
+
+[[v46-16-6]]
+
+^<<v46-16-6,6>>^ E bem pode ser que convosco me demore ou mesmo passe o inverno, para que me encaminheis nas viagens que eu tenha de fazer.
+
+[[v46-16-7]]
+
+^<<v46-16-7,7>>^ Porque não quero, agora, ver-vos apenas de passagem, pois espero permanecer convosco algum tempo, se o Senhor o permitir.
+
+[[v46-16-8]]
+
+^<<v46-16-8,8>>^ Ficarei, porém, em Éfeso até ao Pentecostes;
+
+[[v46-16-9]]
+
+^<<v46-16-9,9>>^ porque uma porta grande e oportuna para o trabalho se me abriu; e há muitos adversários.
+
+[[v46-16-10]]
+
+^<<v46-16-10,10>>^ E, se Timóteo for, vede que esteja sem receio entre vós, porque trabalha na obra do Senhor, como também eu;
+
+[[v46-16-11]]
+
+^<<v46-16-11,11>>^ ninguém, pois, o despreze. Mas encaminhai-o em paz, para que venha ter comigo, visto que o espero com os irmãos.
+
+[[v46-16-12]]
+
+^<<v46-16-12,12>>^ Acerca do irmão Apolo, muito lhe tenho recomendado que fosse ter convosco em companhia dos irmãos, mas de modo algum era a vontade dele ir agora; irá, porém, quando se lhe deparar boa oportunidade.
+
+[[v46-16-13]]
+
+^<<v46-16-13,13>>^ Sede vigilantes, permanecei firmes na fé, portai-vos varonilmente, fortalecei-vos.
+
+[[v46-16-14]]
+
+^<<v46-16-14,14>>^ Todos os vossos atos sejam feitos com amor.
+
+[[v46-16-15]]
+
+^<<v46-16-15,15>>^ E agora, irmãos, eu vos peço o seguinte (sabeis que a casa de Estéfanas são as primícias da Acaia e que se consagraram ao serviço dos santos):
+
+[[v46-16-16]]
+
+^<<v46-16-16,16>>^ que também vos sujeiteis a esses tais, como também a todo aquele que é cooperador e obreiro.
+
+[[v46-16-17]]
+
+^<<v46-16-17,17>>^ Alegro-me com a vinda de Estéfanas, e de Fortunato, e de Acaico; porque estes supriram o que da vossa parte faltava.
+
+[[v46-16-18]]
+
+^<<v46-16-18,18>>^ Porque trouxeram refrigério ao meu espírito e ao vosso. Reconhecei, pois, a homens como estes.
+
+[[v46-16-19]]
+
+^<<v46-16-19,19>>^ As igrejas da Ásia vos saúdam. No Senhor, muito vos saúdam Áquila e Priscila e, bem assim, a igreja que está na casa deles.
+
+[[v46-16-20]]
+
+^<<v46-16-20,20>>^ Todos os irmãos vos saúdam. Saudai-vos uns aos outros com ósculo santo.
+
+[[v46-16-21]]
+
+^<<v46-16-21,21>>^ A saudação, escrevo-a eu, Paulo, de próprio punho.
+
+[[v46-16-22]]
+
+^<<v46-16-22,22>>^ Se alguém não ama o Senhor, seja anátema. Maranata!
+
+[[v46-16-23]]
+
+^<<v46-16-23,23>>^ A graça do Senhor Jesus seja convosco.
+
+[[v46-16-24]]
+
+^<<v46-16-24,24>>^ O meu amor seja com todos vós, em Cristo Jesus.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-015.adoc#v46-15-0[&#60; Capítulo Anterior] | <<v46-16-0,Topo>> | xref:047-2-corintios/047-2-corintios-001.adoc#v47-1-0[Próximo Capítulo &#62;]

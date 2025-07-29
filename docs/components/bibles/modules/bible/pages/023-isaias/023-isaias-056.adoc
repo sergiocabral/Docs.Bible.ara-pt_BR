@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v23-56-0]]
+=== Isaías, 56
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v23-56-1]]
+
+^<<v23-56-1,1>>^ Assim diz o SENHOR: Mantende o juízo e fazei justiça, porque a minha salvação está prestes a vir, e a minha justiça, prestes a manifestar-se.
+
+[[v23-56-2]]
+
+^<<v23-56-2,2>>^ Bem-aventurado o homem que faz isto, e o filho do homem que nisto se firma, que se guarda de profanar o sábado e guarda a sua mão de cometer algum mal.
+
+[[v23-56-3]]
+
+^<<v23-56-3,3>>^ Não fale o estrangeiro que se houver chegado ao SENHOR, dizendo: O SENHOR, com efeito, me separará do seu povo; nem tampouco diga o eunuco: Eis que eu sou uma árvore seca.
+
+[[v23-56-4]]
+
+^<<v23-56-4,4>>^ Porque assim diz o SENHOR: Aos eunucos que guardam os meus sábados, escolhem aquilo que me agrada e abraçam a minha aliança,
+
+[[v23-56-5]]
+
+^<<v23-56-5,5>>^ darei na minha casa e dentro dos meus muros, um memorial e um nome melhor do que filhos e filhas; um nome eterno darei a cada um deles, que nunca se apagará.
+
+[[v23-56-6]]
+
+^<<v23-56-6,6>>^ Aos estrangeiros que se chegam ao SENHOR, para o servirem e para amarem o nome do SENHOR, sendo deste modo servos seus, sim, todos os que guardam o sábado, não o profanando, e abraçam a minha aliança,
+
+[[v23-56-7]]
+
+^<<v23-56-7,7>>^ também os levarei ao meu santo monte e os alegrarei na minha Casa de Oração; os seus holocaustos e os seus sacrifícios serão aceitos no meu altar, porque a minha casa será chamada Casa de Oração para todos os povos.
+
+[[v23-56-8]]
+
+^<<v23-56-8,8>>^ Assim diz o SENHOR Deus, que congrega os dispersos de Israel: Ainda congregarei outros aos que já se acham reunidos.
+
+[[v23-56-9]]
+
+^<<v23-56-9,9>>^ Vós, todos os animais do campo, todas as feras dos bosques, vinde comer.
+
+[[v23-56-10]]
+
+^<<v23-56-10,10>>^ Os seus atalaias são cegos, nada sabem; todos são cães mudos, não podem ladrar; sonhadores preguiçosos, gostam de dormir.
+
+[[v23-56-11]]
+
+^<<v23-56-11,11>>^ Tais cães são gulosos, nunca se fartam; são pastores que nada compreendem, e todos se tornam para o seu caminho, cada um para a sua ganância, todos sem exceção.
+
+[[v23-56-12]]
+
+^<<v23-56-12,12>>^ Vinde, dizem eles, trarei vinho, e nos encharcaremos de bebida forte; o dia de amanhã será como este e ainda maior e mais famoso.
+
+'''
+
+xref:023-isaias/023-isaias-055.adoc#v23-55-0[&#60; Capítulo Anterior] | <<v23-56-0,Topo>> | xref:023-isaias/023-isaias-057.adoc#v23-57-0[Próximo Capítulo &#62;]

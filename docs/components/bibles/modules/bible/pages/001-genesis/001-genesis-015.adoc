@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v1-15-0]]
+=== Gênesis, 15
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v1-15-1]]
+
+^<<v1-15-1,1>>^ Depois destes acontecimentos, veio a palavra do SENHOR a Abrão, numa visão, e disse: Não temas, Abrão, eu sou o teu escudo, e teu galardão será sobremodo grande.
+
+[[v1-15-2]]
+
+^<<v1-15-2,2>>^ Respondeu Abrão: SENHOR Deus, que me haverás de dar, se continuo sem filhos e o herdeiro da minha casa é o damasceno Eliézer?
+
+[[v1-15-3]]
+
+^<<v1-15-3,3>>^ Disse mais Abrão: A mim não me concedeste descendência, e um servo nascido na minha casa será o meu herdeiro.
+
+[[v1-15-4]]
+
+^<<v1-15-4,4>>^ A isto respondeu logo o SENHOR, dizendo: Não será esse o teu herdeiro; mas aquele que será gerado de ti será o teu herdeiro.
+
+[[v1-15-5]]
+
+^<<v1-15-5,5>>^ Então, conduziu-o até fora e disse: Olha para os céus e conta as estrelas, se é que o podes. E lhe disse: Será assim a tua posteridade.
+
+[[v1-15-6]]
+
+^<<v1-15-6,6>>^ Ele creu no SENHOR, e isso lhe foi imputado para justiça.
+
+[[v1-15-7]]
+
+^<<v1-15-7,7>>^ Disse-lhe mais: Eu sou o SENHOR que te tirei de Ur dos caldeus, para dar-te por herança esta terra.
+
+[[v1-15-8]]
+
+^<<v1-15-8,8>>^ Perguntou-lhe Abrão: SENHOR Deus, como saberei que hei de possuí-la?
+
+[[v1-15-9]]
+
+^<<v1-15-9,9>>^ Respondeu-lhe: Toma-me uma novilha, uma cabra e um cordeiro, cada qual de três anos, uma rola e um pombinho.
+
+[[v1-15-10]]
+
+^<<v1-15-10,10>>^ Ele, tomando todos estes animais, partiu-os pelo meio e lhes pôs em ordem as metades, umas defronte das outras; e não partiu as aves.
+
+[[v1-15-11]]
+
+^<<v1-15-11,11>>^ Aves de rapina desciam sobre os cadáveres, porém Abrão as enxotava.
+
+[[v1-15-12]]
+
+^<<v1-15-12,12>>^ Ao pôr do sol, caiu profundo sono sobre Abrão, e grande pavor e cerradas trevas o acometeram;
+
+[[v1-15-13]]
+
+^<<v1-15-13,13>>^ então, lhe foi dito: Sabe, com certeza, que a tua posteridade será peregrina em terra alheia, e será reduzida à escravidão, e será afligida por quatrocentos anos.
+
+[[v1-15-14]]
+
+^<<v1-15-14,14>>^ Mas também eu julgarei a gente a que têm de sujeitar-se; e depois sairão com grandes riquezas.
+
+[[v1-15-15]]
+
+^<<v1-15-15,15>>^ E tu irás para os teus pais em paz; serás sepultado em ditosa velhice.
+
+[[v1-15-16]]
+
+^<<v1-15-16,16>>^ Na quarta geração, tornarão para aqui; porque não se encheu ainda a medida da iniquidade dos amorreus.
+
+[[v1-15-17]]
+
+^<<v1-15-17,17>>^ E sucedeu que, posto o sol, houve densas trevas; e eis um fogareiro fumegante e uma tocha de fogo que passou entre aqueles pedaços.
+
+[[v1-15-18]]
+
+^<<v1-15-18,18>>^ Naquele mesmo dia, fez o SENHOR aliança com Abrão, dizendo: À tua descendência dei esta terra, desde o rio do Egito até ao grande rio Eufrates:
+
+[[v1-15-19]]
+
+^<<v1-15-19,19>>^ o queneu, o quenezeu, o cadmoneu,
+
+[[v1-15-20]]
+
+^<<v1-15-20,20>>^ o heteu, o ferezeu, os refains,
+
+[[v1-15-21]]
+
+^<<v1-15-21,21>>^ o amorreu, o cananeu, o girgaseu e o jebuseu.
+
+'''
+
+xref:001-genesis/001-genesis-014.adoc#v1-14-0[&#60; Capítulo Anterior] | <<v1-15-0,Topo>> | xref:001-genesis/001-genesis-016.adoc#v1-16-0[Próximo Capítulo &#62;]

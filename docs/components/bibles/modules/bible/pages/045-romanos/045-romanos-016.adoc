@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v45-16-0]]
+=== Romanos, 16
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v45-16-1]]
+
+^<<v45-16-1,1>>^ Recomendo-vos a nossa irmã Febe, que está servindo à igreja de Cencreia,
+
+[[v45-16-2]]
+
+^<<v45-16-2,2>>^ para que a recebais no Senhor como convém aos santos e a ajudeis em tudo que de vós vier a precisar; porque tem sido protetora de muitos e de mim inclusive.
+
+[[v45-16-3]]
+
+^<<v45-16-3,3>>^ Saudai Priscila e Áquila, meus cooperadores em Cristo Jesus,
+
+[[v45-16-4]]
+
+^<<v45-16-4,4>>^ os quais pela minha vida arriscaram a sua própria cabeça; e isto lhes agradeço, não somente eu, mas também todas as igrejas dos gentios;
+
+[[v45-16-5]]
+
+^<<v45-16-5,5>>^ saudai igualmente a igreja que se reúne na casa deles. Saudai meu querido Epêneto, primícias da Ásia para Cristo.
+
+[[v45-16-6]]
+
+^<<v45-16-6,6>>^ Saudai Maria, que muito trabalhou por vós.
+
+[[v45-16-7]]
+
+^<<v45-16-7,7>>^ Saudai Andrônico e Júnias, meus parentes e companheiros de prisão, os quais são notáveis entre os apóstolos e estavam em Cristo antes de mim.
+
+[[v45-16-8]]
+
+^<<v45-16-8,8>>^ Saudai Amplíato, meu dileto amigo no Senhor.
+
+[[v45-16-9]]
+
+^<<v45-16-9,9>>^ Saudai Urbano, que é nosso cooperador em Cristo, e também meu amado Estáquis.
+
+[[v45-16-10]]
+
+^<<v45-16-10,10>>^ Saudai Apeles, aprovado em Cristo. Saudai os da casa de Aristóbulo.
+
+[[v45-16-11]]
+
+^<<v45-16-11,11>>^ Saudai meu parente Herodião. Saudai os da casa de Narciso, que estão no Senhor.
+
+[[v45-16-12]]
+
+^<<v45-16-12,12>>^ Saudai Trifena e Trifosa, as quais trabalhavam no Senhor. Saudai a estimada Pérside, que também muito trabalhou no Senhor.
+
+[[v45-16-13]]
+
+^<<v45-16-13,13>>^ Saudai Rufo, eleito no Senhor, e igualmente a sua mãe, que também tem sido mãe para mim.
+
+[[v45-16-14]]
+
+^<<v45-16-14,14>>^ Saudai Asíncrito, Flegonte, Hermes, Pátrobas, Hermas e os irmãos que se reúnem com eles.
+
+[[v45-16-15]]
+
+^<<v45-16-15,15>>^ Saudai Filólogo, Júlia, Nereu e sua irmã, Olimpas e todos os santos que se reúnem com eles.
+
+[[v45-16-16]]
+
+^<<v45-16-16,16>>^ Saudai-vos uns aos outros com ósculo santo. Todas as igrejas de Cristo vos saúdam.
+
+[[v45-16-17]]
+
+^<<v45-16-17,17>>^ Rogo-vos, irmãos, que noteis bem aqueles que provocam divisões e escândalos, em desacordo com a doutrina que aprendestes; afastai-vos deles,
+
+[[v45-16-18]]
+
+^<<v45-16-18,18>>^ porque esses tais não servem a Cristo, nosso Senhor, e sim a seu próprio ventre; e, com suaves palavras e lisonjas, enganam o coração dos incautos.
+
+[[v45-16-19]]
+
+^<<v45-16-19,19>>^ Pois a vossa obediência é conhecida por todos; por isso, me alegro a vosso respeito; e quero que sejais sábios para o bem e símplices para o mal.
+
+[[v45-16-20]]
+
+^<<v45-16-20,20>>^ E o Deus da paz, em breve, esmagará debaixo dos vossos pés a Satanás. A graça de nosso Senhor Jesus seja convosco.
+
+[[v45-16-21]]
+
+^<<v45-16-21,21>>^ Saúda-vos Timóteo, meu cooperador, e Lúcio, Jasom e Sosípatro, meus parentes.
+
+[[v45-16-22]]
+
+^<<v45-16-22,22>>^ Eu, Tércio, que escrevi esta epístola, vos saúdo no Senhor.
+
+[[v45-16-23]]
+
+^<<v45-16-23,23>>^ Saúda-vos Gaio, meu hospedeiro e de toda a igreja. Saúda-vos Erasto, tesoureiro da cidade, e o irmão Quarto.
+
+[[v45-16-24]]
+
+^<<v45-16-24,24>>^ [A graça de nosso Senhor Jesus Cristo seja com todos vós. Amém!]
+
+[[v45-16-25]]
+
+^<<v45-16-25,25>>^ Ora, àquele que é poderoso para vos confirmar segundo o meu evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério guardado em silêncio nos tempos eternos,
+
+[[v45-16-26]]
+
+^<<v45-16-26,26>>^ e que, agora, se tornou manifesto e foi dado a conhecer por meio das Escrituras proféticas, segundo o mandamento do Deus eterno, para a obediência por fé, entre todas as nações,
+
+[[v45-16-27]]
+
+^<<v45-16-27,27>>^ ao Deus único e sábio seja dada glória, por meio de Jesus Cristo, pelos séculos dos séculos. Amém!
+
+'''
+
+xref:045-romanos/045-romanos-015.adoc#v45-15-0[&#60; Capítulo Anterior] | <<v45-16-0,Topo>> | xref:046-1-corintios/046-1-corintios-001.adoc#v46-1-0[Próximo Capítulo &#62;]

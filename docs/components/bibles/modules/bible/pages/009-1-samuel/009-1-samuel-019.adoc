@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v9-19-0]]
+=== 1 Samuel, 19
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v9-19-1]]
+
+^<<v9-19-1,1>>^ Falou Saul a Jônatas, seu filho, e a todos os servos sobre matar Davi. Jônatas, filho de Saul, mui afeiçoado a Davi,
+
+[[v9-19-2]]
+
+^<<v9-19-2,2>>^ o fez saber a este, dizendo: Meu pai, Saul, procura matar-te; acautela-te, pois, pela manhã, fica num lugar oculto e esconde-te.
+
+[[v9-19-3]]
+
+^<<v9-19-3,3>>^ Eu sairei e estarei ao lado de meu pai no campo onde estás; falarei a teu respeito a meu pai, e verei o que houver, e te farei saber.
+
+[[v9-19-4]]
+
+^<<v9-19-4,4>>^ Então, Jônatas falou bem de Davi a Saul, seu pai, e lhe disse: Não peque o rei contra seu servo Davi, porque ele não pecou contra ti, e os seus feitos para contigo têm sido mui importantes.
+
+[[v9-19-5]]
+
+^<<v9-19-5,5>>^ Arriscando ele a vida, feriu os filisteus e efetuou o SENHOR grande livramento a todo o Israel; tu mesmo o viste e te alegraste; por que, pois, pecarias contra sangue inocente, matando Davi sem causa?
+
+[[v9-19-6]]
+
+^<<v9-19-6,6>>^ Saul atendeu à voz de Jônatas e jurou: Tão certo como vive o SENHOR, ele não morrerá.
+
+[[v9-19-7]]
+
+^<<v9-19-7,7>>^ Jônatas chamou a Davi, contou-lhe todas estas palavras e o levou a Saul; e esteve Davi perante este como dantes.
+
+[[v9-19-8]]
+
+^<<v9-19-8,8>>^ Tornou a haver guerra, e, quando Davi pelejou contra os filisteus e os feriu com grande derrota, e fugiram diante dele,
+
+[[v9-19-9]]
+
+^<<v9-19-9,9>>^ o espírito maligno, da parte do SENHOR, tornou sobre Saul; estava este assentado em sua casa e tinha na mão a sua lança, enquanto Davi dedilhava o seu instrumento músico.
+
+[[v9-19-10]]
+
+^<<v9-19-10,10>>^ Procurou Saul encravar a Davi na parede, porém ele se desviou do seu golpe, indo a lança ferir a parede; então, fugiu Davi e escapou.
+
+[[v9-19-11]]
+
+^<<v9-19-11,11>>^ Porém Saul, naquela mesma noite, mandou mensageiros à casa de Davi, que o vigiassem, para ele o matar pela manhã; disto soube Davi por Mical, sua mulher, que lhe disse: Se não salvares a tua vida esta noite, amanhã serás morto.
+
+[[v9-19-12]]
+
+^<<v9-19-12,12>>^ Então, Mical desceu Davi por uma janela; e ele se foi, fugiu e escapou.
+
+[[v9-19-13]]
+
+^<<v9-19-13,13>>^ Mical tomou um ídolo do lar, e o deitou na cama, e pôs-lhe à cabeça um tecido de pelos de cabra, e o cobriu com um manto.
+
+[[v9-19-14]]
+
+^<<v9-19-14,14>>^ Tendo Saul enviado mensageiros que trouxessem Davi, ela disse: Está doente.
+
+[[v9-19-15]]
+
+^<<v9-19-15,15>>^ Então, Saul mandou mensageiros que vissem Davi, ordenando-lhes: Trazei-mo mesmo na cama, para que o mate.
+
+[[v9-19-16]]
+
+^<<v9-19-16,16>>^ Vindo, pois, os mensageiros, eis que estava na cama o ídolo do lar, e o tecido de pelos de cabra, ao redor de sua cabeça.
+
+[[v9-19-17]]
+
+^<<v9-19-17,17>>^ Então, disse Saul a Mical: Por que assim me enganaste e deixaste ir e escapar o meu inimigo? Respondeu-lhe Mical: Porque ele me disse: Deixa-me ir; se não, eu te mato.
+
+[[v9-19-18]]
+
+^<<v9-19-18,18>>^ Assim, Davi fugiu, e escapou, e veio a Samuel, a Ramá, e lhe contou tudo quanto Saul lhe fizera; e se retiraram, ele e Samuel, e ficaram na casa dos profetas.
+
+[[v9-19-19]]
+
+^<<v9-19-19,19>>^ Foi dito a Saul: Eis que Davi está na casa dos profetas, em Ramá.
+
+[[v9-19-20]]
+
+^<<v9-19-20,20>>^ Então, enviou Saul mensageiros para trazerem Davi, os quais viram um grupo de profetas profetizando, onde estava Samuel, que lhes presidia; e o Espírito de Deus veio sobre os mensageiros de Saul, e também eles profetizaram.
+
+[[v9-19-21]]
+
+^<<v9-19-21,21>>^ Avisado disto, Saul enviou outros mensageiros, e também estes profetizaram; então, enviou Saul ainda uns terceiros, os quais também profetizaram.
+
+[[v9-19-22]]
+
+^<<v9-19-22,22>>^ Então, foi também ele mesmo a Ramá e, chegando ao poço grande que estava em Seco, perguntou: Onde estão Samuel e Davi? Responderam-lhe: Eis que estão na casa dos profetas, em Ramá.
+
+[[v9-19-23]]
+
+^<<v9-19-23,23>>^ Então, foi para a casa dos profetas, em Ramá; e o mesmo Espírito de Deus veio sobre ele, que, caminhando, profetizava até chegar à casa dos profetas, em Ramá.
+
+[[v9-19-24]]
+
+^<<v9-19-24,24>>^ Também ele despiu a sua túnica, e profetizou diante de Samuel, e, sem ela, esteve deitado em terra todo aquele dia e toda aquela noite; pelo que se diz: Está também Saul entre os profetas?
+
+'''
+
+xref:009-1-samuel/009-1-samuel-018.adoc#v9-18-0[&#60; Capítulo Anterior] | <<v9-19-0,Topo>> | xref:009-1-samuel/009-1-samuel-020.adoc#v9-20-0[Próximo Capítulo &#62;]

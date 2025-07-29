@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v6-16-0]]
+=== Josué, 16
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v6-16-1]]
+
+^<<v6-16-1,1>>^ O território que, em sorte, caiu aos filhos de José, começando no Jordão, na altura de Jericó e no lado oriental das águas de Jericó, vai ao deserto que sobe de Jericó pela região montanhosa até Betel.
+
+[[v6-16-2]]
+
+^<<v6-16-2,2>>^ De Betel sai para Luz, passa ao limite dos arquitas até Atarote
+
+[[v6-16-3]]
+
+^<<v6-16-3,3>>^ e desce, rumo ao ocidente, ao limite de Jaflete, até ao limite de Bete-Horom de baixo e até Gezer, terminando no mar.
+
+[[v6-16-4]]
+
+^<<v6-16-4,4>>^ Assim, alcançaram a sua herança os filhos de José, Manassés e Efraim.
+
+[[v6-16-5]]
+
+^<<v6-16-5,5>>^ Foi o limite da herança dos filhos de Efraim, segundo as suas famílias, no oriente, Atarote-Adar até Bete-Horom de cima;
+
+[[v6-16-6]]
+
+^<<v6-16-6,6>>^ e vai o limite para o mar com Micmetate, ao norte, de onde torna para o oriente até Taanate-Siló, e passa por ela ao oriente de Janoa;
+
+[[v6-16-7]]
+
+^<<v6-16-7,7>>^ desce desde Janoa a Atarote e a Naarate, toca em Jericó, terminando no Jordão.
+
+[[v6-16-8]]
+
+^<<v6-16-8,8>>^ De Tapua vai o limite, para o ocidente, ao ribeiro de Caná, terminando no mar; esta é a herança da tribo dos filhos de Efraim, segundo as suas famílias,
+
+[[v6-16-9]]
+
+^<<v6-16-9,9>>^ mais as cidades que se separaram para os filhos de Efraim, que estavam no meio da herança dos filhos de Manassés; todas aquelas cidades com suas aldeias.
+
+[[v6-16-10]]
+
+^<<v6-16-10,10>>^ Não expulsaram aos cananeus que habitavam em Gezer; assim, habitam eles no meio dos efraimitas até ao dia de hoje; porém sujeitos a trabalhos forçados.
+
+'''
+
+xref:006-josue/006-josue-015.adoc#v6-15-0[&#60; Capítulo Anterior] | <<v6-16-0,Topo>> | xref:006-josue/006-josue-017.adoc#v6-17-0[Próximo Capítulo &#62;]

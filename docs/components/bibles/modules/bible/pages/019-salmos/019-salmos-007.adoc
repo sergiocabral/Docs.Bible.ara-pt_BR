@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-7-0]]
+=== Salmos, 7
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v19-7-1]]
+
+^<<v19-7-1,1>>^ SENHOR, Deus meu, em ti me refugio; salva-me de todos os que me perseguem e livra-me;
+
+[[v19-7-2]]
+
+^<<v19-7-2,2>>^ para que ninguém, como leão, me arrebate, despedaçando-me, não havendo quem me livre.
+
+[[v19-7-3]]
+
+^<<v19-7-3,3>>^ SENHOR, meu Deus, se eu fiz o de que me culpam, se nas minhas mãos há iniquidade,
+
+[[v19-7-4]]
+
+^<<v19-7-4,4>>^ se paguei com o mal a quem estava em paz comigo, eu, que poupei aquele que sem razão me oprimia,
+
+[[v19-7-5]]
+
+^<<v19-7-5,5>>^ persiga o inimigo a minha alma e alcance-a, espezinhe no chão a minha vida e arraste no pó a minha glória.
+
+[[v19-7-6]]
+
+^<<v19-7-6,6>>^ Levanta-te, SENHOR, na tua indignação, mostra a tua grandeza contra a fúria dos meus adversários e desperta-te em meu favor, segundo o juízo que designaste.
+
+[[v19-7-7]]
+
+^<<v19-7-7,7>>^ Reúnam-se ao redor de ti os povos, e por sobre eles remonta-te às alturas.
+
+[[v19-7-8]]
+
+^<<v19-7-8,8>>^ O SENHOR julga os povos; julga-me, SENHOR, segundo a minha retidão e segundo a integridade que há em mim.
+
+[[v19-7-9]]
+
+^<<v19-7-9,9>>^ Cesse a malícia dos ímpios, mas estabelece tu o justo; pois sondas a mente e o coração, ó justo Deus.
+
+[[v19-7-10]]
+
+^<<v19-7-10,10>>^ Deus é o meu escudo; ele salva os retos de coração.
+
+[[v19-7-11]]
+
+^<<v19-7-11,11>>^ Deus é justo juiz, Deus que sente indignação todos os dias.
+
+[[v19-7-12]]
+
+^<<v19-7-12,12>>^ Se o homem não se converter, afiará Deus a sua espada; já armou o arco, tem-no pronto;
+
+[[v19-7-13]]
+
+^<<v19-7-13,13>>^ para ele preparou já instrumentos de morte, preparou suas setas inflamadas.
+
+[[v19-7-14]]
+
+^<<v19-7-14,14>>^ Eis que o ímpio está com dores de iniquidade; concebeu a malícia e dá à luz a mentira.
+
+[[v19-7-15]]
+
+^<<v19-7-15,15>>^ Abre, e aprofunda uma cova, e cai nesse mesmo poço que faz.
+
+[[v19-7-16]]
+
+^<<v19-7-16,16>>^ A sua malícia lhe recai sobre a cabeça, e sobre a própria mioleira desce a sua violência.
+
+[[v19-7-17]]
+
+^<<v19-7-17,17>>^ Eu, porém, renderei graças ao SENHOR, segundo a sua justiça, e cantarei louvores ao nome do SENHOR Altíssimo.
+
+'''
+
+xref:019-salmos/019-salmos-006.adoc#v19-6-0[&#60; Capítulo Anterior] | <<v19-7-0,Topo>> | xref:019-salmos/019-salmos-008.adoc#v19-8-0[Próximo Capítulo &#62;]

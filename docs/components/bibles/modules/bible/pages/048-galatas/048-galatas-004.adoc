@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v48-4-0]]
+=== Gálatas, 4
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v48-4-1]]
+
+^<<v48-4-1,1>>^ Digo, pois, que, durante o tempo em que o herdeiro é menor, em nada difere de escravo, posto que é ele senhor de tudo.
+
+[[v48-4-2]]
+
+^<<v48-4-2,2>>^ Mas está sob tutores e curadores até ao tempo predeterminado pelo pai.
+
+[[v48-4-3]]
+
+^<<v48-4-3,3>>^ Assim, também nós, quando éramos menores, estávamos servilmente sujeitos aos rudimentos do mundo;
+
+[[v48-4-4]]
+
+^<<v48-4-4,4>>^ vindo, porém, a plenitude do tempo, Deus enviou seu Filho, nascido de mulher, nascido sob a lei,
+
+[[v48-4-5]]
+
+^<<v48-4-5,5>>^ para resgatar os que estavam sob a lei, a fim de que recebêssemos a adoção de filhos.
+
+[[v48-4-6]]
+
+^<<v48-4-6,6>>^ E, porque vós sois filhos, enviou Deus ao nosso coração o Espírito de seu Filho, que clama: Aba, Pai!
+
+[[v48-4-7]]
+
+^<<v48-4-7,7>>^ De sorte que já não és escravo, porém filho; e, sendo filho, também herdeiro por Deus.
+
+[[v48-4-8]]
+
+^<<v48-4-8,8>>^ Outrora, porém, não conhecendo a Deus, servíeis a deuses que, por natureza, não o são;
+
+[[v48-4-9]]
+
+^<<v48-4-9,9>>^ mas agora que conheceis a Deus ou, antes, sendo conhecidos por Deus, como estais voltando, outra vez, aos rudimentos fracos e pobres, aos quais, de novo, quereis ainda escravizar-vos?
+
+[[v48-4-10]]
+
+^<<v48-4-10,10>>^ Guardais dias, e meses, e tempos, e anos.
+
+[[v48-4-11]]
+
+^<<v48-4-11,11>>^ Receio de vós tenha eu trabalhado em vão para convosco.
+
+[[v48-4-12]]
+
+^<<v48-4-12,12>>^ Sede qual eu sou; pois também eu sou como vós. Irmãos, assim vos suplico. Em nada me ofendestes.
+
+[[v48-4-13]]
+
+^<<v48-4-13,13>>^ E vós sabeis que vos preguei o evangelho a primeira vez por causa de uma enfermidade física.
+
+[[v48-4-14]]
+
+^<<v48-4-14,14>>^ E, posto que a minha enfermidade na carne vos foi uma tentação, contudo, não me revelastes desprezo nem desgosto; antes, me recebestes como anjo de Deus, como o próprio Cristo Jesus.
+
+[[v48-4-15]]
+
+^<<v48-4-15,15>>^ Que é feito, pois, da vossa exultação? Pois vos dou testemunho de que, se possível fora, teríeis arrancado os próprios olhos para mos dar.
+
+[[v48-4-16]]
+
+^<<v48-4-16,16>>^ Tornei-me, porventura, vosso inimigo, por vos dizer a verdade?
+
+[[v48-4-17]]
+
+^<<v48-4-17,17>>^ Os que vos obsequiam não o fazem sinceramente, mas querem afastar-vos de mim, para que o vosso zelo seja em favor deles.
+
+[[v48-4-18]]
+
+^<<v48-4-18,18>>^ É bom ser sempre zeloso pelo bem e não apenas quando estou presente convosco,
+
+[[v48-4-19]]
+
+^<<v48-4-19,19>>^ meus filhos, por quem, de novo, sofro as dores de parto, até ser Cristo formado em vós;
+
+[[v48-4-20]]
+
+^<<v48-4-20,20>>^ pudera eu estar presente, agora, convosco e falar-vos em outro tom de voz; porque me vejo perplexo a vosso respeito.
+
+[[v48-4-21]]
+
+^<<v48-4-21,21>>^ Dizei-me vós, os que quereis estar sob a lei: acaso, não ouvis a lei?
+
+[[v48-4-22]]
+
+^<<v48-4-22,22>>^ Pois está escrito que Abraão teve dois filhos, um da mulher escrava e outro da livre.
+
+[[v48-4-23]]
+
+^<<v48-4-23,23>>^ Mas o da escrava nasceu segundo a carne; o da livre, mediante a promessa.
+
+[[v48-4-24]]
+
+^<<v48-4-24,24>>^ Estas coisas são alegóricas; porque estas mulheres são duas alianças; uma, na verdade, se refere ao monte Sinai, que gera para escravidão; esta é Agar.
+
+[[v48-4-25]]
+
+^<<v48-4-25,25>>^ Ora, Agar é o monte Sinai, na Arábia, e corresponde à Jerusalém atual, que está em escravidão com seus filhos.
+
+[[v48-4-26]]
+
+^<<v48-4-26,26>>^ Mas a Jerusalém lá de cima é livre, a qual é nossa mãe;
+
+[[v48-4-27]]
+
+^<<v48-4-27,27>>^ porque está escrito: Alegra-te, ó estéril, que não dás à luz, exulta e clama, tu que não estás de parto; porque são mais numerosos os filhos da abandonada que os da que tem marido.
+
+[[v48-4-28]]
+
+^<<v48-4-28,28>>^ Vós, porém, irmãos, sois filhos da promessa, como Isaque.
+
+[[v48-4-29]]
+
+^<<v48-4-29,29>>^ Como, porém, outrora, o que nascera segundo a carne perseguia ao que nasceu segundo o Espírito, assim também agora.
+
+[[v48-4-30]]
+
+^<<v48-4-30,30>>^ Contudo, que diz a Escritura? Lança fora a escrava e seu filho, porque de modo algum o filho da escrava será herdeiro com o filho da livre.
+
+[[v48-4-31]]
+
+^<<v48-4-31,31>>^ E, assim, irmãos, somos filhos não da escrava, e sim da livre.
+
+'''
+
+xref:048-galatas/048-galatas-003.adoc#v48-3-0[&#60; Capítulo Anterior] | <<v48-4-0,Topo>> | xref:048-galatas/048-galatas-005.adoc#v48-5-0[Próximo Capítulo &#62;]

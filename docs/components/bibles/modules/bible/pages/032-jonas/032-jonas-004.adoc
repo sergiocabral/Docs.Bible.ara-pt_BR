@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v32-4-0]]
+=== Jonas, 4
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v32-4-1]]
+
+^<<v32-4-1,1>>^ Com isso, desgostou-se Jonas extremamente e ficou irado.
+
+[[v32-4-2]]
+
+^<<v32-4-2,2>>^ E orou ao SENHOR e disse: Ah! SENHOR! Não foi isso o que eu disse, estando ainda na minha terra? Por isso, me adiantei, fugindo para Társis, pois sabia que és Deus clemente, e misericordioso, e tardio em irar-se, e grande em benignidade, e que te arrependes do mal.
+
+[[v32-4-3]]
+
+^<<v32-4-3,3>>^ Peço-te, pois, ó SENHOR, tira-me a vida, porque melhor me é morrer do que viver.
+
+[[v32-4-4]]
+
+^<<v32-4-4,4>>^ E disse o SENHOR: É razoável essa tua ira?
+
+[[v32-4-5]]
+
+^<<v32-4-5,5>>^ Então, Jonas saiu da cidade, e assentou-se ao oriente da mesma, e ali fez uma enramada, e repousou debaixo dela, à sombra, até ver o que aconteceria à cidade.
+
+[[v32-4-6]]
+
+^<<v32-4-6,6>>^ Então, fez o SENHOR Deus nascer uma planta, que subiu por cima de Jonas, para que fizesse sombra sobre a sua cabeça, a fim de o livrar do seu desconforto. Jonas, pois, se alegrou em extremo por causa da planta.
+
+[[v32-4-7]]
+
+^<<v32-4-7,7>>^ Mas Deus, no dia seguinte, ao subir da alva, enviou um verme, o qual feriu a planta, e esta se secou.
+
+[[v32-4-8]]
+
+^<<v32-4-8,8>>^ Em nascendo o sol, Deus mandou um vento calmoso oriental; o sol bateu na cabeça de Jonas, de maneira que desfalecia, pelo que pediu para si a morte, dizendo: Melhor me é morrer do que viver!
+
+[[v32-4-9]]
+
+^<<v32-4-9,9>>^ Então, perguntou Deus a Jonas: É razoável essa tua ira por causa da planta? Ele respondeu: É razoável a minha ira até à morte.
+
+[[v32-4-10]]
+
+^<<v32-4-10,10>>^ Tornou o SENHOR: Tens compaixão da planta que te não custou trabalho, a qual não fizeste crescer, que numa noite nasceu e numa noite pereceu;
+
+[[v32-4-11]]
+
+^<<v32-4-11,11>>^ e não hei de eu ter compaixão da grande cidade de Nínive, em que há mais de cento e vinte mil pessoas, que não sabem discernir entre a mão direita e a mão esquerda, e também muitos animais?
+
+'''
+
+xref:032-jonas/032-jonas-003.adoc#v32-3-0[&#60; Capítulo Anterior] | <<v32-4-0,Topo>> | xref:033-miqueias/033-miqueias-001.adoc#v33-1-0[Próximo Capítulo &#62;]

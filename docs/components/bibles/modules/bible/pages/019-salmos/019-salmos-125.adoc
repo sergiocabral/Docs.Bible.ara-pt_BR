@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v19-125-0]]
+=== Salmos, 125
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v19-125-1]]
+
+^<<v19-125-1,1>>^ Os que confiam no SENHOR são como o monte Sião, que não se abala, firme para sempre.
+
+[[v19-125-2]]
+
+^<<v19-125-2,2>>^ Como em redor de Jerusalém estão os montes, assim o SENHOR, em derredor do seu povo, desde agora e para sempre.
+
+[[v19-125-3]]
+
+^<<v19-125-3,3>>^ O cetro dos ímpios não permanecerá sobre a sorte dos justos, para que o justo não estenda a mão à iniquidade.
+
+[[v19-125-4]]
+
+^<<v19-125-4,4>>^ Faze o bem, SENHOR, aos bons e aos retos de coração.
+
+[[v19-125-5]]
+
+^<<v19-125-5,5>>^ Quanto aos que se desviam para sendas tortuosas, levá-los-á o SENHOR juntamente com os malfeitores. Paz sobre Israel!
+
+'''
+
+xref:019-salmos/019-salmos-124.adoc#v19-124-0[&#60; Capítulo Anterior] | <<v19-125-0,Topo>> | xref:019-salmos/019-salmos-126.adoc#v19-126-0[Próximo Capítulo &#62;]

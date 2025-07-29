@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v60-5-0]]
+=== 1 Pedro, 5
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v60-5-1]]
+
+^<<v60-5-1,1>>^ Rogo, pois, aos presbíteros que há entre vós, eu, presbítero como eles, e testemunha dos sofrimentos de Cristo, e ainda coparticipante da glória que há de ser revelada:
+
+[[v60-5-2]]
+
+^<<v60-5-2,2>>^ pastoreai o rebanho de Deus que há entre vós, não por constrangimento, mas espontaneamente, como Deus quer; nem por sórdida ganância, mas de boa vontade;
+
+[[v60-5-3]]
+
+^<<v60-5-3,3>>^ nem como dominadores dos que vos foram confiados, antes, tornando-vos modelos do rebanho.
+
+[[v60-5-4]]
+
+^<<v60-5-4,4>>^ Ora, logo que o Supremo Pastor se manifestar, recebereis a imarcescível coroa da glória.
+
+[[v60-5-5]]
+
+^<<v60-5-5,5>>^ Rogo igualmente aos jovens: sede submissos aos que são mais velhos; outrossim, no trato de uns com os outros, cingi-vos todos de humildade, porque Deus resiste aos soberbos, contudo, aos humildes concede a sua graça.
+
+[[v60-5-6]]
+
+^<<v60-5-6,6>>^ Humilhai-vos, portanto, sob a poderosa mão de Deus, para que ele, em tempo oportuno, vos exalte,
+
+[[v60-5-7]]
+
+^<<v60-5-7,7>>^ lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.
+
+[[v60-5-8]]
+
+^<<v60-5-8,8>>^ Sede sóbrios e vigilantes. O diabo, vosso adversário, anda em derredor, como leão que ruge procurando alguém para devorar;
+
+[[v60-5-9]]
+
+^<<v60-5-9,9>>^ resisti-lhe firmes na fé, certos de que sofrimentos iguais aos vossos estão-se cumprindo na vossa irmandade espalhada pelo mundo.
+
+[[v60-5-10]]
+
+^<<v60-5-10,10>>^ Ora, o Deus de toda a graça, que em Cristo vos chamou à sua eterna glória, depois de terdes sofrido por um pouco, ele mesmo vos há de aperfeiçoar, firmar, fortificar e fundamentar.
+
+[[v60-5-11]]
+
+^<<v60-5-11,11>>^ A ele seja o domínio, pelos séculos dos séculos. Amém!
+
+[[v60-5-12]]
+
+^<<v60-5-12,12>>^ Por meio de Silvano, que para vós outros é fiel irmão, como também o considero, vos escrevo resumidamente, exortando e testificando, de novo, que esta é a genuína graça de Deus; nela estai firmes.
+
+[[v60-5-13]]
+
+^<<v60-5-13,13>>^ Aquela que se encontra em Babilônia, também eleita, vos saúda, como igualmente meu filho Marcos.
+
+[[v60-5-14]]
+
+^<<v60-5-14,14>>^ Saudai-vos uns aos outros com ósculo de amor. Paz a todos vós que vos achais em Cristo.
+
+'''
+
+xref:060-1-pedro/060-1-pedro-004.adoc#v60-4-0[&#60; Capítulo Anterior] | <<v60-5-0,Topo>> | xref:061-2-pedro/061-2-pedro-001.adoc#v61-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v42-17-0]]
+=== Lucas, 17
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v42-17-1]]
+
+^<<v42-17-1,1>>^ Disse Jesus a seus discípulos: É inevitável que venham escândalos, mas ai do homem pelo qual eles vêm!
+
+[[v42-17-2]]
+
+^<<v42-17-2,2>>^ Melhor fora que se lhe pendurasse ao pescoço uma pedra de moinho, e fosse atirado no mar, do que fazer tropeçar a um destes pequeninos.
+
+[[v42-17-3]]
+
+^<<v42-17-3,3>>^ Acautelai-vos. Se teu irmão pecar contra ti, repreende-o; se ele se arrepender, perdoa-lhe.
+
+[[v42-17-4]]
+
+^<<v42-17-4,4>>^ Se, por sete vezes no dia, pecar contra ti e, sete vezes, vier ter contigo, dizendo: Estou arrependido, perdoa-lhe.
+
+[[v42-17-5]]
+
+^<<v42-17-5,5>>^ Então, disseram os apóstolos ao Senhor: Aumenta-nos a fé.
+
+[[v42-17-6]]
+
+^<<v42-17-6,6>>^ Respondeu-lhes o Senhor: Se tiverdes fé como um grão de mostarda, direis a esta amoreira: Arranca-te e transplanta-te no mar; e ela vos obedecerá.
+
+[[v42-17-7]]
+
+^<<v42-17-7,7>>^ Qual de vós, tendo um servo ocupado na lavoura ou em guardar o gado, lhe dirá quando ele voltar do campo: Vem já e põe-te à mesa?
+
+[[v42-17-8]]
+
+^<<v42-17-8,8>>^ E que, antes, não lhe diga: Prepara-me a ceia, cinge-te e serve-me, enquanto eu como e bebo; depois, comerás tu e beberás?
+
+[[v42-17-9]]
+
+^<<v42-17-9,9>>^ Porventura, terá de agradecer ao servo porque este fez o que lhe havia ordenado?
+
+[[v42-17-10]]
+
+^<<v42-17-10,10>>^ Assim também vós, depois de haverdes feito quanto vos foi ordenado, dizei: Somos servos inúteis, porque fizemos apenas o que devíamos fazer.
+
+[[v42-17-11]]
+
+^<<v42-17-11,11>>^ De caminho para Jerusalém, passava Jesus pelo meio de Samaria e da Galileia.
+
+[[v42-17-12]]
+
+^<<v42-17-12,12>>^ Ao entrar numa aldeia, saíram-lhe ao encontro dez leprosos,
+
+[[v42-17-13]]
+
+^<<v42-17-13,13>>^ que ficaram de longe e lhe gritaram, dizendo: Jesus, Mestre, compadece-te de nós!
+
+[[v42-17-14]]
+
+^<<v42-17-14,14>>^ Ao vê-los, disse-lhes Jesus: Ide e mostrai-vos aos sacerdotes.  Aconteceu que, indo eles, foram purificados.
+
+[[v42-17-15]]
+
+^<<v42-17-15,15>>^ Um dos dez, vendo que fora curado, voltou, dando glória a Deus em alta voz,
+
+[[v42-17-16]]
+
+^<<v42-17-16,16>>^ e prostrou-se com o rosto em terra aos pés de Jesus, agradecendo-lhe; e este era samaritano.
+
+[[v42-17-17]]
+
+^<<v42-17-17,17>>^ Então, Jesus lhe perguntou: Não eram dez os que foram curados? Onde estão os nove?
+
+[[v42-17-18]]
+
+^<<v42-17-18,18>>^ Não houve, porventura, quem voltasse para dar glória a Deus, senão este estrangeiro?
+
+[[v42-17-19]]
+
+^<<v42-17-19,19>>^ E disse-lhe: Levanta-te e vai; a tua fé te salvou.
+
+[[v42-17-20]]
+
+^<<v42-17-20,20>>^ Interrogado pelos fariseus sobre quando viria o reino de Deus, Jesus lhes respondeu: Não vem o reino de Deus com visível aparência.
+
+[[v42-17-21]]
+
+^<<v42-17-21,21>>^ Nem dirão: Ei-lo aqui! Ou: Lá está! Porque o reino de Deus está dentro de vós.
+
+[[v42-17-22]]
+
+^<<v42-17-22,22>>^ A seguir, dirigiu-se aos discípulos: Virá o tempo em que desejareis ver um dos dias do Filho do Homem e não o vereis.
+
+[[v42-17-23]]
+
+^<<v42-17-23,23>>^ E vos dirão: Ei-lo aqui! Ou: Lá está! Não vades nem os sigais;
+
+[[v42-17-24]]
+
+^<<v42-17-24,24>>^ porque assim como o relâmpago, fuzilando, brilha de uma à outra extremidade do céu, assim será, no seu dia, o Filho do Homem.
+
+[[v42-17-25]]
+
+^<<v42-17-25,25>>^ Mas importa que primeiro ele padeça muitas coisas e seja rejeitado por esta geração.
+
+[[v42-17-26]]
+
+^<<v42-17-26,26>>^ Assim como foi nos dias de Noé, será também nos dias do Filho do Homem:
+
+[[v42-17-27]]
+
+^<<v42-17-27,27>>^ comiam, bebiam, casavam e davam-se em casamento, até ao dia em que Noé entrou na arca, e veio o dilúvio e destruiu a todos.
+
+[[v42-17-28]]
+
+^<<v42-17-28,28>>^ O mesmo aconteceu nos dias de Ló: comiam, bebiam, compravam, vendiam, plantavam e edificavam;
+
+[[v42-17-29]]
+
+^<<v42-17-29,29>>^ mas, no dia em que Ló saiu de Sodoma, choveu do céu fogo e enxofre e destruiu a todos.
+
+[[v42-17-30]]
+
+^<<v42-17-30,30>>^ Assim será no dia em que o Filho do Homem se manifestar.
+
+[[v42-17-31]]
+
+^<<v42-17-31,31>>^ Naquele dia, quem estiver no eirado e tiver os seus bens em casa não desça para tirá-los; e de igual modo quem estiver no campo não volte para trás.
+
+[[v42-17-32]]
+
+^<<v42-17-32,32>>^ Lembrai-vos da mulher de Ló.
+
+[[v42-17-33]]
+
+^<<v42-17-33,33>>^ Quem quiser preservar a sua vida perdê-la-á; e quem a perder de fato a salvará.
+
+[[v42-17-34]]
+
+^<<v42-17-34,34>>^ Digo-vos que, naquela noite, dois estarão numa cama; um será tomado, e deixado o outro;
+
+[[v42-17-35]]
+
+^<<v42-17-35,35>>^ duas mulheres estarão juntas moendo; uma será tomada, e deixada a outra.
+
+[[v42-17-36]]
+
+^<<v42-17-36,36>>^ [Dois estarão no campo; um será tomado, e o outro, deixado.]
+
+[[v42-17-37]]
+
+^<<v42-17-37,37>>^ Então, lhe perguntaram: Onde será isso, Senhor? Respondeu-lhes: Onde estiver o corpo, aí se ajuntarão também os abutres.
+
+'''
+
+xref:042-lucas/042-lucas-016.adoc#v42-16-0[&#60; Capítulo Anterior] | <<v42-17-0,Topo>> | xref:042-lucas/042-lucas-018.adoc#v42-18-0[Próximo Capítulo &#62;]

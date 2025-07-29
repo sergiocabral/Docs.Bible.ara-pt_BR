@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-25-0]]
+=== Provérbios, 25
+// ara ?, ARA - Almeida Revista e Atualizada
+
+[[v20-25-1]]
+
+^<<v20-25-1,1>>^ São também estes provérbios de Salomão, os quais transcreveram os homens de Ezequias, rei de Judá.
+
+[[v20-25-2]]
+
+^<<v20-25-2,2>>^ A glória de Deus é encobrir as coisas, mas a glória dos reis é esquadrinhá-las.
+
+[[v20-25-3]]
+
+^<<v20-25-3,3>>^ Como a altura dos céus e a profundeza da terra, assim o coração dos reis é insondável.
+
+[[v20-25-4]]
+
+^<<v20-25-4,4>>^ Tira da prata a escória, e sairá vaso para o ourives;
+
+[[v20-25-5]]
+
+^<<v20-25-5,5>>^ tira o perverso da presença do rei, e o seu trono se firmará na justiça.
+
+[[v20-25-6]]
+
+^<<v20-25-6,6>>^ Não te glories na presença do rei, nem te ponhas no meio dos grandes;
+
+[[v20-25-7]]
+
+^<<v20-25-7,7>>^ porque melhor é que te digam: Sobe para aqui!, do que seres humilhado diante do príncipe. A respeito do que os teus olhos viram,
+
+[[v20-25-8]]
+
+^<<v20-25-8,8>>^ não te apresses a litigar, pois, ao fim, que farás, quando o teu próximo te puser em apuros?
+
+[[v20-25-9]]
+
+^<<v20-25-9,9>>^ Pleiteia a tua causa diretamente com o teu próximo e não descubras o segredo de outrem;
+
+[[v20-25-10]]
+
+^<<v20-25-10,10>>^ para que não te vitupere aquele que te ouvir, e não se te apegue a tua infâmia.
+
+[[v20-25-11]]
+
+^<<v20-25-11,11>>^ Como maçãs de ouro em salvas de prata, assim é a palavra dita a seu tempo.
+
+[[v20-25-12]]
+
+^<<v20-25-12,12>>^ Como pendentes e joias de ouro puro, assim é o sábio repreensor para o ouvido atento.
+
+[[v20-25-13]]
+
+^<<v20-25-13,13>>^ Como o frescor de neve no tempo da ceifa, assim é o mensageiro fiel para com os que o enviam, porque refrigera a alma dos seus senhores.
+
+[[v20-25-14]]
+
+^<<v20-25-14,14>>^ Como nuvens e ventos que não trazem chuva, assim é o homem que se gaba de dádivas que não fez.
+
+[[v20-25-15]]
+
+^<<v20-25-15,15>>^ A longanimidade persuade o príncipe, e a língua branda esmaga ossos.
+
+[[v20-25-16]]
+
+^<<v20-25-16,16>>^ Achaste mel? Come apenas o que te basta, para que não te fartes dele e venhas a vomitá-lo.
+
+[[v20-25-17]]
+
+^<<v20-25-17,17>>^ Não sejas frequente na casa do teu próximo, para que não se enfade de ti e te aborreça.
+
+[[v20-25-18]]
+
+^<<v20-25-18,18>>^ Maça, espada e flecha aguda é o homem que levanta falso testemunho contra o seu próximo.
+
+[[v20-25-19]]
+
+^<<v20-25-19,19>>^ Como dente quebrado e pé sem firmeza, assim é a confiança no desleal, no tempo da angústia.
+
+[[v20-25-20]]
+
+^<<v20-25-20,20>>^ Como quem se despe num dia de frio e como vinagre sobre feridas, assim é o que entoa canções junto ao coração aflito.
+
+[[v20-25-21]]
+
+^<<v20-25-21,21>>^ Se o que te aborrece tiver fome, dá-lhe pão para comer; se tiver sede, dá-lhe água para beber,
+
+[[v20-25-22]]
+
+^<<v20-25-22,22>>^ porque assim amontoarás brasas vivas sobre a sua cabeça, e o SENHOR te retribuirá.
+
+[[v20-25-23]]
+
+^<<v20-25-23,23>>^ O vento norte traz chuva, e a língua fingida, o rosto irado.
+
+[[v20-25-24]]
+
+^<<v20-25-24,24>>^ Melhor é morar no canto do eirado do que junto com a mulher rixosa na mesma casa.
+
+[[v20-25-25]]
+
+^<<v20-25-25,25>>^ Como água fria para o sedento, tais são as boas-novas vindas de um país remoto.
+
+[[v20-25-26]]
+
+^<<v20-25-26,26>>^ Como fonte que foi turvada e manancial corrupto, assim é o justo que cede ao perverso.
+
+[[v20-25-27]]
+
+^<<v20-25-27,27>>^ Comer muito mel não é bom; assim, procurar a própria honra não é honra.
+
+[[v20-25-28]]
+
+^<<v20-25-28,28>>^ Como cidade derribada, que não tem muros, assim é o homem que não tem domínio próprio.
+
+'''
+
+xref:020-proverbios/020-proverbios-024.adoc#v20-24-0[&#60; Capítulo Anterior] | <<v20-25-0,Topo>> | xref:020-proverbios/020-proverbios-026.adoc#v20-26-0[Próximo Capítulo &#62;]
