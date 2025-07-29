@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: Almeida Revista e Atualizada (ara, pt_BR, 1959)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://ara-pt-br.bible.raciocinios.com.br/
 
 ---
 

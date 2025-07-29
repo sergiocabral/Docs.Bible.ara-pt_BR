@@ -1,4 +1,75 @@
-= Bem-vindo!
+= Bem-vindo
 
-Aqui você encontra uma ou mais traduções da Bíblia organizadas de forma clara e acessível.
-Este espaço foi feito para facilitar a leitura e o compartilhamento das Escrituras.
+[cols="1h,3", options="header"]
+|===
+2+|📚 *Sobre esta tradução da Bíblia* +
+🔗 xref:bible:001-genesis/001-genesis-001.adoc[]
+
+|📛 Sigla   |ara
+|🌐 Idioma  |Português (Brasil)
+|📅 Ano     |1993 (2ª edição)
+|📖 Título  |Almeida Revista e Atualizada
+|===
+
+A *Almeida Revista e Atualizada* (sigla: **ARA**) é uma das traduções mais influentes da Bíblia em português do Brasil. Foi publicada pela *Sociedade Bíblica do Brasil (SBB)* em **1959**, com uma revisão oficial lançada em **1993**.
+
+É baseada na linha tradicional de traduções de João Ferreira de Almeida, com modernização da linguagem, respeitando o texto original.
+
+== Base textual
+
+* **Antigo Testamento**: Texto Massorético (com influência da Tradução Brasileira de 1917)
+* **Novo Testamento**: Texto Crítico – Nestlé-Aland (diferente da ARC e ACF, que usam o Textus Receptus)
+
+== Método de tradução
+
+* Princípio de **equivalência formal moderada**: preserva a estrutura original, com linguagem atualizada.
+* Reduz expressões arcaicas e ambíguas, melhorando a fluidez.
+* Palavras ausentes no original são indicadas em itálico.
+* O tetragrama (YHWH) é representado como **SENHOR** em caixa alta.
+
+== Histórico editorial
+
+1. 1943–1956 — Revisão conduzida por uma comissão da SBB.
+2. 1959 — Lançamento oficial da 1ª edição.
+3. 1993 — Publicação da 2ª edição com melhorias gramaticais, ortográficas e estilísticas.
+4. Pós-2009 — Aplicação do Acordo Ortográfico em versões digitais e impressas mais recentes.
+
+== Características da ARA
+
+* Linguagem mais natural e fluente, sem perder reverência.
+* Uso de “você” é evitado; mantém “tu” e “vós” em linguagem bíblica.
+* Formatação poética preservada (ex: Salmos com indentação).
+* Adota unidades métricas e equivalentes modernos em notas de rodapé.
+* Trechos com dúvidas textuais são marcados entre colchetes (ex: 1 João 5:7-8).
+
+== Diferenças em relação à ARC
+
+* Aproximadamente 30% do vocabulário foi modernizado.
+* Base textual diferente: a ARA segue o texto crítico no Novo Testamento.
+* A ARC mantém forma arcaica e é baseada no Textus Receptus.
+
+== Exemplos comparativos
+
+* *Salmo 37:5*  
+  - ARC: "Entrega o teu caminho ao SENHOR; confia nele, e ele tudo fará."  
+  - ARA: "Entrega o teu caminho ao SENHOR, confia nele, e o mais ele fará."
+
+* *Mateus 6:9*  
+  - ARA: "Pai nosso, que estás nos céus, santificado seja o teu nome."  
+  - ACF/ARC pode apresentar pontuação e ordem ligeiramente distintas.
+
+== Fontes e referências
+
+* Bíblia Online – ARA: https://www.bibliaonline.com.br/ara
+* Sociedade Bíblica do Brasil: https://www.sbb.org.br/almeida-revista-e-atualizada
+* Wikipédia – ARA: https://pt.wikipedia.org/wiki/Almeida_Revista_e_Atualizada
+* Comparação ARA x ARC (Scribd): https://pt.scribd.com/document/685850361/DIFERENCAS-ENTRE-A-REVISTA-E-ATUALIZADA-E-A-REVISTA-E-CORRIGIDA
+* Estudo comparativo informal: https://ocristaopentecostal.wordpress.com/2021/07/30/a-antiga-e-a-nova-almeida-atualizada
+
+== Observações finais
+
+* A sigla **ARA** é amplamente adotada por edições impressas, sites e leitores.
+* É uma das versões mais equilibradas entre fidelidade ao original e legibilidade moderna.
+* Indicada para uso pessoal, leitura em público e estudo bíblico sistemático.
+
+:include: https://www.raciocinios.com.br/support-projects.adoc
